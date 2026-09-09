@@ -2,7 +2,7 @@
   "version": 1,
   "startForwardDate": "2026-09-09",
   "initialCapital": 10000000,
-  "updatedAtWITA": "2026-09-09 10:44 WITA",
+  "updatedAtWITA": "2026-09-09 17:04 WITA",
   "portfolios": {
     "AADI": {
       "D_TREND_MA20_GT_MA50": {
@@ -557,7 +557,7 @@
         "costBasis": 0.0,
         "entryDate": null,
         "entryPrice": null,
-        "pendingBuySignalDate": null,
+        "pendingBuySignalDate": "2026-09-09",
         "pendingExitSignalDate": null,
         "trades": []
       },
@@ -567,7 +567,7 @@
         "costBasis": 0.0,
         "entryDate": null,
         "entryPrice": null,
-        "pendingBuySignalDate": null,
+        "pendingBuySignalDate": "2026-09-09",
         "pendingExitSignalDate": null,
         "trades": []
       },
@@ -577,7 +577,7 @@
         "costBasis": 0.0,
         "entryDate": null,
         "entryPrice": null,
-        "pendingBuySignalDate": null,
+        "pendingBuySignalDate": "2026-09-09",
         "pendingExitSignalDate": null,
         "trades": []
       },
@@ -587,7 +587,7 @@
         "costBasis": 0.0,
         "entryDate": null,
         "entryPrice": null,
-        "pendingBuySignalDate": null,
+        "pendingBuySignalDate": "2026-09-09",
         "pendingExitSignalDate": null,
         "trades": []
       }
@@ -1691,7 +1691,7 @@
         "costBasis": 0.0,
         "entryDate": null,
         "entryPrice": null,
-        "pendingBuySignalDate": null,
+        "pendingBuySignalDate": "2026-09-09",
         "pendingExitSignalDate": null,
         "trades": []
       },
@@ -1701,7 +1701,7 @@
         "costBasis": 0.0,
         "entryDate": null,
         "entryPrice": null,
-        "pendingBuySignalDate": null,
+        "pendingBuySignalDate": "2026-09-09",
         "pendingExitSignalDate": null,
         "trades": []
       },
@@ -1711,7 +1711,7 @@
         "costBasis": 0.0,
         "entryDate": null,
         "entryPrice": null,
-        "pendingBuySignalDate": null,
+        "pendingBuySignalDate": "2026-09-09",
         "pendingExitSignalDate": null,
         "trades": []
       },
@@ -1721,7 +1721,7 @@
         "costBasis": 0.0,
         "entryDate": null,
         "entryPrice": null,
-        "pendingBuySignalDate": null,
+        "pendingBuySignalDate": "2026-09-09",
         "pendingExitSignalDate": null,
         "trades": []
       }
@@ -4589,7 +4589,7 @@
         "costBasis": 0.0,
         "entryDate": null,
         "entryPrice": null,
-        "pendingBuySignalDate": null,
+        "pendingBuySignalDate": "2026-09-09",
         "pendingExitSignalDate": null,
         "trades": []
       },
@@ -4599,7 +4599,7 @@
         "costBasis": 0.0,
         "entryDate": null,
         "entryPrice": null,
-        "pendingBuySignalDate": null,
+        "pendingBuySignalDate": "2026-09-09",
         "pendingExitSignalDate": null,
         "trades": []
       },
@@ -4609,7 +4609,7 @@
         "costBasis": 0.0,
         "entryDate": null,
         "entryPrice": null,
-        "pendingBuySignalDate": null,
+        "pendingBuySignalDate": "2026-09-09",
         "pendingExitSignalDate": null,
         "trades": []
       },
@@ -4619,7 +4619,7 @@
         "costBasis": 0.0,
         "entryDate": null,
         "entryPrice": null,
-        "pendingBuySignalDate": null,
+        "pendingBuySignalDate": "2026-09-09",
         "pendingExitSignalDate": null,
         "trades": []
       }
@@ -6227,7 +6227,7 @@
         "costBasis": 0.0,
         "entryDate": null,
         "entryPrice": null,
-        "pendingBuySignalDate": null,
+        "pendingBuySignalDate": "2026-09-09",
         "pendingExitSignalDate": null,
         "trades": []
       },
@@ -6237,7 +6237,7 @@
         "costBasis": 0.0,
         "entryDate": null,
         "entryPrice": null,
-        "pendingBuySignalDate": null,
+        "pendingBuySignalDate": "2026-09-09",
         "pendingExitSignalDate": null,
         "trades": []
       },
@@ -6247,7 +6247,7 @@
         "costBasis": 0.0,
         "entryDate": null,
         "entryPrice": null,
-        "pendingBuySignalDate": null,
+        "pendingBuySignalDate": "2026-09-09",
         "pendingExitSignalDate": null,
         "trades": []
       },
@@ -6257,7 +6257,7 @@
         "costBasis": 0.0,
         "entryDate": null,
         "entryPrice": null,
-        "pendingBuySignalDate": null,
+        "pendingBuySignalDate": "2026-09-09",
         "pendingExitSignalDate": null,
         "trades": []
       }
@@ -7025,7 +7025,7 @@
         "costBasis": 0.0,
         "entryDate": null,
         "entryPrice": null,
-        "pendingBuySignalDate": null,
+        "pendingBuySignalDate": "2026-09-09",
         "pendingExitSignalDate": null,
         "trades": []
       },
@@ -7035,7 +7035,7 @@
         "costBasis": 0.0,
         "entryDate": null,
         "entryPrice": null,
-        "pendingBuySignalDate": null,
+        "pendingBuySignalDate": "2026-09-09",
         "pendingExitSignalDate": null,
         "trades": []
       },
@@ -7045,7 +7045,7 @@
         "costBasis": 0.0,
         "entryDate": null,
         "entryPrice": null,
-        "pendingBuySignalDate": null,
+        "pendingBuySignalDate": "2026-09-09",
         "pendingExitSignalDate": null,
         "trades": []
       },
@@ -7055,7 +7055,7 @@
         "costBasis": 0.0,
         "entryDate": null,
         "entryPrice": null,
-        "pendingBuySignalDate": null,
+        "pendingBuySignalDate": "2026-09-09",
         "pendingExitSignalDate": null,
         "trades": []
       }
@@ -7697,7 +7697,7 @@
         "costBasis": 0.0,
         "entryDate": null,
         "entryPrice": null,
-        "pendingBuySignalDate": null,
+        "pendingBuySignalDate": "2026-09-09",
         "pendingExitSignalDate": null,
         "trades": []
       },
@@ -7707,7 +7707,7 @@
         "costBasis": 0.0,
         "entryDate": null,
         "entryPrice": null,
-        "pendingBuySignalDate": null,
+        "pendingBuySignalDate": "2026-09-09",
         "pendingExitSignalDate": null,
         "trades": []
       },
@@ -7717,7 +7717,7 @@
         "costBasis": 0.0,
         "entryDate": null,
         "entryPrice": null,
-        "pendingBuySignalDate": null,
+        "pendingBuySignalDate": "2026-09-09",
         "pendingExitSignalDate": null,
         "trades": []
       },
@@ -7727,7 +7727,7 @@
         "costBasis": 0.0,
         "entryDate": null,
         "entryPrice": null,
-        "pendingBuySignalDate": null,
+        "pendingBuySignalDate": "2026-09-09",
         "pendingExitSignalDate": null,
         "trades": []
       }
