@@ -1,0 +1,10 @@
+{
+  "updatedAtWITA": null,
+  "marketDate": null,
+  "status": "WAITING_FIRST_LIVE_RUN",
+  "newBuy": [],
+  "newExit": [],
+  "pendingExecutions": [],
+  "positions": [],
+  "tickerSnapshots": {}
+}
