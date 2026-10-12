@@ -1,167 +1,10 @@
 {
-  "updatedAtWITA": "2026-10-09 17:07 WITA",
+  "updatedAtWITA": "2026-10-13 02:21 WITA",
   "marketDate": "2026-10-09",
   "status": "UPDATED",
-  "newBuy": [
-    {
-      "ticker": "TRST",
-      "variant": "D_TREND_MA20_GT_MA50",
-      "signalDate": "2026-10-09",
-      "close": 494.0,
-      "macd": 6.017913727506425,
-      "rsi14": 56.632593945756916
-    },
-    {
-      "ticker": "TRST",
-      "variant": "A_BASELINE_MA50",
-      "signalDate": "2026-10-09",
-      "close": 494.0,
-      "macd": 6.017913727506425,
-      "rsi14": 56.632593945756916
-    },
-    {
-      "ticker": "TRST",
-      "variant": "C_EARLY_BUY_MA20_EXIT_MA50",
-      "signalDate": "2026-10-09",
-      "close": 494.0,
-      "macd": 6.017913727506425,
-      "rsi14": 56.632593945756916
-    },
-    {
-      "ticker": "TRST",
-      "variant": "B_MA20_FULL",
-      "signalDate": "2026-10-09",
-      "close": 494.0,
-      "macd": 6.017913727506425,
-      "rsi14": 56.632593945756916
-    }
-  ],
-  "newExit": [
-    {
-      "ticker": "NRCA",
-      "variant": "D_TREND_MA20_GT_MA50",
-      "signalDate": "2026-10-09",
-      "close": 535.0,
-      "entryDate": "2026-09-18",
-      "entryPrice": 610.0
-    },
-    {
-      "ticker": "NRCA",
-      "variant": "A_BASELINE_MA50",
-      "signalDate": "2026-10-09",
-      "close": 535.0,
-      "entryDate": "2026-09-18",
-      "entryPrice": 610.0
-    },
-    {
-      "ticker": "NRCA",
-      "variant": "C_EARLY_BUY_MA20_EXIT_MA50",
-      "signalDate": "2026-10-09",
-      "close": 535.0,
-      "entryDate": "2026-09-18",
-      "entryPrice": 610.0
-    }
-  ],
-  "pendingExecutions": [
-    {
-      "ticker": "ALKA",
-      "variant": "D_TREND_MA20_GT_MA50",
-      "type": "BUY_EXECUTED",
-      "date": "2026-10-09",
-      "price": 8150.0
-    },
-    {
-      "ticker": "ALKA",
-      "variant": "A_BASELINE_MA50",
-      "type": "BUY_EXECUTED",
-      "date": "2026-10-09",
-      "price": 8150.0
-    },
-    {
-      "ticker": "ALKA",
-      "variant": "C_EARLY_BUY_MA20_EXIT_MA50",
-      "type": "BUY_EXECUTED",
-      "date": "2026-10-09",
-      "price": 8150.0
-    },
-    {
-      "ticker": "ALKA",
-      "variant": "B_MA20_FULL",
-      "type": "BUY_EXECUTED",
-      "date": "2026-10-09",
-      "price": 8150.0
-    },
-    {
-      "ticker": "ANTM",
-      "variant": "B_MA20_FULL",
-      "type": "EXIT_EXECUTED",
-      "date": "2026-10-09",
-      "price": 3170.0
-    },
-    {
-      "ticker": "AUTO",
-      "variant": "B_MA20_FULL",
-      "type": "EXIT_EXECUTED",
-      "date": "2026-10-09",
-      "price": 3350.0
-    },
-    {
-      "ticker": "MDKA",
-      "variant": "D_TREND_MA20_GT_MA50",
-      "type": "EXIT_EXECUTED",
-      "date": "2026-10-09",
-      "price": 2890.0
-    },
-    {
-      "ticker": "MDKA",
-      "variant": "A_BASELINE_MA50",
-      "type": "EXIT_EXECUTED",
-      "date": "2026-10-09",
-      "price": 2890.0
-    },
-    {
-      "ticker": "MDKA",
-      "variant": "C_EARLY_BUY_MA20_EXIT_MA50",
-      "type": "EXIT_EXECUTED",
-      "date": "2026-10-09",
-      "price": 2890.0
-    },
-    {
-      "ticker": "POWR",
-      "variant": "B_MA20_FULL",
-      "type": "EXIT_EXECUTED",
-      "date": "2026-10-09",
-      "price": 965.0
-    },
-    {
-      "ticker": "UNTR",
-      "variant": "D_TREND_MA20_GT_MA50",
-      "type": "EXIT_EXECUTED",
-      "date": "2026-10-09",
-      "price": 24500.0
-    },
-    {
-      "ticker": "UNTR",
-      "variant": "A_BASELINE_MA50",
-      "type": "EXIT_EXECUTED",
-      "date": "2026-10-09",
-      "price": 24500.0
-    },
-    {
-      "ticker": "UNTR",
-      "variant": "C_EARLY_BUY_MA20_EXIT_MA50",
-      "type": "EXIT_EXECUTED",
-      "date": "2026-10-09",
-      "price": 24500.0
-    },
-    {
-      "ticker": "UNTR",
-      "variant": "B_MA20_FULL",
-      "type": "EXIT_EXECUTED",
-      "date": "2026-10-09",
-      "price": 24500.0
-    }
-  ],
+  "newBuy": [],
+  "newExit": [],
+  "pendingExecutions": [],
   "positions": [
     {
       "ticker": "AGAR",
@@ -169,9 +12,9 @@
       "entryDate": "2026-09-14",
       "entryPrice": 1935.0,
       "qty": 5160.218328837493,
-      "lastClose": 1785.0,
-      "unrealizedPct": -7.890102830250745,
-      "equityMTM": 9210989.716974925,
+      "lastClose": 1795.0,
+      "unrealizedPct": -7.374080997366994,
+      "equityMTM": 9262591.9002633,
       "pendingExitSignalDate": null
     },
     {
@@ -180,9 +23,9 @@
       "entryDate": "2026-09-14",
       "entryPrice": 1935.0,
       "qty": 5160.218328837493,
-      "lastClose": 1785.0,
-      "unrealizedPct": -7.890102830250745,
-      "equityMTM": 9210989.716974925,
+      "lastClose": 1795.0,
+      "unrealizedPct": -7.374080997366994,
+      "equityMTM": 9262591.9002633,
       "pendingExitSignalDate": null
     },
     {
@@ -191,9 +34,9 @@
       "entryDate": "2026-09-14",
       "entryPrice": 1935.0,
       "qty": 5160.218328837493,
-      "lastClose": 1785.0,
-      "unrealizedPct": -7.890102830250745,
-      "equityMTM": 9210989.716974925,
+      "lastClose": 1795.0,
+      "unrealizedPct": -7.374080997366994,
+      "equityMTM": 9262591.9002633,
       "pendingExitSignalDate": null
     },
     {
@@ -202,9 +45,9 @@
       "entryDate": "2026-09-23",
       "entryPrice": 3010.0,
       "qty": 3076.6011787699267,
-      "lastClose": 1785.0,
-      "unrealizedPct": -40.78649467658977,
-      "equityMTM": 5491733.10410432,
+      "lastClose": 1795.0,
+      "unrealizedPct": -40.454766355450225,
+      "equityMTM": 5522499.115892018,
       "pendingExitSignalDate": null
     },
     {
@@ -213,9 +56,9 @@
       "entryDate": "2026-09-30",
       "entryPrice": 1025.0,
       "qty": 9741.485332976144,
-      "lastClose": 1210.0,
-      "unrealizedPct": 17.87197252901136,
-      "equityMTM": 11787197.252901135,
+      "lastClose": 1200.0,
+      "unrealizedPct": 16.897823995713736,
+      "equityMTM": 11689782.399571374,
       "pendingExitSignalDate": null
     },
     {
@@ -224,9 +67,9 @@
       "entryDate": "2026-09-30",
       "entryPrice": 1025.0,
       "qty": 9741.485332976144,
-      "lastClose": 1210.0,
-      "unrealizedPct": 17.87197252901136,
-      "equityMTM": 11787197.252901135,
+      "lastClose": 1200.0,
+      "unrealizedPct": 16.897823995713736,
+      "equityMTM": 11689782.399571374,
       "pendingExitSignalDate": null
     },
     {
@@ -235,9 +78,9 @@
       "entryDate": "2026-09-30",
       "entryPrice": 1025.0,
       "qty": 9741.485332976144,
-      "lastClose": 1210.0,
-      "unrealizedPct": 17.87197252901136,
-      "equityMTM": 11787197.252901135,
+      "lastClose": 1200.0,
+      "unrealizedPct": 16.897823995713736,
+      "equityMTM": 11689782.399571374,
       "pendingExitSignalDate": null
     },
     {
@@ -246,9 +89,9 @@
       "entryDate": "2026-09-30",
       "entryPrice": 1025.0,
       "qty": 9741.485332976144,
-      "lastClose": 1210.0,
-      "unrealizedPct": 17.87197252901136,
-      "equityMTM": 11787197.252901135,
+      "lastClose": 1200.0,
+      "unrealizedPct": 16.897823995713736,
+      "equityMTM": 11689782.399571374,
       "pendingExitSignalDate": null
     },
     {
@@ -257,9 +100,9 @@
       "entryDate": "2026-10-09",
       "entryPrice": 8150.0,
       "qty": 1225.1561308344233,
-      "lastClose": 7100.0,
-      "unrealizedPct": -13.013914710755948,
-      "equityMTM": 8698608.528924406,
+      "lastClose": 7125.0,
+      "unrealizedPct": -12.707625678047352,
+      "equityMTM": 8729237.432195265,
       "pendingExitSignalDate": null
     },
     {
@@ -268,9 +111,9 @@
       "entryDate": "2026-10-09",
       "entryPrice": 8150.0,
       "qty": 1225.1561308344233,
-      "lastClose": 7100.0,
-      "unrealizedPct": -13.013914710755948,
-      "equityMTM": 8698608.528924406,
+      "lastClose": 7125.0,
+      "unrealizedPct": -12.707625678047352,
+      "equityMTM": 8729237.432195265,
       "pendingExitSignalDate": null
     },
     {
@@ -279,9 +122,9 @@
       "entryDate": "2026-10-09",
       "entryPrice": 8150.0,
       "qty": 1225.1561308344233,
-      "lastClose": 7100.0,
-      "unrealizedPct": -13.013914710755948,
-      "equityMTM": 8698608.528924406,
+      "lastClose": 7125.0,
+      "unrealizedPct": -12.707625678047352,
+      "equityMTM": 8729237.432195265,
       "pendingExitSignalDate": null
     },
     {
@@ -290,9 +133,9 @@
       "entryDate": "2026-10-09",
       "entryPrice": 8150.0,
       "qty": 1225.1561308344233,
-      "lastClose": 7100.0,
-      "unrealizedPct": -13.013914710755948,
-      "equityMTM": 8698608.528924406,
+      "lastClose": 7125.0,
+      "unrealizedPct": -12.707625678047352,
+      "equityMTM": 8729237.432195265,
       "pendingExitSignalDate": null
     },
     {
@@ -301,9 +144,9 @@
       "entryDate": "2026-09-10",
       "entryPrice": 3230.0,
       "qty": 3091.338224860851,
-      "lastClose": 3190.0,
-      "unrealizedPct": -1.3863106269388692,
-      "equityMTM": 9861368.937306114,
+      "lastClose": 3180.0,
+      "unrealizedPct": -1.6954444494249432,
+      "equityMTM": 9830455.555057505,
       "pendingExitSignalDate": null
     },
     {
@@ -312,9 +155,9 @@
       "entryDate": "2026-09-10",
       "entryPrice": 3230.0,
       "qty": 3091.338224860851,
-      "lastClose": 3190.0,
-      "unrealizedPct": -1.3863106269388692,
-      "equityMTM": 9861368.937306114,
+      "lastClose": 3180.0,
+      "unrealizedPct": -1.6954444494249432,
+      "equityMTM": 9830455.555057505,
       "pendingExitSignalDate": null
     },
     {
@@ -323,9 +166,9 @@
       "entryDate": "2026-09-10",
       "entryPrice": 3230.0,
       "qty": 3091.338224860851,
-      "lastClose": 3190.0,
-      "unrealizedPct": -1.3863106269388692,
-      "equityMTM": 9861368.937306114,
+      "lastClose": 3180.0,
+      "unrealizedPct": -1.6954444494249432,
+      "equityMTM": 9830455.555057505,
       "pendingExitSignalDate": null
     },
     {
@@ -334,9 +177,9 @@
       "entryDate": "2026-09-23",
       "entryPrice": 324.0,
       "qty": 30817.970575001695,
-      "lastClose": 422.0,
-      "unrealizedPct": 30.051835826507144,
-      "equityMTM": 13005183.582650715,
+      "lastClose": 420.0,
+      "unrealizedPct": 29.435476415007123,
+      "equityMTM": 12943547.641500711,
       "pendingExitSignalDate": null
     },
     {
@@ -345,9 +188,9 @@
       "entryDate": "2026-09-23",
       "entryPrice": 324.0,
       "qty": 30817.970575001695,
-      "lastClose": 422.0,
-      "unrealizedPct": 30.051835826507144,
-      "equityMTM": 13005183.582650715,
+      "lastClose": 420.0,
+      "unrealizedPct": 29.435476415007123,
+      "equityMTM": 12943547.641500711,
       "pendingExitSignalDate": null
     },
     {
@@ -356,9 +199,9 @@
       "entryDate": "2026-09-23",
       "entryPrice": 324.0,
       "qty": 30817.970575001695,
-      "lastClose": 422.0,
-      "unrealizedPct": 30.051835826507144,
-      "equityMTM": 13005183.582650715,
+      "lastClose": 420.0,
+      "unrealizedPct": 29.435476415007123,
+      "equityMTM": 12943547.641500711,
       "pendingExitSignalDate": null
     },
     {
@@ -367,9 +210,9 @@
       "entryDate": "2026-09-23",
       "entryPrice": 324.0,
       "qty": 30817.970575001695,
-      "lastClose": 422.0,
-      "unrealizedPct": 30.051835826507144,
-      "equityMTM": 13005183.582650715,
+      "lastClose": 420.0,
+      "unrealizedPct": 29.435476415007123,
+      "equityMTM": 12943547.641500711,
       "pendingExitSignalDate": null
     },
     {
@@ -466,9 +309,9 @@
       "entryDate": "2026-10-06",
       "entryPrice": 3480.0,
       "qty": 2869.2593293967093,
-      "lastClose": 3350.0,
-      "unrealizedPct": -3.8798124652102417,
-      "equityMTM": 9612018.753478976,
+      "lastClose": 3370.0,
+      "unrealizedPct": -3.305960599330904,
+      "equityMTM": 9669403.94006691,
       "pendingExitSignalDate": null
     },
     {
@@ -477,9 +320,9 @@
       "entryDate": "2026-10-06",
       "entryPrice": 3480.0,
       "qty": 2869.2593293967093,
-      "lastClose": 3350.0,
-      "unrealizedPct": -3.8798124652102417,
-      "equityMTM": 9612018.753478976,
+      "lastClose": 3370.0,
+      "unrealizedPct": -3.305960599330904,
+      "equityMTM": 9669403.94006691,
       "pendingExitSignalDate": null
     },
     {
@@ -488,9 +331,9 @@
       "entryDate": "2026-10-06",
       "entryPrice": 3480.0,
       "qty": 2869.2593293967093,
-      "lastClose": 3350.0,
-      "unrealizedPct": -3.8798124652102417,
-      "equityMTM": 9612018.753478976,
+      "lastClose": 3370.0,
+      "unrealizedPct": -3.305960599330904,
+      "equityMTM": 9669403.94006691,
       "pendingExitSignalDate": null
     },
     {
@@ -499,9 +342,9 @@
       "entryDate": "2026-09-17",
       "entryPrice": 510.0,
       "qty": 19578.475424118722,
-      "lastClose": 515.0,
-      "unrealizedPct": 0.8291484342114241,
-      "equityMTM": 10082914.843421143,
+      "lastClose": 520.0,
+      "unrealizedPct": 1.808072205417366,
+      "equityMTM": 10180807.220541736,
       "pendingExitSignalDate": null
     },
     {
@@ -510,9 +353,9 @@
       "entryDate": "2026-09-17",
       "entryPrice": 510.0,
       "qty": 19578.475424118722,
-      "lastClose": 515.0,
-      "unrealizedPct": 0.8291484342114241,
-      "equityMTM": 10082914.843421143,
+      "lastClose": 520.0,
+      "unrealizedPct": 1.808072205417366,
+      "equityMTM": 10180807.220541736,
       "pendingExitSignalDate": null
     },
     {
@@ -521,9 +364,9 @@
       "entryDate": "2026-09-17",
       "entryPrice": 510.0,
       "qty": 19578.475424118722,
-      "lastClose": 515.0,
-      "unrealizedPct": 0.8291484342114241,
-      "equityMTM": 10082914.843421143,
+      "lastClose": 520.0,
+      "unrealizedPct": 1.808072205417366,
+      "equityMTM": 10180807.220541736,
       "pendingExitSignalDate": null
     },
     {
@@ -532,9 +375,9 @@
       "entryDate": "2026-09-17",
       "entryPrice": 510.0,
       "qty": 19578.475424118722,
-      "lastClose": 515.0,
-      "unrealizedPct": 0.8291484342114241,
-      "equityMTM": 10082914.843421143,
+      "lastClose": 520.0,
+      "unrealizedPct": 1.808072205417366,
+      "equityMTM": 10180807.220541736,
       "pendingExitSignalDate": null
     },
     {
@@ -609,9 +452,9 @@
       "entryDate": "2026-09-21",
       "entryPrice": 206.0,
       "qty": 48470.98284611917,
-      "lastClose": 161.0,
-      "unrealizedPct": -21.961717617748132,
-      "equityMTM": 7803828.238225186,
+      "lastClose": 162.0,
+      "unrealizedPct": -21.47700778928694,
+      "equityMTM": 7852299.221071306,
       "pendingExitSignalDate": null
     },
     {
@@ -620,9 +463,9 @@
       "entryDate": "2026-09-21",
       "entryPrice": 206.0,
       "qty": 48470.98284611917,
-      "lastClose": 161.0,
-      "unrealizedPct": -21.961717617748132,
-      "equityMTM": 7803828.238225186,
+      "lastClose": 162.0,
+      "unrealizedPct": -21.47700778928694,
+      "equityMTM": 7852299.221071306,
       "pendingExitSignalDate": null
     },
     {
@@ -631,9 +474,9 @@
       "entryDate": "2026-09-21",
       "entryPrice": 206.0,
       "qty": 48470.98284611917,
-      "lastClose": 161.0,
-      "unrealizedPct": -21.961717617748132,
-      "equityMTM": 7803828.238225186,
+      "lastClose": 162.0,
+      "unrealizedPct": -21.47700778928694,
+      "equityMTM": 7852299.221071306,
       "pendingExitSignalDate": null
     },
     {
@@ -686,9 +529,9 @@
       "entryDate": "2026-10-05",
       "entryPrice": 1480.0,
       "qty": 6746.636801554425,
-      "lastClose": 1420.0,
-      "unrealizedPct": -4.1977574179271615,
-      "equityMTM": 9580224.258207284,
+      "lastClose": 1415.0,
+      "unrealizedPct": -4.535089258004888,
+      "equityMTM": 9546491.07419951,
       "pendingExitSignalDate": null
     },
     {
@@ -697,9 +540,9 @@
       "entryDate": "2026-10-05",
       "entryPrice": 1480.0,
       "qty": 6746.636801554425,
-      "lastClose": 1420.0,
-      "unrealizedPct": -4.1977574179271615,
-      "equityMTM": 9580224.258207284,
+      "lastClose": 1415.0,
+      "unrealizedPct": -4.535089258004888,
+      "equityMTM": 9546491.07419951,
       "pendingExitSignalDate": null
     },
     {
@@ -708,9 +551,9 @@
       "entryDate": "2026-10-05",
       "entryPrice": 1480.0,
       "qty": 6746.636801554425,
-      "lastClose": 1420.0,
-      "unrealizedPct": -4.1977574179271615,
-      "equityMTM": 9580224.258207284,
+      "lastClose": 1415.0,
+      "unrealizedPct": -4.535089258004888,
+      "equityMTM": 9546491.07419951,
       "pendingExitSignalDate": null
     },
     {
@@ -719,9 +562,9 @@
       "entryDate": "2026-10-05",
       "entryPrice": 1480.0,
       "qty": 6746.636801554425,
-      "lastClose": 1420.0,
-      "unrealizedPct": -4.1977574179271615,
-      "equityMTM": 9580224.258207284,
+      "lastClose": 1415.0,
+      "unrealizedPct": -4.535089258004888,
+      "equityMTM": 9546491.07419951,
       "pendingExitSignalDate": null
     },
     {
@@ -730,9 +573,9 @@
       "entryDate": "2026-09-11",
       "entryPrice": 400.0,
       "qty": 24962.55616575137,
-      "lastClose": 278.0,
-      "unrealizedPct": -30.60409385921119,
-      "equityMTM": 6939590.614078881,
+      "lastClose": 270.0,
+      "unrealizedPct": -32.60109835247129,
+      "equityMTM": 6739890.164752871,
       "pendingExitSignalDate": null
     },
     {
@@ -741,9 +584,9 @@
       "entryDate": "2026-09-11",
       "entryPrice": 400.0,
       "qty": 24962.55616575137,
-      "lastClose": 278.0,
-      "unrealizedPct": -30.60409385921119,
-      "equityMTM": 6939590.614078881,
+      "lastClose": 270.0,
+      "unrealizedPct": -32.60109835247129,
+      "equityMTM": 6739890.164752871,
       "pendingExitSignalDate": null
     },
     {
@@ -752,9 +595,9 @@
       "entryDate": "2026-09-11",
       "entryPrice": 400.0,
       "qty": 24962.55616575137,
-      "lastClose": 278.0,
-      "unrealizedPct": -30.60409385921119,
-      "equityMTM": 6939590.614078881,
+      "lastClose": 270.0,
+      "unrealizedPct": -32.60109835247129,
+      "equityMTM": 6739890.164752871,
       "pendingExitSignalDate": null
     },
     {
@@ -763,9 +606,9 @@
       "entryDate": "2026-09-11",
       "entryPrice": 400.0,
       "qty": 24962.55616575137,
-      "lastClose": 278.0,
-      "unrealizedPct": -30.60409385921119,
-      "equityMTM": 6939590.614078881,
+      "lastClose": 270.0,
+      "unrealizedPct": -32.60109835247129,
+      "equityMTM": 6739890.164752871,
       "pendingExitSignalDate": null
     },
     {
@@ -818,9 +661,9 @@
       "entryDate": "2026-09-22",
       "entryPrice": 338.0,
       "qty": 29541.486586688014,
-      "lastClose": 364.0,
-      "unrealizedPct": 7.531011175544378,
-      "equityMTM": 10753101.117554437,
+      "lastClose": 366.0,
+      "unrealizedPct": 8.121840907278145,
+      "equityMTM": 10812184.090727814,
       "pendingExitSignalDate": null
     },
     {
@@ -829,9 +672,9 @@
       "entryDate": "2026-09-22",
       "entryPrice": 338.0,
       "qty": 29541.486586688014,
-      "lastClose": 364.0,
-      "unrealizedPct": 7.531011175544378,
-      "equityMTM": 10753101.117554437,
+      "lastClose": 366.0,
+      "unrealizedPct": 8.121840907278145,
+      "equityMTM": 10812184.090727814,
       "pendingExitSignalDate": null
     },
     {
@@ -840,9 +683,9 @@
       "entryDate": "2026-09-22",
       "entryPrice": 338.0,
       "qty": 29541.486586688014,
-      "lastClose": 364.0,
-      "unrealizedPct": 7.531011175544378,
-      "equityMTM": 10753101.117554437,
+      "lastClose": 366.0,
+      "unrealizedPct": 8.121840907278145,
+      "equityMTM": 10812184.090727814,
       "pendingExitSignalDate": null
     },
     {
@@ -851,9 +694,9 @@
       "entryDate": "2026-09-22",
       "entryPrice": 338.0,
       "qty": 29541.486586688014,
-      "lastClose": 364.0,
-      "unrealizedPct": 7.531011175544378,
-      "equityMTM": 10753101.117554437,
+      "lastClose": 366.0,
+      "unrealizedPct": 8.121840907278145,
+      "equityMTM": 10812184.090727814,
       "pendingExitSignalDate": null
     },
     {
@@ -928,9 +771,9 @@
       "entryDate": "2026-09-24",
       "entryPrice": 2310.0,
       "qty": 4322.520548182056,
-      "lastClose": 2170.0,
-      "unrealizedPct": -6.20130410444939,
-      "equityMTM": 9379869.58955506,
+      "lastClose": 2180.0,
+      "unrealizedPct": -5.769052049631174,
+      "equityMTM": 9423094.795036882,
       "pendingExitSignalDate": null
     },
     {
@@ -939,9 +782,9 @@
       "entryDate": "2026-09-24",
       "entryPrice": 2310.0,
       "qty": 4322.520548182056,
-      "lastClose": 2170.0,
-      "unrealizedPct": -6.20130410444939,
-      "equityMTM": 9379869.58955506,
+      "lastClose": 2180.0,
+      "unrealizedPct": -5.769052049631174,
+      "equityMTM": 9423094.795036882,
       "pendingExitSignalDate": null
     },
     {
@@ -950,9 +793,9 @@
       "entryDate": "2026-09-24",
       "entryPrice": 2310.0,
       "qty": 4322.520548182056,
-      "lastClose": 2170.0,
-      "unrealizedPct": -6.20130410444939,
-      "equityMTM": 9379869.58955506,
+      "lastClose": 2180.0,
+      "unrealizedPct": -5.769052049631174,
+      "equityMTM": 9423094.795036882,
       "pendingExitSignalDate": null
     },
     {
@@ -1005,9 +848,9 @@
       "entryDate": "2026-09-22",
       "entryPrice": 460.0,
       "qty": 21706.570578914238,
-      "lastClose": 306.0,
-      "unrealizedPct": -33.57789402852244,
-      "equityMTM": 6642210.597147756,
+      "lastClose": 302.0,
+      "unrealizedPct": -34.446156851679,
+      "equityMTM": 6555384.3148321,
       "pendingExitSignalDate": null
     },
     {
@@ -1016,9 +859,9 @@
       "entryDate": "2026-09-22",
       "entryPrice": 460.0,
       "qty": 21706.570578914238,
-      "lastClose": 306.0,
-      "unrealizedPct": -33.57789402852244,
-      "equityMTM": 6642210.597147756,
+      "lastClose": 302.0,
+      "unrealizedPct": -34.446156851679,
+      "equityMTM": 6555384.3148321,
       "pendingExitSignalDate": null
     },
     {
@@ -1027,9 +870,9 @@
       "entryDate": "2026-09-22",
       "entryPrice": 460.0,
       "qty": 21706.570578914238,
-      "lastClose": 306.0,
-      "unrealizedPct": -33.57789402852244,
-      "equityMTM": 6642210.597147756,
+      "lastClose": 302.0,
+      "unrealizedPct": -34.446156851679,
+      "equityMTM": 6555384.3148321,
       "pendingExitSignalDate": null
     },
     {
@@ -1192,9 +1035,9 @@
       "entryDate": "2026-09-11",
       "entryPrice": 1110.0,
       "qty": 8995.5157354059,
-      "lastClose": 1180.0,
-      "unrealizedPct": 6.14708567778961,
-      "equityMTM": 10614708.567778962,
+      "lastClose": 1175.0,
+      "unrealizedPct": 5.697309891019309,
+      "equityMTM": 10569730.989101931,
       "pendingExitSignalDate": null
     },
     {
@@ -1203,9 +1046,9 @@
       "entryDate": "2026-09-11",
       "entryPrice": 1110.0,
       "qty": 8995.5157354059,
-      "lastClose": 1180.0,
-      "unrealizedPct": 6.14708567778961,
-      "equityMTM": 10614708.567778962,
+      "lastClose": 1175.0,
+      "unrealizedPct": 5.697309891019309,
+      "equityMTM": 10569730.989101931,
       "pendingExitSignalDate": null
     },
     {
@@ -1214,9 +1057,9 @@
       "entryDate": "2026-09-11",
       "entryPrice": 1110.0,
       "qty": 8995.5157354059,
-      "lastClose": 1180.0,
-      "unrealizedPct": 6.14708567778961,
-      "equityMTM": 10614708.567778962,
+      "lastClose": 1175.0,
+      "unrealizedPct": 5.697309891019309,
+      "equityMTM": 10569730.989101931,
       "pendingExitSignalDate": null
     },
     {
@@ -1225,9 +1068,9 @@
       "entryDate": "2026-09-11",
       "entryPrice": 1110.0,
       "qty": 8995.5157354059,
-      "lastClose": 1180.0,
-      "unrealizedPct": 6.14708567778961,
-      "equityMTM": 10614708.567778962,
+      "lastClose": 1175.0,
+      "unrealizedPct": 5.697309891019309,
+      "equityMTM": 10569730.989101931,
       "pendingExitSignalDate": null
     },
     {
@@ -1280,9 +1123,9 @@
       "entryDate": "2026-09-10",
       "entryPrice": 1420.0,
       "qty": 7031.705962183485,
-      "lastClose": 1325.0,
-      "unrealizedPct": -6.829896001068825,
-      "equityMTM": 9317010.399893118,
+      "lastClose": 1320.0,
+      "unrealizedPct": -7.181481299178005,
+      "equityMTM": 9281851.8700822,
       "pendingExitSignalDate": null
     },
     {
@@ -1291,9 +1134,9 @@
       "entryDate": "2026-09-10",
       "entryPrice": 1420.0,
       "qty": 7031.705962183485,
-      "lastClose": 1325.0,
-      "unrealizedPct": -6.829896001068825,
-      "equityMTM": 9317010.399893118,
+      "lastClose": 1320.0,
+      "unrealizedPct": -7.181481299178005,
+      "equityMTM": 9281851.8700822,
       "pendingExitSignalDate": null
     },
     {
@@ -1302,9 +1145,9 @@
       "entryDate": "2026-09-10",
       "entryPrice": 1420.0,
       "qty": 7031.705962183485,
-      "lastClose": 1325.0,
-      "unrealizedPct": -6.829896001068825,
-      "equityMTM": 9317010.399893118,
+      "lastClose": 1320.0,
+      "unrealizedPct": -7.181481299178005,
+      "equityMTM": 9281851.8700822,
       "pendingExitSignalDate": null
     },
     {
@@ -1313,9 +1156,9 @@
       "entryDate": "2026-09-22",
       "entryPrice": 780.0,
       "qty": 12801.310854231473,
-      "lastClose": 855.0,
-      "unrealizedPct": 9.451207803679097,
-      "equityMTM": 10945120.780367909,
+      "lastClose": 850.0,
+      "unrealizedPct": 8.81114226096753,
+      "equityMTM": 10881114.226096753,
       "pendingExitSignalDate": null
     },
     {
@@ -1324,9 +1167,9 @@
       "entryDate": "2026-09-22",
       "entryPrice": 780.0,
       "qty": 12801.310854231473,
-      "lastClose": 855.0,
-      "unrealizedPct": 9.451207803679097,
-      "equityMTM": 10945120.780367909,
+      "lastClose": 850.0,
+      "unrealizedPct": 8.81114226096753,
+      "equityMTM": 10881114.226096753,
       "pendingExitSignalDate": null
     },
     {
@@ -1335,9 +1178,9 @@
       "entryDate": "2026-09-22",
       "entryPrice": 780.0,
       "qty": 12801.310854231473,
-      "lastClose": 855.0,
-      "unrealizedPct": 9.451207803679097,
-      "equityMTM": 10945120.780367909,
+      "lastClose": 850.0,
+      "unrealizedPct": 8.81114226096753,
+      "equityMTM": 10881114.226096753,
       "pendingExitSignalDate": null
     },
     {
@@ -1346,9 +1189,9 @@
       "entryDate": "2026-09-22",
       "entryPrice": 780.0,
       "qty": 12801.310854231473,
-      "lastClose": 855.0,
-      "unrealizedPct": 9.451207803679097,
-      "equityMTM": 10945120.780367909,
+      "lastClose": 850.0,
+      "unrealizedPct": 8.81114226096753,
+      "equityMTM": 10881114.226096753,
       "pendingExitSignalDate": null
     },
     {
@@ -1357,9 +1200,9 @@
       "entryDate": "2026-09-18",
       "entryPrice": 610.0,
       "qty": 16368.889289017294,
-      "lastClose": 535.0,
-      "unrealizedPct": -12.42644230375748,
-      "equityMTM": 8757355.769624252,
+      "lastClose": 530.0,
+      "unrealizedPct": -13.244886768208353,
+      "equityMTM": 8675511.323179165,
       "pendingExitSignalDate": "2026-10-09"
     },
     {
@@ -1368,9 +1211,9 @@
       "entryDate": "2026-09-18",
       "entryPrice": 610.0,
       "qty": 16368.889289017294,
-      "lastClose": 535.0,
-      "unrealizedPct": -12.42644230375748,
-      "equityMTM": 8757355.769624252,
+      "lastClose": 530.0,
+      "unrealizedPct": -13.244886768208353,
+      "equityMTM": 8675511.323179165,
       "pendingExitSignalDate": "2026-10-09"
     },
     {
@@ -1379,9 +1222,9 @@
       "entryDate": "2026-09-18",
       "entryPrice": 610.0,
       "qty": 16368.889289017294,
-      "lastClose": 535.0,
-      "unrealizedPct": -12.42644230375748,
-      "equityMTM": 8757355.769624252,
+      "lastClose": 530.0,
+      "unrealizedPct": -13.244886768208353,
+      "equityMTM": 8675511.323179165,
       "pendingExitSignalDate": "2026-10-09"
     },
     {
@@ -1434,9 +1277,9 @@
       "entryDate": "2026-09-10",
       "entryPrice": 1005.0,
       "qty": 9935.345737612486,
-      "lastClose": 950.0,
-      "unrealizedPct": -5.614215492681374,
-      "equityMTM": 9438578.450731862,
+      "lastClose": 955.0,
+      "unrealizedPct": -5.117448205800768,
+      "equityMTM": 9488255.179419924,
       "pendingExitSignalDate": null
     },
     {
@@ -1445,9 +1288,9 @@
       "entryDate": "2026-09-10",
       "entryPrice": 1005.0,
       "qty": 9935.345737612486,
-      "lastClose": 950.0,
-      "unrealizedPct": -5.614215492681374,
-      "equityMTM": 9438578.450731862,
+      "lastClose": 955.0,
+      "unrealizedPct": -5.117448205800768,
+      "equityMTM": 9488255.179419924,
       "pendingExitSignalDate": null
     },
     {
@@ -1456,9 +1299,9 @@
       "entryDate": "2026-09-10",
       "entryPrice": 1005.0,
       "qty": 9935.345737612486,
-      "lastClose": 950.0,
-      "unrealizedPct": -5.614215492681374,
-      "equityMTM": 9438578.450731862,
+      "lastClose": 955.0,
+      "unrealizedPct": -5.117448205800768,
+      "equityMTM": 9488255.179419924,
       "pendingExitSignalDate": null
     },
     {
@@ -1511,9 +1354,9 @@
       "entryDate": "2026-10-06",
       "entryPrice": 3280.0,
       "qty": 3044.2141665550453,
-      "lastClose": 3320.0,
-      "unrealizedPct": 1.0679103296274972,
-      "equityMTM": 10106791.03296275,
+      "lastClose": 3300.0,
+      "unrealizedPct": 0.4590674963164787,
+      "equityMTM": 10045906.749631649,
       "pendingExitSignalDate": null
     },
     {
@@ -1522,9 +1365,9 @@
       "entryDate": "2026-10-06",
       "entryPrice": 3280.0,
       "qty": 3044.2141665550453,
-      "lastClose": 3320.0,
-      "unrealizedPct": 1.0679103296274972,
-      "equityMTM": 10106791.03296275,
+      "lastClose": 3300.0,
+      "unrealizedPct": 0.4590674963164787,
+      "equityMTM": 10045906.749631649,
       "pendingExitSignalDate": null
     },
     {
@@ -1533,9 +1376,9 @@
       "entryDate": "2026-10-06",
       "entryPrice": 3280.0,
       "qty": 3044.2141665550453,
-      "lastClose": 3320.0,
-      "unrealizedPct": 1.0679103296274972,
-      "equityMTM": 10106791.03296275,
+      "lastClose": 3300.0,
+      "unrealizedPct": 0.4590674963164787,
+      "equityMTM": 10045906.749631649,
       "pendingExitSignalDate": null
     },
     {
@@ -1544,9 +1387,9 @@
       "entryDate": "2026-10-06",
       "entryPrice": 3280.0,
       "qty": 3044.2141665550453,
-      "lastClose": 3320.0,
-      "unrealizedPct": 1.0679103296274972,
-      "equityMTM": 10106791.03296275,
+      "lastClose": 3300.0,
+      "unrealizedPct": 0.4590674963164787,
+      "equityMTM": 10045906.749631649,
       "pendingExitSignalDate": null
     },
     {
@@ -1555,9 +1398,9 @@
       "entryDate": "2026-09-14",
       "entryPrice": 400.0,
       "qty": 24962.55616575137,
-      "lastClose": 376.0,
-      "unrealizedPct": -6.140788816774845,
-      "equityMTM": 9385921.118322516,
+      "lastClose": 374.0,
+      "unrealizedPct": -6.640039940089859,
+      "equityMTM": 9335996.005991014,
       "pendingExitSignalDate": null
     },
     {
@@ -1566,9 +1409,9 @@
       "entryDate": "2026-09-14",
       "entryPrice": 400.0,
       "qty": 24962.55616575137,
-      "lastClose": 376.0,
-      "unrealizedPct": -6.140788816774845,
-      "equityMTM": 9385921.118322516,
+      "lastClose": 374.0,
+      "unrealizedPct": -6.640039940089859,
+      "equityMTM": 9335996.005991014,
       "pendingExitSignalDate": null
     },
     {
@@ -1577,9 +1420,9 @@
       "entryDate": "2026-09-14",
       "entryPrice": 400.0,
       "qty": 24962.55616575137,
-      "lastClose": 376.0,
-      "unrealizedPct": -6.140788816774845,
-      "equityMTM": 9385921.118322516,
+      "lastClose": 374.0,
+      "unrealizedPct": -6.640039940089859,
+      "equityMTM": 9335996.005991014,
       "pendingExitSignalDate": null
     },
     {
@@ -1588,9 +1431,9 @@
       "entryDate": "2026-09-14",
       "entryPrice": 400.0,
       "qty": 24962.55616575137,
-      "lastClose": 376.0,
-      "unrealizedPct": -6.140788816774845,
-      "equityMTM": 9385921.118322516,
+      "lastClose": 374.0,
+      "unrealizedPct": -6.640039940089859,
+      "equityMTM": 9335996.005991014,
       "pendingExitSignalDate": null
     },
     {
@@ -1643,9 +1486,9 @@
       "entryDate": "2026-10-05",
       "entryPrice": 372.0,
       "qty": 26841.45824274341,
-      "lastClose": 326.0,
-      "unrealizedPct": -12.496846128656468,
-      "equityMTM": 8750315.387134353,
+      "lastClose": 324.0,
+      "unrealizedPct": -13.03367529351136,
+      "equityMTM": 8696632.470648864,
       "pendingExitSignalDate": null
     },
     {
@@ -1654,9 +1497,9 @@
       "entryDate": "2026-10-05",
       "entryPrice": 372.0,
       "qty": 26841.45824274341,
-      "lastClose": 326.0,
-      "unrealizedPct": -12.496846128656468,
-      "equityMTM": 8750315.387134353,
+      "lastClose": 324.0,
+      "unrealizedPct": -13.03367529351136,
+      "equityMTM": 8696632.470648864,
       "pendingExitSignalDate": null
     },
     {
@@ -1665,9 +1508,9 @@
       "entryDate": "2026-10-05",
       "entryPrice": 372.0,
       "qty": 26841.45824274341,
-      "lastClose": 326.0,
-      "unrealizedPct": -12.496846128656468,
-      "equityMTM": 8750315.387134353,
+      "lastClose": 324.0,
+      "unrealizedPct": -13.03367529351136,
+      "equityMTM": 8696632.470648864,
       "pendingExitSignalDate": null
     },
     {
@@ -1676,9 +1519,9 @@
       "entryDate": "2026-10-05",
       "entryPrice": 372.0,
       "qty": 26841.45824274341,
-      "lastClose": 326.0,
-      "unrealizedPct": -12.496846128656468,
-      "equityMTM": 8750315.387134353,
+      "lastClose": 324.0,
+      "unrealizedPct": -13.03367529351136,
+      "equityMTM": 8696632.470648864,
       "pendingExitSignalDate": null
     },
     {
@@ -1775,9 +1618,9 @@
       "entryDate": "2026-09-29",
       "entryPrice": 3700.0,
       "qty": 2698.65472062177,
-      "lastClose": 3850.0,
-      "unrealizedPct": 3.8982067439381485,
-      "equityMTM": 10389820.674393816,
+      "lastClose": 3990.0,
+      "unrealizedPct": 7.676323352808634,
+      "equityMTM": 10767632.335280864,
       "pendingExitSignalDate": null
     },
     {
@@ -1786,9 +1629,9 @@
       "entryDate": "2026-09-29",
       "entryPrice": 3700.0,
       "qty": 2698.65472062177,
-      "lastClose": 3850.0,
-      "unrealizedPct": 3.8982067439381485,
-      "equityMTM": 10389820.674393816,
+      "lastClose": 3990.0,
+      "unrealizedPct": 7.676323352808634,
+      "equityMTM": 10767632.335280864,
       "pendingExitSignalDate": null
     },
     {
@@ -1797,9 +1640,9 @@
       "entryDate": "2026-09-29",
       "entryPrice": 3700.0,
       "qty": 2698.65472062177,
-      "lastClose": 3850.0,
-      "unrealizedPct": 3.8982067439381485,
-      "equityMTM": 10389820.674393816,
+      "lastClose": 3990.0,
+      "unrealizedPct": 7.676323352808634,
+      "equityMTM": 10767632.335280864,
       "pendingExitSignalDate": null
     },
     {
@@ -1808,9 +1651,9 @@
       "entryDate": "2026-09-29",
       "entryPrice": 3700.0,
       "qty": 2698.65472062177,
-      "lastClose": 3850.0,
-      "unrealizedPct": 3.8982067439381485,
-      "equityMTM": 10389820.674393816,
+      "lastClose": 3990.0,
+      "unrealizedPct": 7.676323352808634,
+      "equityMTM": 10767632.335280864,
       "pendingExitSignalDate": null
     },
     {
@@ -1819,9 +1662,9 @@
       "entryDate": "2026-10-05",
       "entryPrice": 1220.0,
       "qty": 8184.444644508647,
-      "lastClose": 1235.0,
-      "unrealizedPct": 1.077891359681793,
-      "equityMTM": 10107789.135968179,
+      "lastClose": 1240.0,
+      "unrealizedPct": 1.4871135919072298,
+      "equityMTM": 10148711.359190723,
       "pendingExitSignalDate": null
     },
     {
@@ -1830,9 +1673,9 @@
       "entryDate": "2026-10-05",
       "entryPrice": 1220.0,
       "qty": 8184.444644508647,
-      "lastClose": 1235.0,
-      "unrealizedPct": 1.077891359681793,
-      "equityMTM": 10107789.135968179,
+      "lastClose": 1240.0,
+      "unrealizedPct": 1.4871135919072298,
+      "equityMTM": 10148711.359190723,
       "pendingExitSignalDate": null
     },
     {
@@ -1841,9 +1684,9 @@
       "entryDate": "2026-10-05",
       "entryPrice": 1220.0,
       "qty": 8184.444644508647,
-      "lastClose": 1235.0,
-      "unrealizedPct": 1.077891359681793,
-      "equityMTM": 10107789.135968179,
+      "lastClose": 1240.0,
+      "unrealizedPct": 1.4871135919072298,
+      "equityMTM": 10148711.359190723,
       "pendingExitSignalDate": null
     },
     {
@@ -1852,9 +1695,9 @@
       "entryDate": "2026-10-05",
       "entryPrice": 1220.0,
       "qty": 8184.444644508647,
-      "lastClose": 1235.0,
-      "unrealizedPct": 1.077891359681793,
-      "equityMTM": 10107789.135968179,
+      "lastClose": 1240.0,
+      "unrealizedPct": 1.4871135919072298,
+      "equityMTM": 10148711.359190723,
       "pendingExitSignalDate": null
     },
     {
@@ -1907,9 +1750,9 @@
       "entryDate": "2026-09-22",
       "entryPrice": 1600.0,
       "qty": 6240.639041437843,
-      "lastClose": 1515.0,
-      "unrealizedPct": -5.454318522216672,
-      "equityMTM": 9454568.147778332,
+      "lastClose": 1510.0,
+      "unrealizedPct": -5.766350474288573,
+      "equityMTM": 9423364.952571142,
       "pendingExitSignalDate": null
     },
     {
@@ -1918,9 +1761,9 @@
       "entryDate": "2026-09-22",
       "entryPrice": 1600.0,
       "qty": 6240.639041437843,
-      "lastClose": 1515.0,
-      "unrealizedPct": -5.454318522216672,
-      "equityMTM": 9454568.147778332,
+      "lastClose": 1510.0,
+      "unrealizedPct": -5.766350474288573,
+      "equityMTM": 9423364.952571142,
       "pendingExitSignalDate": null
     },
     {
@@ -1929,9 +1772,9 @@
       "entryDate": "2026-09-22",
       "entryPrice": 1600.0,
       "qty": 6240.639041437843,
-      "lastClose": 1515.0,
-      "unrealizedPct": -5.454318522216672,
-      "equityMTM": 9454568.147778332,
+      "lastClose": 1510.0,
+      "unrealizedPct": -5.766350474288573,
+      "equityMTM": 9423364.952571142,
       "pendingExitSignalDate": null
     },
     {
@@ -1940,9 +1783,9 @@
       "entryDate": "2026-09-22",
       "entryPrice": 1600.0,
       "qty": 6240.639041437843,
-      "lastClose": 1515.0,
-      "unrealizedPct": -5.454318522216672,
-      "equityMTM": 9454568.147778332,
+      "lastClose": 1510.0,
+      "unrealizedPct": -5.766350474288573,
+      "equityMTM": 9423364.952571142,
       "pendingExitSignalDate": null
     },
     {
@@ -1951,9 +1794,9 @@
       "entryDate": "2026-09-18",
       "entryPrice": 4300.0,
       "qty": 2322.098247976872,
-      "lastClose": 2970.0,
-      "unrealizedPct": -31.03368203508691,
-      "equityMTM": 6896631.796491309,
+      "lastClose": 2980.0,
+      "unrealizedPct": -30.801472210289216,
+      "equityMTM": 6919852.778971078,
       "pendingExitSignalDate": null
     },
     {
@@ -1962,9 +1805,9 @@
       "entryDate": "2026-09-18",
       "entryPrice": 4300.0,
       "qty": 2322.098247976872,
-      "lastClose": 2970.0,
-      "unrealizedPct": -31.03368203508691,
-      "equityMTM": 6896631.796491309,
+      "lastClose": 2980.0,
+      "unrealizedPct": -30.801472210289216,
+      "equityMTM": 6919852.778971078,
       "pendingExitSignalDate": null
     },
     {
@@ -1973,9 +1816,9 @@
       "entryDate": "2026-09-18",
       "entryPrice": 4300.0,
       "qty": 2322.098247976872,
-      "lastClose": 2970.0,
-      "unrealizedPct": -31.03368203508691,
-      "equityMTM": 6896631.796491309,
+      "lastClose": 2980.0,
+      "unrealizedPct": -30.801472210289216,
+      "equityMTM": 6919852.778971078,
       "pendingExitSignalDate": null
     },
     {
@@ -1984,9 +1827,9 @@
       "entryDate": "2026-09-18",
       "entryPrice": 4300.0,
       "qty": 2322.098247976872,
-      "lastClose": 2970.0,
-      "unrealizedPct": -31.03368203508691,
-      "equityMTM": 6896631.796491309,
+      "lastClose": 2980.0,
+      "unrealizedPct": -30.801472210289216,
+      "equityMTM": 6919852.778971078,
       "pendingExitSignalDate": null
     },
     {
@@ -2039,9 +1882,9 @@
       "entryDate": "2026-09-14",
       "entryPrice": 1035.0,
       "qty": 9647.364701739662,
-      "lastClose": 1070.0,
-      "unrealizedPct": 3.226802308614385,
-      "equityMTM": 10322680.230861438,
+      "lastClose": 1090.0,
+      "unrealizedPct": 5.1562752489623165,
+      "equityMTM": 10515627.52489623,
       "pendingExitSignalDate": null
     },
     {
@@ -2050,9 +1893,9 @@
       "entryDate": "2026-09-14",
       "entryPrice": 1035.0,
       "qty": 9647.364701739662,
-      "lastClose": 1070.0,
-      "unrealizedPct": 3.226802308614385,
-      "equityMTM": 10322680.230861438,
+      "lastClose": 1090.0,
+      "unrealizedPct": 5.1562752489623165,
+      "equityMTM": 10515627.52489623,
       "pendingExitSignalDate": null
     },
     {
@@ -2061,9 +1904,9 @@
       "entryDate": "2026-09-14",
       "entryPrice": 1035.0,
       "qty": 9647.364701739662,
-      "lastClose": 1070.0,
-      "unrealizedPct": 3.226802308614385,
-      "equityMTM": 10322680.230861438,
+      "lastClose": 1090.0,
+      "unrealizedPct": 5.1562752489623165,
+      "equityMTM": 10515627.52489623,
       "pendingExitSignalDate": null
     },
     {
@@ -2072,9 +1915,9 @@
       "entryDate": "2026-09-14",
       "entryPrice": 1035.0,
       "qty": 9647.364701739662,
-      "lastClose": 1070.0,
-      "unrealizedPct": 3.226802308614385,
-      "equityMTM": 10322680.230861438,
+      "lastClose": 1090.0,
+      "unrealizedPct": 5.1562752489623165,
+      "equityMTM": 10515627.52489623,
       "pendingExitSignalDate": null
     }
   ],
@@ -2082,38 +1925,38 @@
     "AADI": {
       "date": "2026-10-09",
       "open": 11725.0,
-      "close": 11775.0,
-      "ma20": 11683.75,
-      "ma50": 10776.5,
-      "macd": 194.19537405020128,
-      "macdSignal": 178.0740899284005,
-      "rsi14": 56.07074849219289,
-      "volume": 3922900.0,
-      "volMA20": 8247885.0
+      "close": 11800.0,
+      "ma20": 11685.0,
+      "ma50": 10777.0,
+      "macd": 197.4782070481724,
+      "macdSignal": 179.16837191660426,
+      "rsi14": 56.41183750257495,
+      "volume": 4168500.0,
+      "volMA20": 8260165.0
     },
     "AALI": {
       "date": "2026-10-09",
       "open": 8250.0,
-      "close": 8425.0,
-      "ma20": 8231.25,
-      "ma50": 7961.0,
-      "macd": 116.40387222808386,
-      "macdSignal": 77.17606353577833,
-      "rsi14": 58.00192975425945,
-      "volume": 1699100.0,
-      "volMA20": 2426495.0
+      "close": 8400.0,
+      "ma20": 8230.0,
+      "ma50": 7960.5,
+      "macd": 113.12105337553658,
+      "macdSignal": 76.08179922935497,
+      "rsi14": 57.17504608765648,
+      "volume": 1885500.0,
+      "volMA20": 2435815.0
     },
     "ABMM": {
       "date": "2026-10-09",
       "open": 2700.0,
-      "close": 2720.0,
-      "ma20": 2692.0,
-      "ma50": 2708.8,
-      "macd": -12.312855575638878,
-      "macdSignal": -28.44842090328898,
-      "rsi14": 52.64700924790439,
-      "volume": 193400.0,
-      "volMA20": 601140.0
+      "close": 2700.0,
+      "ma20": 2691.0,
+      "ma50": 2708.4,
+      "macd": -14.939123388557164,
+      "macdSignal": -29.323848262029482,
+      "rsi14": 50.948274198390266,
+      "volume": 265300.0,
+      "volMA20": 604735.0
     },
     "ACES": {
       "date": "2026-10-09",
@@ -2121,71 +1964,71 @@
       "close": 326.0,
       "ma20": 338.6,
       "ma50": 349.36,
-      "macd": -8.229243223950675,
-      "macdSignal": -8.376586747875432,
+      "macd": -8.229243129647784,
+      "macdSignal": -8.37658662999684,
       "rsi14": 34.40197906011589,
-      "volume": 12061800.0,
-      "volMA20": 17697830.0
+      "volume": 12283500.0,
+      "volMA20": 17708915.0
     },
     "ADMG": {
       "date": "2026-10-09",
       "open": 226.0,
-      "close": 226.0,
-      "ma20": 238.8,
-      "ma50": 247.56,
-      "macd": -8.088012329786324,
-      "macdSignal": -8.175875855736328,
-      "rsi14": 35.97075311106477,
-      "volume": 166400.0,
-      "volMA20": 644760.0
+      "close": 228.0,
+      "ma20": 238.9,
+      "ma50": 247.6,
+      "macd": -7.8253858785543855,
+      "macdSignal": -8.088333532437154,
+      "rsi14": 38.31573901375247,
+      "volume": 166500.0,
+      "volMA20": 644765.0
     },
     "ADMR": {
       "date": "2026-10-09",
       "open": 1500.0,
-      "close": 1525.0,
-      "ma20": 1519.75,
-      "ma50": 1587.6,
-      "macd": -25.5282888935792,
-      "macdSignal": -34.32548623375379,
-      "rsi14": 48.27748429770599,
-      "volume": 13657400.0,
-      "volMA20": 22611740.0
+      "close": 1520.0,
+      "ma20": 1519.5,
+      "ma50": 1587.5,
+      "macd": -26.184863508913395,
+      "macdSignal": -34.5443526510697,
+      "rsi14": 47.55301993130194,
+      "volume": 14613600.0,
+      "volMA20": 22659550.0
     },
     "ADRO": {
       "date": "2026-10-09",
       "open": 2540.0,
-      "close": 2570.0,
-      "ma20": 2571.0,
-      "ma50": 2590.4,
-      "macd": -13.66897036849059,
-      "macdSignal": -22.37983904902635,
-      "rsi14": 49.45621991903713,
-      "volume": 18343000.0,
-      "volMA20": 37026985.0
+      "close": 2580.0,
+      "ma20": 2571.5,
+      "ma50": 2590.6,
+      "macd": -12.355841412929749,
+      "macdSignal": -21.94213155827961,
+      "rsi14": 50.372718729950705,
+      "volume": 19314700.0,
+      "volMA20": 37075570.0
     },
     "AGAR": {
       "date": "2026-10-09",
       "open": 1865.0,
-      "close": 1785.0,
-      "ma20": 2073.75,
-      "ma50": 1684.7,
-      "macd": -38.81548165380832,
-      "macdSignal": -24.64418150156626,
-      "rsi14": 48.39721147469076,
-      "volume": 499800.0,
-      "volMA20": 2270965.0
+      "close": 1795.0,
+      "ma20": 2074.25,
+      "ma50": 1684.9,
+      "macd": -37.502350246374135,
+      "macdSignal": -24.206470945977284,
+      "rsi14": 48.59471666797794,
+      "volume": 516300.0,
+      "volMA20": 2271790.0
     },
     "AGII": {
       "date": "2026-10-09",
       "open": 3550.0,
-      "close": 3420.0,
-      "ma20": 3394.5,
-      "ma50": 3129.8,
-      "macd": 50.196363394182754,
-      "macdSignal": 52.88597122000369,
-      "rsi14": 55.65233468269892,
-      "volume": 236000.0,
-      "volMA20": 512855.0
+      "close": 3400.0,
+      "ma20": 3393.5,
+      "ma50": 3129.4,
+      "macd": 47.570102889734244,
+      "macdSignal": 52.01055299685012,
+      "rsi14": 54.73420764137661,
+      "volume": 257800.0,
+      "volMA20": 513945.0
     },
     "AISA": {
       "date": "2026-10-09",
@@ -2193,59 +2036,59 @@
       "close": 114.0,
       "ma20": 117.65,
       "ma50": 118.24,
-      "macd": -1.5065175261542407,
-      "macdSignal": -1.2513630120511388,
-      "rsi14": 45.38702798882049,
-      "volume": 1616700.0,
-      "volMA20": 26578800.0
+      "macd": -1.5065173846999897,
+      "macdSignal": -1.2513628352333308,
+      "rsi14": 45.38720126042846,
+      "volume": 1725200.0,
+      "volMA20": 26584225.0
     },
     "AKRA": {
       "date": "2026-10-09",
       "open": 1450.0,
-      "close": 1475.0,
-      "ma20": 1471.75,
-      "ma50": 1444.5,
-      "macd": 7.601065152711271,
-      "macdSignal": 8.551038080980199,
-      "rsi14": 52.11755991701577,
-      "volume": 5679100.0,
-      "volMA20": 13162835.0
+      "close": 1485.0,
+      "ma20": 1472.25,
+      "ma50": 1444.7,
+      "macd": 8.914195994328566,
+      "macdSignal": 8.988747929298103,
+      "rsi14": 53.67174830719241,
+      "volume": 5955300.0,
+      "volMA20": 13176645.0
     },
     "ALDO": {
       "date": "2026-10-09",
       "open": 1210.0,
-      "close": 1210.0,
-      "ma20": 1073.25,
-      "ma50": 968.2,
-      "macd": 94.31056229745195,
-      "macdSignal": 94.73812105269569,
-      "rsi14": 66.30288339755032,
-      "volume": 132300.0,
-      "volMA20": 288570.0
+      "close": 1200.0,
+      "ma20": 1072.75,
+      "ma50": 968.0,
+      "macd": 92.99743145583489,
+      "macdSignal": 94.30041120437798,
+      "rsi14": 64.86759551411512,
+      "volume": 134100.0,
+      "volMA20": 288660.0
     },
     "ALKA": {
       "date": "2026-10-09",
       "open": 8150.0,
-      "close": 7100.0,
-      "ma20": 6959.75,
-      "ma50": 4824.3,
-      "macd": 489.1421031597529,
-      "macdSignal": 425.87446979439267,
-      "rsi14": 57.195741168632175,
-      "volume": 352500.0,
-      "volMA20": 250480.0
+      "close": 7125.0,
+      "ma20": 6961.0,
+      "ma50": 4824.8,
+      "macd": 492.4249311596741,
+      "macdSignal": 426.9687455350339,
+      "rsi14": 57.40087050288129,
+      "volume": 361600.0,
+      "volMA20": 250935.0
     },
     "ANTM": {
       "date": "2026-10-09",
       "open": 3170.0,
-      "close": 3190.0,
-      "ma20": 3211.5,
-      "ma50": 3138.8,
-      "macd": 2.0491884300918173,
-      "macdSignal": 3.9639212391168654,
-      "rsi14": 50.61031421573084,
-      "volume": 35228400.0,
-      "volMA20": 78862910.0
+      "close": 3180.0,
+      "ma20": 3211.0,
+      "ma50": 3138.6,
+      "macd": 0.7360476866770114,
+      "macdSignal": 3.5261990135519787,
+      "rsi14": 49.97343028077521,
+      "volume": 37397500.0,
+      "volMA20": 78971365.0
     },
     "APLN": {
       "date": "2026-10-09",
@@ -2253,11 +2096,11 @@
       "close": 107.0,
       "ma20": 115.3,
       "ma50": 125.46,
-      "macd": -6.62141485441839,
-      "macdSignal": -7.127590630203473,
-      "rsi14": 37.00584403369696,
-      "volume": 13043800.0,
-      "volMA20": 22187685.0
+      "macd": -6.6214163161122315,
+      "macdSignal": -7.12759245732078,
+      "rsi14": 37.00579631114098,
+      "volume": 13293600.0,
+      "volMA20": 22200175.0
     },
     "ARCI": {
       "date": "2026-10-09",
@@ -2265,35 +2108,35 @@
       "close": 1315.0,
       "ma20": 1291.5,
       "ma50": 1281.4,
-      "macd": -9.86885204606665,
-      "macdSignal": -15.920539809573512,
-      "rsi14": 54.31081126874384,
-      "volume": 40619000.0,
-      "volMA20": 24226625.0
+      "macd": -9.868856525451065,
+      "macdSignal": -15.920545408804031,
+      "rsi14": 54.310364987895724,
+      "volume": 41611500.0,
+      "volMA20": 24276250.0
     },
     "ARII": {
       "date": "2026-10-09",
       "open": 530.0,
-      "close": 422.0,
-      "ma20": 331.0,
-      "ma50": 306.0,
-      "macd": 32.72182780992341,
-      "macdSignal": 21.531675049438316,
-      "rsi14": 73.2438151706788,
-      "volume": 11571000.0,
-      "volMA20": 1896590.0
+      "close": 420.0,
+      "ma20": 330.9,
+      "ma50": 305.96,
+      "macd": 32.45920145299419,
+      "macdSignal": 21.444132844017624,
+      "rsi14": 72.54002164111509,
+      "volume": 11631900.0,
+      "volMA20": 1899635.0
     },
     "ARNA": {
       "date": "2026-10-09",
       "open": 515.0,
-      "close": 515.0,
-      "ma20": 516.4,
-      "ma50": 506.2,
-      "macd": 2.0920075294712888,
-      "macdSignal": 3.516922619654764,
-      "rsi14": 51.69883049633564,
-      "volume": 2092200.0,
-      "volMA20": 4770785.0
+      "close": 510.0,
+      "ma20": 516.15,
+      "ma50": 506.1,
+      "macd": 1.4354416371486423,
+      "macdSignal": 3.298067106103258,
+      "rsi14": 47.16560040048967,
+      "volume": 2487300.0,
+      "volMA20": 4790540.0
     },
     "ASGR": {
       "date": "2026-10-09",
@@ -2301,11 +2144,11 @@
       "close": 2430.0,
       "ma20": 2265.5,
       "ma50": 2073.0,
-      "macd": 121.77533086516587,
-      "macdSignal": 128.27006470789127,
-      "rsi14": 63.178568504774326,
-      "volume": 1403500.0,
-      "volMA20": 3125985.0
+      "macd": 121.7753301578955,
+      "macdSignal": 128.270063823803,
+      "rsi14": 63.178576415643604,
+      "volume": 1437400.0,
+      "volMA20": 3127680.0
     },
     "ASLI": {
       "date": "2026-10-09",
@@ -2313,11 +2156,11 @@
       "close": 468.0,
       "ma20": 442.3,
       "ma50": 338.7,
-      "macd": 32.860054289226014,
-      "macdSignal": 39.74085248104374,
-      "rsi14": 62.28515587798916,
-      "volume": 78608900.0,
-      "volMA20": 143046230.0
+      "macd": 32.86005570376852,
+      "macdSignal": 39.74085424922182,
+      "rsi14": 62.28496037164403,
+      "volume": 80677500.0,
+      "volMA20": 143149660.0
     },
     "ASRI": {
       "date": "2026-10-09",
@@ -2327,21 +2170,21 @@
       "ma50": 122.86,
       "macd": -2.7332102689322255,
       "macdSignal": -2.66824521591544,
-      "rsi14": 42.36855921520821,
-      "volume": 2214900.0,
-      "volMA20": 5333255.0
+      "rsi14": 42.36928272561908,
+      "volume": 2292600.0,
+      "volMA20": 5337140.0
     },
     "ASSA": {
       "date": "2026-10-09",
       "open": 585.0,
-      "close": 590.0,
-      "ma20": 588.5,
-      "ma50": 613.4,
-      "macd": -8.755453224762164,
-      "macdSignal": -11.266999393993999,
-      "rsi14": 47.81977901437757,
-      "volume": 5277500.0,
-      "volMA20": 7313025.0
+      "close": 595.0,
+      "ma20": 588.75,
+      "ma50": 613.5,
+      "macd": -8.098886860925404,
+      "macdSignal": -11.048143291049797,
+      "rsi14": 49.63996231576601,
+      "volume": 5641200.0,
+      "volMA20": 7331210.0
     },
     "ATIC": {
       "date": "2026-10-09",
@@ -2349,47 +2192,47 @@
       "close": 442.0,
       "ma20": 445.6,
       "ma50": 457.72,
-      "macd": -4.656599487047174,
-      "macdSignal": -6.044920585099322,
-      "rsi14": 45.35087123946968,
-      "volume": 47800.0,
-      "volMA20": 91320.0
+      "macd": -4.656599015533061,
+      "macdSignal": -6.044919995706687,
+      "rsi14": 45.35069829804511,
+      "volume": 48100.0,
+      "volMA20": 91335.0
     },
     "AUTO": {
       "date": "2026-10-09",
       "open": 3350.0,
-      "close": 3350.0,
-      "ma20": 3356.0,
-      "ma50": 3180.8,
-      "macd": 32.83967753112847,
-      "macdSignal": 39.54958112514494,
-      "rsi14": 53.77607258350197,
-      "volume": 1623600.0,
-      "volMA20": 2680870.0
+      "close": 3370.0,
+      "ma20": 3357.0,
+      "ma50": 3181.2,
+      "macd": 35.46593921436306,
+      "macdSignal": 40.425000821780785,
+      "rsi14": 55.32238751126114,
+      "volume": 1689500.0,
+      "volMA20": 2684165.0
     },
     "AVIA": {
       "date": "2026-10-09",
       "open": 336.0,
-      "close": 348.0,
-      "ma20": 338.6,
-      "ma50": 343.68,
-      "macd": -1.1419592576693844,
-      "macdSignal": -2.98062352619142,
-      "rsi14": 54.67063259346977,
-      "volume": 5229000.0,
-      "volMA20": 11650005.0
+      "close": 346.0,
+      "ma20": 338.5,
+      "ma50": 343.64,
+      "macd": -1.4045856145984317,
+      "macdSignal": -3.0681657316120443,
+      "rsi14": 53.41988994966182,
+      "volume": 5353300.0,
+      "volMA20": 11656220.0
     },
     "AYAM": {
       "date": "2026-10-09",
       "open": 520.0,
-      "close": 515.0,
-      "ma20": 506.45,
-      "ma50": 483.66,
-      "macd": 10.66718689557058,
-      "macdSignal": 10.521483264467959,
-      "rsi14": 60.249907447599185,
-      "volume": 6592800.0,
-      "volMA20": 23166430.0
+      "close": 520.0,
+      "ma20": 506.7,
+      "ma50": 483.76,
+      "macd": 11.32375396667868,
+      "macdSignal": 10.740340251501223,
+      "rsi14": 64.24222502038836,
+      "volume": 6997200.0,
+      "volMA20": 23186650.0
     },
     "BANK": {
       "date": "2026-10-09",
@@ -2397,23 +2240,23 @@
       "close": 242.0,
       "ma20": 244.9,
       "ma50": 261.36,
-      "macd": -5.002625631458727,
-      "macdSignal": -6.673684643790363,
-      "rsi14": 39.87158139035372,
-      "volume": 1004900.0,
-      "volMA20": 2321845.0
+      "macd": -5.002624924187529,
+      "macdSignal": -6.673683759701371,
+      "rsi14": 39.87433262973474,
+      "volume": 1117100.0,
+      "volMA20": 2327455.0
     },
     "BBRM": {
       "date": "2026-10-09",
       "open": 108.0,
-      "close": 109.0,
-      "ma20": 112.65,
-      "ma50": 115.64,
-      "macd": -2.4838315619093123,
-      "macdSignal": -2.839807592591439,
-      "rsi14": 44.93861692609547,
-      "volume": 1465800.0,
-      "volMA20": 5203160.0
+      "close": 108.0,
+      "ma20": 112.6,
+      "ma50": 115.62,
+      "macd": -2.615145824856384,
+      "macdSignal": -2.8835800509049205,
+      "rsi14": 43.51283740552913,
+      "volume": 1475800.0,
+      "volMA20": 5203660.0
     },
     "BELI": {
       "date": "2026-10-09",
@@ -2423,9 +2266,9 @@
       "ma50": 279.6,
       "macd": -1.1387845115989421,
       "macdSignal": -5.378362373192204,
-      "rsi14": 56.23074039592166,
-      "volume": 1545600.0,
-      "volMA20": 2153010.0
+      "rsi14": 56.230629842033736,
+      "volume": 1565700.0,
+      "volMA20": 2154015.0
     },
     "BESS": {
       "date": "2026-10-09",
@@ -2433,23 +2276,23 @@
       "close": 860.0,
       "ma20": 850.0,
       "ma50": 882.2,
-      "macd": -12.641733592926016,
-      "macdSignal": -21.35792963539269,
-      "rsi14": 50.76920287824022,
-      "volume": 26700.0,
-      "volMA20": 213210.0
+      "macd": -12.641735478982696,
+      "macdSignal": -21.357931992963447,
+      "rsi14": 50.7694613114926,
+      "volume": 26800.0,
+      "volMA20": 213215.0
     },
     "BEST": {
       "date": "2026-10-09",
       "open": 119.0,
-      "close": 120.0,
-      "ma20": 122.05,
-      "ma50": 121.54,
-      "macd": -0.6382636896604765,
-      "macdSignal": -0.3991976849974507,
-      "rsi14": 47.209441613395676,
-      "volume": 6940300.0,
-      "volMA20": 25637705.0
+      "close": 118.0,
+      "ma20": 121.95,
+      "ma50": 121.5,
+      "macd": -0.9008896222268561,
+      "macdSignal": -0.48673935996466267,
+      "rsi14": 45.13376441745622,
+      "volume": 7449600.0,
+      "volMA20": 25663170.0
     },
     "BIRD": {
       "date": "2026-10-09",
@@ -2457,47 +2300,47 @@
       "close": 1560.0,
       "ma20": 1577.75,
       "ma50": 1605.8,
-      "macd": -14.529781867735664,
-      "macdSignal": -16.72510652141775,
-      "rsi14": 39.465605758119736,
-      "volume": 282100.0,
-      "volMA20": 615870.0
+      "macd": -14.529781631978722,
+      "macdSignal": -16.72510622672157,
+      "rsi14": 39.465988748674526,
+      "volume": 282600.0,
+      "volMA20": 615895.0
     },
     "BISI": {
       "date": "2026-10-09",
       "open": 695.0,
-      "close": 700.0,
-      "ma20": 705.5,
-      "ma50": 702.6,
-      "macd": -4.4492883665839145,
-      "macdSignal": -5.96785626100859,
-      "rsi14": 48.642659232258026,
-      "volume": 43900.0,
-      "volMA20": 356085.0
+      "close": 705.0,
+      "ma20": 705.75,
+      "ma50": 702.7,
+      "macd": -3.7927222385040977,
+      "macdSignal": -5.749000452760695,
+      "rsi14": 51.044537197129124,
+      "volume": 48800.0,
+      "volMA20": 356330.0
     },
     "BKDP": {
       "date": "2026-10-09",
       "open": 188.0,
-      "close": 186.0,
-      "ma20": 183.5,
-      "ma50": 173.58,
-      "macd": 4.3910535758209335,
-      "macdSignal": 4.689144917372274,
-      "rsi14": 53.87725012573821,
-      "volume": 4838400.0,
-      "volMA20": 19897755.0
+      "close": 185.0,
+      "ma20": 183.45,
+      "ma50": 173.56,
+      "macd": 4.259740208750742,
+      "macdSignal": 4.645373578904916,
+      "rsi14": 53.33391139371007,
+      "volume": 4938900.0,
+      "volMA20": 19902780.0
     },
     "BKSL": {
       "date": "2026-10-09",
       "open": 55.0,
-      "close": 57.0,
-      "ma20": 61.85,
-      "ma50": 69.0,
-      "macd": -4.07772873269478,
-      "macdSignal": -4.387904445344082,
-      "rsi14": 37.36070430786408,
-      "volume": 82552100.0,
-      "volMA20": 146633320.0
+      "close": 56.0,
+      "ma20": 61.8,
+      "ma50": 68.98,
+      "macd": -4.209042665581968,
+      "macdSignal": -4.431676491082695,
+      "rsi14": 34.7826008768795,
+      "volume": 90698000.0,
+      "volMA20": 147040615.0
     },
     "BLES": {
       "date": "2026-10-09",
@@ -2505,11 +2348,11 @@
       "close": 202.0,
       "ma20": 196.15,
       "ma50": 200.66,
-      "macd": 1.0766803609260762,
-      "macdSignal": -0.02980880402213798,
-      "rsi14": 55.7218282783294,
-      "volume": 7111000.0,
-      "volMA20": 10650955.0
+      "macd": 1.0766805023804125,
+      "macdSignal": -0.029808627204240712,
+      "rsi14": 55.72189324825679,
+      "volume": 7126900.0,
+      "volMA20": 10651750.0
     },
     "BLOG": {
       "date": "2026-10-09",
@@ -2517,35 +2360,35 @@
       "close": 360.0,
       "ma20": 359.6,
       "ma50": 369.32,
-      "macd": -2.9250475054354865,
-      "macdSignal": -3.9075082740418967,
-      "rsi14": 48.159028845633365,
-      "volume": 217900.0,
-      "volMA20": 284015.0
+      "macd": -2.9250472225269846,
+      "macdSignal": -3.9075079204062675,
+      "rsi14": 48.15912229204706,
+      "volume": 218500.0,
+      "volMA20": 284045.0
     },
     "BLUE": {
       "date": "2026-10-09",
       "open": 3770.0,
-      "close": 4030.0,
-      "ma20": 3213.0,
-      "ma50": 2875.6,
-      "macd": 326.7833206948221,
-      "macdSignal": 253.44986220605827,
-      "rsi14": 78.65761411376785,
-      "volume": 710100.0,
-      "volMA20": 470975.0
+      "close": 4010.0,
+      "ma20": 3212.0,
+      "ma50": 2875.2,
+      "macd": 324.157060426131,
+      "macdSignal": 252.57444427760123,
+      "rsi14": 78.3721928431878,
+      "volume": 745900.0,
+      "volMA20": 472765.0
     },
     "BMHS": {
       "date": "2026-10-09",
       "open": 197.0,
-      "close": 198.0,
-      "ma20": 199.5,
-      "ma50": 195.12,
-      "macd": 0.38667245676808193,
-      "macdSignal": 0.727968820134044,
-      "rsi14": 50.85405991187749,
-      "volume": 782900.0,
-      "volMA20": 755375.0
+      "close": 197.0,
+      "ma20": 199.45,
+      "ma50": 195.1,
+      "macd": 0.2553597498176998,
+      "macdSignal": 0.6841983068164431,
+      "rsi14": 46.658959895787476,
+      "volume": 887000.0,
+      "volMA20": 760580.0
     },
     "BMTR": {
       "date": "2026-10-09",
@@ -2553,11 +2396,11 @@
       "close": 76.0,
       "ma20": 92.6,
       "ma50": 106.34,
-      "macd": -10.808037950578992,
-      "macdSignal": -11.436196219659157,
-      "rsi14": 27.466670738270125,
-      "volume": 31922500.0,
-      "volMA20": 105796675.0
+      "macd": -10.808038233487451,
+      "macdSignal": -11.43619657329474,
+      "rsi14": 27.46622532859554,
+      "volume": 34780400.0,
+      "volMA20": 105939570.0
     },
     "BOGA": {
       "date": "2026-10-09",
@@ -2565,11 +2408,11 @@
       "close": 1610.0,
       "ma20": 1572.5,
       "ma50": 1602.3,
-      "macd": 11.044375239892588,
-      "macdSignal": 3.6530754078807273,
-      "rsi14": 53.402540290483856,
-      "volume": 12200.0,
-      "volMA20": 8865.0
+      "macd": 11.044375711406929,
+      "macdSignal": 3.6530759972736293,
+      "rsi14": 53.402680157578985,
+      "volume": 12300.0,
+      "volMA20": 8870.0
     },
     "BRIS": {
       "date": "2026-10-09",
@@ -2577,11 +2420,11 @@
       "close": 1355.0,
       "ma20": 1519.5,
       "ma50": 1679.1,
-      "macd": -104.76498147315101,
-      "macdSignal": -102.16884469251676,
-      "rsi14": 18.958093545884054,
-      "volume": 17391000.0,
-      "volMA20": 27936400.0
+      "macd": -104.76498477375003,
+      "macdSignal": -102.16884881826545,
+      "rsi14": 18.95749381733839,
+      "volume": 18356900.0,
+      "volMA20": 27984695.0
     },
     "BRMS": {
       "date": "2026-10-09",
@@ -2589,11 +2432,11 @@
       "close": 590.0,
       "ma20": 647.0,
       "ma50": 657.6,
-      "macd": -32.32684215400491,
-      "macdSignal": -33.34307669546907,
-      "rsi14": 40.475592172848565,
-      "volume": 131500000.0,
-      "volMA20": 271978690.0
+      "macd": -32.326843568547474,
+      "macdSignal": -33.34307846364719,
+      "rsi14": 40.47508651641502,
+      "volume": 142478900.0,
+      "volMA20": 272527635.0
     },
     "BSDE": {
       "date": "2026-10-09",
@@ -2601,11 +2444,11 @@
       "close": 540.0,
       "ma20": 574.25,
       "ma50": 602.7,
-      "macd": -23.829137341086152,
-      "macdSignal": -25.602660812202934,
-      "rsi14": 32.01535881082425,
-      "volume": 26150300.0,
-      "volMA20": 39224755.0
+      "macd": -23.82913686957204,
+      "macdSignal": -25.602660222810307,
+      "rsi14": 32.0160111608033,
+      "volume": 26608900.0,
+      "volMA20": 39247685.0
     },
     "BSSR": {
       "date": "2026-10-09",
@@ -2616,20 +2459,20 @@
       "macd": 59.218423725389584,
       "macdSignal": 82.22849173227661,
       "rsi14": 53.76713772084099,
-      "volume": 544600.0,
-      "volMA20": 2571220.0
+      "volume": 556400.0,
+      "volMA20": 2571810.0
     },
     "BTPS": {
       "date": "2026-10-09",
       "open": 960.0,
-      "close": 980.0,
-      "ma20": 973.25,
-      "ma50": 989.4,
-      "macd": -10.445901224275417,
-      "macdSignal": -16.381184330964636,
-      "rsi14": 51.57412538794901,
-      "volume": 2506400.0,
-      "volMA20": 8018725.0
+      "close": 975.0,
+      "ma20": 973.0,
+      "ma50": 989.3,
+      "macd": -11.102466880841007,
+      "macdSignal": -16.600039549819833,
+      "rsi14": 50.22062124905881,
+      "volume": 2538400.0,
+      "volMA20": 8020325.0
     },
     "BUAH": {
       "date": "2026-10-09",
@@ -2639,9 +2482,9 @@
       "ma50": 499.04,
       "macd": -5.378603280416144,
       "macdSignal": -5.551459953970857,
-      "rsi14": 29.063352967680984,
-      "volume": 693200.0,
-      "volMA20": 392885.0
+      "rsi14": 29.063777405941806,
+      "volume": 693400.0,
+      "volMA20": 392895.0
     },
     "BUDI": {
       "date": "2026-10-09",
@@ -2651,45 +2494,45 @@
       "ma50": 223.32,
       "macd": -1.621896252642557,
       "macdSignal": -1.4586153750721804,
-      "rsi14": 43.818373105351974,
-      "volume": 21600.0,
-      "volMA20": 116355.0
+      "rsi14": 43.81850771551094,
+      "volume": 24600.0,
+      "volMA20": 116505.0
     },
     "BULL": {
       "date": "2026-10-09",
       "open": 346.0,
-      "close": 346.0,
-      "ma20": 374.0,
-      "ma50": 414.36,
-      "macd": -18.829917133042045,
-      "macdSignal": -20.073373556636916,
-      "rsi14": 36.95679999087661,
-      "volume": 87699800.0,
-      "volMA20": 322285230.0
+      "close": 344.0,
+      "ma20": 373.9,
+      "ma50": 414.32,
+      "macd": -19.092541509611635,
+      "macdSignal": -20.160913286608217,
+      "rsi14": 36.05419184085909,
+      "volume": 90228600.0,
+      "volMA20": 322411670.0
     },
     "BUMI": {
       "date": "2026-10-09",
       "open": 174.0,
-      "close": 181.0,
-      "ma20": 186.15,
-      "ma50": 189.32,
-      "macd": -5.383738108714624,
-      "macdSignal": -6.168468532126151,
-      "rsi14": 46.222197415699924,
-      "volume": 1614943900.0,
-      "volMA20": 2376983350.0
+      "close": 180.0,
+      "ma20": 186.1,
+      "ma50": 189.3,
+      "macd": -5.515050014091003,
+      "macdSignal": -6.212238043476223,
+      "rsi14": 45.416768707965794,
+      "volume": 1695670400.0,
+      "volMA20": 2381019675.0
     },
     "BWPT": {
       "date": "2026-10-09",
       "open": 104.0,
-      "close": 106.0,
-      "ma20": 112.4,
-      "ma50": 107.96,
-      "macd": -3.40353706504348,
-      "macdSignal": -3.491984778810767,
-      "rsi14": 45.77129696048943,
-      "volume": 37639100.0,
-      "volMA20": 139205100.0
+      "close": 105.0,
+      "ma20": 112.35,
+      "ma50": 107.94,
+      "macd": -3.534850102053781,
+      "macdSignal": -3.5357557047032664,
+      "rsi14": 44.629735414249424,
+      "volume": 38925800.0,
+      "volMA20": 139269435.0
     },
     "BYAN": {
       "date": "2026-10-09",
@@ -2697,35 +2540,35 @@
       "close": 11775.0,
       "ma20": 12056.25,
       "ma50": 12981.0,
-      "macd": -157.92023454801347,
-      "macdSignal": -176.36138529060068,
-      "rsi14": 44.811265205890365,
-      "volume": 2538000.0,
-      "volMA20": 3754125.0
+      "macd": -157.92022629651547,
+      "macdSignal": -176.36137497622815,
+      "rsi14": 44.81131018475462,
+      "volume": 2656900.0,
+      "volMA20": 3760070.0
     },
     "CAMP": {
       "date": "2026-10-09",
       "open": 160.0,
-      "close": 161.0,
-      "ma20": 168.45,
-      "ma50": 169.84,
-      "macd": -4.051782503346914,
-      "macdSignal": -4.261872233155993,
-      "rsi14": 42.935399784668846,
-      "volume": 229100.0,
-      "volMA20": 8103720.0
+      "close": 162.0,
+      "ma20": 168.5,
+      "ma50": 169.86,
+      "macd": -3.920469183428139,
+      "macdSignal": -4.218100953627902,
+      "rsi14": 44.20935183020692,
+      "volume": 239200.0,
+      "volMA20": 8104225.0
     },
     "CARE": {
       "date": "2026-10-09",
       "open": 372.0,
-      "close": 376.0,
-      "ma20": 384.2,
-      "ma50": 411.56,
-      "macd": -10.9374370677412,
-      "macdSignal": -12.555039453487277,
-      "rsi14": 34.802957100385925,
-      "volume": 175000.0,
-      "volMA20": 65431550.0
+      "close": 378.0,
+      "ma20": 384.3,
+      "ma50": 411.6,
+      "macd": -10.674805382702118,
+      "macdSignal": -12.467490587929221,
+      "rsi14": 37.21197256157548,
+      "volume": 197000.0,
+      "volMA20": 65432650.0
     },
     "CASS": {
       "date": "2026-10-09",
@@ -2733,23 +2576,23 @@
       "close": 1845.0,
       "ma20": 1832.5,
       "ma50": 1856.1,
-      "macd": -0.5515562675093406,
-      "macdSignal": -5.01240849509181,
-      "rsi14": 51.465720611115174,
-      "volume": 187300.0,
-      "volMA20": 146925.0
+      "macd": -0.5515567390234537,
+      "macdSignal": -5.012409084484367,
+      "rsi14": 51.4654198733614,
+      "volume": 187700.0,
+      "volMA20": 146945.0
     },
     "CITA": {
       "date": "2026-10-09",
       "open": 3290.0,
-      "close": 3340.0,
-      "ma20": 3417.5,
-      "ma50": 3352.6,
-      "macd": -25.96478210774694,
-      "macdSignal": -19.712017765643324,
-      "rsi14": 45.34864088653686,
-      "volume": 9300.0,
-      "volMA20": 85760.0
+      "close": 3350.0,
+      "ma20": 3418.0,
+      "ma50": 3352.8,
+      "macd": -24.651667297611766,
+      "macdSignal": -19.274327956677567,
+      "rsi14": 46.387172166195626,
+      "volume": 10500.0,
+      "volMA20": 85820.0
     },
     "CLEO": {
       "date": "2026-10-09",
@@ -2757,47 +2600,47 @@
       "close": 448.0,
       "ma20": 418.9,
       "ma50": 406.4,
-      "macd": 6.681124418904119,
-      "macdSignal": 3.9127858314968,
-      "rsi14": 67.34011344888569,
-      "volume": 23006400.0,
-      "volMA20": 12173130.0
+      "macd": 6.681124607509673,
+      "macdSignal": 3.9127860672538004,
+      "rsi14": 67.34002988852421,
+      "volume": 24306000.0,
+      "volMA20": 12238110.0
     },
     "CMNP": {
       "date": "2026-10-09",
       "open": 1420.0,
-      "close": 1420.0,
-      "ma20": 1403.0,
-      "ma50": 1394.6,
-      "macd": 7.9936122305903154,
-      "macdSignal": 7.257530297735007,
-      "rsi14": 52.90025137788014,
-      "volume": 173900.0,
-      "volMA20": 259380.0
+      "close": 1415.0,
+      "ma20": 1402.75,
+      "ma50": 1394.5,
+      "macd": 7.337051524923254,
+      "macdSignal": 7.038681267502951,
+      "rsi14": 51.92139983657358,
+      "volume": 198600.0,
+      "volMA20": 260615.0
     },
     "CMRY": {
       "date": "2026-10-09",
       "open": 4420.0,
-      "close": 4460.0,
-      "ma20": 4437.5,
-      "ma50": 4564.0,
-      "macd": -25.986196474121243,
-      "macdSignal": -41.24880109811396,
-      "rsi14": 49.021548230289795,
-      "volume": 243700.0,
-      "volMA20": 2664420.0
+      "close": 4440.0,
+      "ma20": 4436.5,
+      "ma50": 4563.6,
+      "macd": -28.612455564029005,
+      "macdSignal": -42.12421755309087,
+      "rsi14": 47.443091913073786,
+      "volume": 246600.0,
+      "volMA20": 2664565.0
     },
     "CPIN": {
       "date": "2026-10-09",
       "open": 2940.0,
-      "close": 2970.0,
-      "ma20": 3018.0,
-      "ma50": 3080.4,
-      "macd": -54.59881070093343,
-      "macdSignal": -61.630524472127625,
-      "rsi14": 44.20902169204201,
-      "volume": 3836700.0,
-      "volMA20": 19101020.0
+      "close": 2960.0,
+      "ma20": 3017.5,
+      "ma50": 3080.2,
+      "macd": -55.91194154254981,
+      "macdSignal": -62.06823432044476,
+      "rsi14": 43.076224256046274,
+      "volume": 4094600.0,
+      "volMA20": 19113915.0
     },
     "CSAP": {
       "date": "2026-10-09",
@@ -2805,9 +2648,9 @@
       "close": 280.0,
       "ma20": 287.1,
       "ma50": 289.96,
-      "macd": -2.8598332714168464,
-      "macdSignal": -2.8081632899740585,
-      "rsi14": 42.98966490665603,
+      "macd": -2.8598330828111216,
+      "macdSignal": -2.8081630542169194,
+      "rsi14": 42.99008059741347,
       "volume": 30900.0,
       "volMA20": 88820.0
     },
@@ -2817,11 +2660,11 @@
       "close": 690.0,
       "ma20": 712.0,
       "ma50": 740.7,
-      "macd": -18.431807888959156,
-      "macdSignal": -21.67291882194178,
-      "rsi14": 39.27415815933516,
-      "volume": 226700.0,
-      "volMA20": 304000.0
+      "macd": -18.43180576714542,
+      "macdSignal": -21.67291616967464,
+      "rsi14": 39.27456663318642,
+      "volume": 231800.0,
+      "volMA20": 304255.0
     },
     "CTRA": {
       "date": "2026-10-09",
@@ -2831,21 +2674,21 @@
       "ma50": 593.9,
       "macd": -17.16166073772331,
       "macdSignal": -19.72716916672108,
-      "rsi14": 38.17591004739376,
-      "volume": 10664200.0,
-      "volMA20": 10740730.0
+      "rsi14": 38.17600240502951,
+      "volume": 10802300.0,
+      "volMA20": 10747635.0
     },
     "DATA": {
       "date": "2026-10-09",
       "open": 1505.0,
-      "close": 1505.0,
-      "ma20": 1601.25,
-      "ma50": 1779.6,
-      "macd": -71.46467235743239,
-      "macdSignal": -72.72109834445712,
-      "rsi14": 30.701982193166515,
-      "volume": 534200.0,
-      "volMA20": 1364915.0
+      "close": 1500.0,
+      "ma20": 1601.0,
+      "ma50": 1779.5,
+      "macd": -72.12124272913957,
+      "macdSignal": -72.93995945723938,
+      "rsi14": 30.321195242070047,
+      "volume": 558800.0,
+      "volMA20": 1366145.0
     },
     "DEPO": {
       "date": "2026-10-09",
@@ -2853,35 +2696,35 @@
       "close": 234.0,
       "ma20": 234.8,
       "ma50": 242.48,
-      "macd": -2.2672736610554125,
-      "macdSignal": -3.3399053216724655,
-      "rsi14": 46.196223684351395,
-      "volume": 127800.0,
-      "volMA20": 315260.0
+      "macd": -2.267273755358275,
+      "macdSignal": -3.339905439551036,
+      "rsi14": 46.19602104255261,
+      "volume": 127900.0,
+      "volMA20": 315265.0
     },
     "DEWA": {
       "date": "2026-10-09",
       "open": 358.0,
-      "close": 368.0,
-      "ma20": 361.7,
-      "ma50": 415.4,
-      "macd": -12.430268644196588,
-      "macdSignal": -17.522542741079512,
-      "rsi14": 46.78676685387953,
-      "volume": 432379300.0,
-      "volMA20": 487572180.0
+      "close": 366.0,
+      "ma20": 361.6,
+      "ma50": 415.36,
+      "macd": -12.692893963794575,
+      "macdSignal": -17.61008364983624,
+      "rsi14": 46.00828067221464,
+      "volume": 451991700.0,
+      "volMA20": 488552800.0
     },
     "DGWG": {
       "date": "2026-10-09",
       "open": 316.0,
-      "close": 322.0,
-      "ma20": 323.5,
-      "ma50": 326.52,
-      "macd": -1.446810841739591,
-      "macdSignal": -1.6662733081550742,
-      "rsi14": 47.84597243586145,
-      "volume": 10964200.0,
-      "volMA20": 9474425.0
+      "close": 324.0,
+      "ma20": 323.6,
+      "ma50": 326.56,
+      "macd": -1.184184390507653,
+      "macdSignal": -1.578730984855901,
+      "rsi14": 49.06628828781179,
+      "volume": 10988900.0,
+      "volMA20": 9475660.0
     },
     "DILD": {
       "date": "2026-10-09",
@@ -2889,35 +2732,35 @@
       "close": 109.0,
       "ma20": 112.35,
       "ma50": 116.1,
-      "macd": -2.424234100667917,
-      "macdSignal": -2.6030315864296596,
-      "rsi14": 37.37935729930704,
-      "volume": 4494800.0,
-      "volMA20": 9381700.0
+      "macd": -2.424234006365083,
+      "macdSignal": -2.6030314685511087,
+      "rsi14": 37.379291234763976,
+      "volume": 4567200.0,
+      "volMA20": 9385320.0
     },
     "DKFT": {
       "date": "2026-10-09",
       "open": 675.0,
-      "close": 665.0,
-      "ma20": 660.0,
-      "ma50": 670.6,
-      "macd": -2.140882224729694,
-      "macdSignal": -4.181706170931883,
-      "rsi14": 50.012389809636005,
-      "volume": 2840800.0,
-      "volMA20": 3815605.0
+      "close": 675.0,
+      "ma20": 660.5,
+      "ma50": 670.8,
+      "macd": -0.8277494970559474,
+      "macdSignal": -3.7439939650434573,
+      "rsi14": 53.03286529216478,
+      "volume": 3289500.0,
+      "volMA20": 3838040.0
     },
     "DMAS": {
       "date": "2026-10-09",
       "open": 188.0,
-      "close": 185.0,
-      "ma20": 187.65,
-      "ma50": 177.9,
-      "macd": 0.22979434832336665,
-      "macdSignal": 0.254934471310002,
-      "rsi14": 49.79156590850651,
-      "volume": 63431300.0,
-      "volMA20": 124404935.0
+      "close": 184.0,
+      "ma20": 187.6,
+      "ma50": 177.88,
+      "macd": 0.0984812641616486,
+      "macdSignal": 0.2111634864782178,
+      "rsi14": 48.885613535492965,
+      "volume": 69747200.0,
+      "volMA20": 124720730.0
     },
     "DMMX": {
       "date": "2026-10-09",
@@ -2925,23 +2768,23 @@
       "close": 165.0,
       "ma20": 178.35,
       "ma50": 184.28,
-      "macd": -5.210313003270045,
-      "macdSignal": -4.789406210951439,
-      "rsi14": 33.467809224360025,
-      "volume": 2565300.0,
-      "volMA20": 2735695.0
+      "macd": -5.2103127203615145,
+      "macdSignal": -4.789405857315791,
+      "rsi14": 33.46785658214189,
+      "volume": 2586300.0,
+      "volMA20": 2736745.0
     },
     "DOOH": {
       "date": "2026-10-09",
       "open": 310.0,
-      "close": 278.0,
-      "ma20": 370.5,
-      "ma50": 332.36,
-      "macd": -18.370452858437886,
-      "macdSignal": -8.606640526835337,
-      "rsi14": 35.83952608438345,
-      "volume": 195311700.0,
-      "volMA20": 167547475.0
+      "close": 270.0,
+      "ma20": 370.1,
+      "ma50": 332.2,
+      "macd": -19.420956305794846,
+      "macdSignal": -8.956806873068542,
+      "rsi14": 34.758071431757145,
+      "volume": 227451100.0,
+      "volMA20": 169154445.0
     },
     "DRMA": {
       "date": "2026-10-09",
@@ -2949,35 +2792,35 @@
       "close": 960.0,
       "ma20": 951.5,
       "ma50": 976.1,
-      "macd": -10.460069933817294,
-      "macdSignal": -15.273789580879377,
-      "rsi14": 51.246531159279925,
-      "volume": 385300.0,
-      "volMA20": 780800.0
+      "macd": -10.460069698059897,
+      "macdSignal": -15.273789286182776,
+      "rsi14": 51.246430544450824,
+      "volume": 390500.0,
+      "volMA20": 781060.0
     },
     "DSNG": {
       "date": "2026-10-09",
       "open": 1515.0,
-      "close": 1490.0,
-      "ma20": 1571.25,
-      "ma50": 1514.7,
-      "macd": -22.724626331152876,
-      "macdSignal": -14.861404981749589,
-      "rsi14": 43.30260180041294,
-      "volume": 746300.0,
-      "volMA20": 4122820.0
+      "close": 1500.0,
+      "ma20": 1571.75,
+      "ma50": 1514.9,
+      "macd": -21.411493367722414,
+      "macdSignal": -14.423692481164995,
+      "rsi14": 44.272066106930254,
+      "volume": 929600.0,
+      "volMA20": 4131985.0
     },
     "DWGL": {
       "date": "2026-10-09",
       "open": 212.0,
-      "close": 214.0,
-      "ma20": 218.6,
-      "ma50": 275.56,
-      "macd": -9.862044314241018,
-      "macdSignal": -11.561381228306336,
-      "rsi14": 40.04457040771337,
-      "volume": 1003500.0,
-      "volMA20": 3005995.0
+      "close": 208.0,
+      "ma20": 218.3,
+      "ma50": 275.44,
+      "macd": -10.649922724908464,
+      "macdSignal": -11.82400701941846,
+      "rsi14": 35.5639144282397,
+      "volume": 1099000.0,
+      "volMA20": 3010770.0
     },
     "EKAD": {
       "date": "2026-10-09",
@@ -2985,11 +2828,11 @@
       "close": 376.0,
       "ma20": 388.4,
       "ma50": 344.48,
-      "macd": -0.9468975289380523,
-      "macdSignal": 0.017669936950748588,
-      "rsi14": 49.861887117283516,
-      "volume": 1912200.0,
-      "volMA20": 3988065.0
+      "macd": -0.9468976703921612,
+      "macdSignal": 0.017669760133052104,
+      "rsi14": 49.86185081097135,
+      "volume": 2023000.0,
+      "volMA20": 3993605.0
     },
     "ELPI": {
       "date": "2026-10-09",
@@ -2997,11 +2840,11 @@
       "close": 560.0,
       "ma20": 598.75,
       "ma50": 655.6,
-      "macd": -33.04150255176933,
-      "macdSignal": -33.91792739169938,
-      "rsi14": 37.95498361315953,
-      "volume": 743600.0,
-      "volMA20": 918760.0
+      "macd": -33.0415016087411,
+      "macdSignal": -33.91792621291408,
+      "rsi14": 37.95552088121425,
+      "volume": 747600.0,
+      "volMA20": 918960.0
     },
     "ELSA": {
       "date": "2026-10-09",
@@ -3011,33 +2854,33 @@
       "ma50": 693.4,
       "macd": -22.509548641546417,
       "macdSignal": -22.4286254612969,
-      "rsi14": 36.365270597820945,
-      "volume": 6939700.0,
-      "volMA20": 15936075.0
+      "rsi14": 36.36523528558382,
+      "volume": 7250300.0,
+      "volMA20": 15951605.0
     },
     "ENRG": {
       "date": "2026-10-09",
       "open": 990.0,
-      "close": 990.0,
-      "ma20": 1174.768521118164,
-      "ma50": 1241.7557446289063,
-      "macd": -94.26842422319874,
-      "macdSignal": -93.09300570157009,
-      "rsi14": 34.81962225735134,
-      "volume": 160327800.0,
-      "volMA20": 96676552.7
+      "close": 995.0,
+      "ma20": 1175.018521118164,
+      "ma50": 1241.8557446289062,
+      "macd": -93.61185644481975,
+      "macdSignal": -92.87414783044787,
+      "rsi14": 35.097920795086935,
+      "volume": 183717000.0,
+      "volMA20": 97846012.7
     },
     "ERAA": {
       "date": "2026-10-09",
       "open": 605.0,
-      "close": 620.0,
-      "ma20": 608.25,
-      "ma50": 540.0,
-      "macd": 14.246037821699701,
-      "macdSignal": 15.710383494297773,
-      "rsi14": 61.92804118467119,
-      "volume": 43641900.0,
-      "volMA20": 93812350.0
+      "close": 615.0,
+      "ma20": 608.0,
+      "ma50": 539.9,
+      "macd": 13.589472165134111,
+      "macdSignal": 15.491528275442576,
+      "rsi14": 60.59861560004712,
+      "volume": 47453600.0,
+      "volMA20": 94002935.0
     },
     "ERAL": {
       "date": "2026-10-09",
@@ -3045,11 +2888,11 @@
       "close": 316.0,
       "ma20": 313.6,
       "ma50": 310.92,
-      "macd": -0.220941648350788,
-      "macdSignal": -1.4025416212651,
-      "rsi14": 53.20152751861652,
-      "volume": 1783800.0,
-      "volMA20": 5278585.0
+      "macd": -0.22094155404795401,
+      "macdSignal": -1.402541503386539,
+      "rsi14": 53.20168089430188,
+      "volume": 2103800.0,
+      "volMA20": 5294585.0
     },
     "ESSA": {
       "date": "2026-10-09",
@@ -3057,35 +2900,35 @@
       "close": 585.0,
       "ma20": 593.75,
       "ma50": 631.1,
-      "macd": -14.420474255781642,
-      "macdSignal": -17.061668979225892,
-      "rsi14": 42.524996060079914,
-      "volume": 32144100.0,
-      "volMA20": 58235450.0
+      "macd": -14.420474491538698,
+      "macdSignal": -17.061669273922227,
+      "rsi14": 42.52548213877036,
+      "volume": 33637500.0,
+      "volMA20": 58310120.0
     },
     "EXCL": {
       "date": "2026-10-09",
       "open": 2350.0,
-      "close": 2350.0,
-      "ma20": 2416.5,
-      "ma50": 2568.4,
-      "macd": -69.03730940658897,
-      "macdSignal": -75.84720077048087,
-      "rsi14": 39.31645882661937,
-      "volume": 5884600.0,
-      "volMA20": 8073430.0
+      "close": 2340.0,
+      "ma20": 2416.0,
+      "ma50": 2568.2,
+      "macd": -70.35042893186619,
+      "macdSignal": -76.28489647337403,
+      "rsi14": 38.18214194236925,
+      "volume": 5936600.0,
+      "volMA20": 8076030.0
     },
     "FAST": {
       "date": "2026-10-09",
       "open": 398.0,
-      "close": 402.0,
-      "ma20": 418.1,
-      "ma50": 426.36,
-      "macd": -9.298931713985212,
-      "macdSignal": -9.118741153168259,
-      "rsi14": 44.648598982758195,
-      "volume": 3233700.0,
-      "volMA20": 16973810.0
+      "close": 400.0,
+      "ma20": 418.0,
+      "ma50": 426.32,
+      "macd": -9.561559626910991,
+      "macdSignal": -9.206285303584808,
+      "rsi14": 43.93172958444615,
+      "volume": 3306400.0,
+      "volMA20": 16977445.0
     },
     "FILM": {
       "date": "2026-10-09",
@@ -3096,8 +2939,8 @@
       "macd": -63.28232075955077,
       "macdSignal": -68.29469636899793,
       "rsi14": 32.5258699421139,
-      "volume": 13993200.0,
-      "volMA20": 17734520.0
+      "volume": 14456300.0,
+      "volMA20": 17757675.0
     },
     "FORE": {
       "date": "2026-10-09",
@@ -3105,47 +2948,47 @@
       "close": 760.0,
       "ma20": 792.25,
       "ma50": 792.8,
-      "macd": -9.94453405429158,
-      "macdSignal": -4.96596401129271,
-      "rsi14": 42.662240098544,
-      "volume": 835400.0,
-      "volMA20": 3410965.0
+      "macd": -9.94453358277758,
+      "macdSignal": -4.96596342190005,
+      "rsi14": 42.66227165310285,
+      "volume": 892400.0,
+      "volMA20": 3413815.0
     },
     "FPNI": {
       "date": "2026-10-09",
       "open": 505.0,
-      "close": 510.0,
-      "ma20": 515.25,
-      "ma50": 516.16,
-      "macd": -6.97238759003892,
-      "macdSignal": -9.07246795791666,
-      "rsi14": 48.54273191075872,
-      "volume": 2325200.0,
-      "volMA20": 8848015.0
+      "close": 515.0,
+      "ma20": 515.5,
+      "ma50": 516.26,
+      "macd": -6.315818868631197,
+      "macdSignal": -8.853608908008841,
+      "rsi14": 49.50160192082943,
+      "volume": 2475300.0,
+      "volMA20": 8855520.0
     },
     "GDST": {
       "date": "2026-10-09",
       "open": 108.0,
-      "close": 109.0,
-      "ma20": 112.8,
-      "ma50": 113.14,
-      "macd": -2.038280355944565,
-      "macdSignal": -2.234724636628655,
-      "rsi14": 47.357247719061675,
-      "volume": 1818100.0,
-      "volMA20": 21323810.0
+      "close": 110.0,
+      "ma20": 112.85,
+      "ma50": 113.16,
+      "macd": -1.9069672717828468,
+      "macdSignal": -2.1909536517968764,
+      "rsi14": 48.53832855176004,
+      "volume": 1821600.0,
+      "volMA20": 21323985.0
     },
     "GGRP": {
       "date": "2026-10-09",
       "open": 368.0,
-      "close": 364.0,
-      "ma20": 348.8,
-      "ma50": 323.88,
-      "macd": 15.302238572406168,
-      "macdSignal": 16.4195497305855,
-      "rsi14": 61.382202430735646,
-      "volume": 1309000.0,
-      "volMA20": 3516710.0
+      "close": 366.0,
+      "ma20": 348.9,
+      "ma50": 323.92,
+      "macd": 15.564864552123993,
+      "macdSignal": 16.50709146449205,
+      "rsi14": 62.86026799480311,
+      "volume": 1368600.0,
+      "volMA20": 3519690.0
     },
     "GIAA": {
       "date": "2026-10-09",
@@ -3153,11 +2996,11 @@
       "close": 52.0,
       "ma20": 56.9,
       "ma50": 62.12,
-      "macd": -3.8693399703327245,
-      "macdSignal": -4.043350008618076,
-      "rsi14": 38.162570801662184,
-      "volume": 8656000.0,
-      "volMA20": 58209935.0
+      "macd": -3.8693403946954703,
+      "macdSignal": -4.043350539071501,
+      "rsi14": 38.16139894716219,
+      "volume": 10630300.0,
+      "volMA20": 58308650.0
     },
     "GJTL": {
       "date": "2026-10-09",
@@ -3167,21 +3010,21 @@
       "ma50": 1321.4,
       "macd": -14.80908974776412,
       "macdSignal": -20.73477355977142,
-      "rsi14": 47.069789814368264,
-      "volume": 773700.0,
-      "volMA20": 2937475.0
+      "rsi14": 47.070020040538004,
+      "volume": 778700.0,
+      "volMA20": 2937725.0
     },
     "GOLF": {
       "date": "2026-10-09",
       "open": 170.0,
-      "close": 165.0,
-      "ma20": 169.55,
-      "ma50": 165.66,
-      "macd": -1.7429256180528228,
-      "macdSignal": -2.06119336200021,
-      "rsi14": 47.97321770641342,
-      "volume": 2555300.0,
-      "volMA20": 3837495.0
+      "close": 166.0,
+      "ma20": 169.6,
+      "ma50": 165.68,
+      "macd": -1.6116114494085707,
+      "macdSignal": -2.0174210215652595,
+      "rsi14": 49.14004408062068,
+      "volume": 2567100.0,
+      "volMA20": 3838085.0
     },
     "GOOD": {
       "date": "2026-10-09",
@@ -3189,9 +3032,9 @@
       "close": 306.0,
       "ma20": 307.8,
       "ma50": 307.88,
-      "macd": -1.2342260609419213,
-      "macdSignal": -1.3619267743167827,
-      "rsi14": 46.528326783346955,
+      "macd": -1.234225778033533,
+      "macdSignal": -1.3619264206812747,
+      "rsi14": 46.52855929779933,
       "volume": 15000.0,
       "volMA20": 129675.0
     },
@@ -3201,11 +3044,11 @@
       "close": 157.0,
       "ma20": 164.35,
       "ma50": 162.16,
-      "macd": -3.701595623191224,
-      "macdSignal": -3.3830939340135844,
-      "rsi14": 45.764965478618734,
-      "volume": 1469900.0,
-      "volMA20": 7461750.0
+      "macd": -3.701596047553977,
+      "macdSignal": -3.383094464467036,
+      "rsi14": 45.76463621075086,
+      "volume": 1482400.0,
+      "volMA20": 7462375.0
     },
     "GWSA": {
       "date": "2026-10-09",
@@ -3213,11 +3056,11 @@
       "close": 166.0,
       "ma20": 157.35,
       "ma50": 155.08,
-      "macd": -0.9596270216053995,
-      "macdSignal": -2.955292323463851,
-      "rsi14": 57.447392205537334,
-      "volume": 8128800.0,
-      "volMA20": 7513860.0
+      "macd": -0.959628671904909,
+      "macdSignal": -2.9552943863382417,
+      "rsi14": 57.447109379151144,
+      "volume": 9030000.0,
+      "volMA20": 7558920.0
     },
     "GZCO": {
       "date": "2026-10-09",
@@ -3225,11 +3068,11 @@
       "close": 165.0,
       "ma20": 175.75,
       "ma50": 179.22,
-      "macd": -6.026157532120152,
-      "macdSignal": -6.024106104203955,
-      "rsi14": 41.82682628581664,
-      "volume": 6482000.0,
-      "volMA20": 10746875.0
+      "macd": -6.02615706060601,
+      "macdSignal": -6.024105514811273,
+      "rsi14": 41.82702424895525,
+      "volume": 6722000.0,
+      "volMA20": 10758875.0
     },
     "HATM": {
       "date": "2026-10-09",
@@ -3237,23 +3080,23 @@
       "close": 550.0,
       "ma20": 543.5,
       "ma50": 567.7,
-      "macd": -8.048105914497455,
-      "macdSignal": -10.606365514009864,
-      "rsi14": 50.693643339088965,
-      "volume": 17252300.0,
-      "volMA20": 10107590.0
+      "macd": -8.048102896807222,
+      "macdSignal": -10.606361741896976,
+      "rsi14": 50.69402464192057,
+      "volume": 17421300.0,
+      "volMA20": 10116040.0
     },
     "HEAL": {
       "date": "2026-10-09",
       "open": 600.0,
-      "close": 605.0,
-      "ma20": 631.5,
-      "ma50": 681.1,
-      "macd": -21.8977061230579,
-      "macdSignal": -23.801084732063764,
-      "rsi14": 36.19405652086801,
-      "volume": 10639300.0,
-      "volMA20": 9383750.0
+      "close": 600.0,
+      "ma20": 631.25,
+      "ma50": 681.0,
+      "macd": -22.554272486894774,
+      "macdSignal": -24.019940835007986,
+      "rsi14": 33.83735373980889,
+      "volume": 10788600.0,
+      "volMA20": 9391215.0
     },
     "HERO": {
       "date": "2026-10-09",
@@ -3261,47 +3104,47 @@
       "close": 316.0,
       "ma20": 326.1,
       "ma50": 333.16,
-      "macd": -5.579357361963503,
-      "macdSignal": -5.099438317647664,
-      "rsi14": 40.09674318930994,
+      "macd": -5.5793567961465556,
+      "macdSignal": -5.0994376103765005,
+      "rsi14": 40.09665519904122,
       "volume": 75700.0,
       "volMA20": 116445.0
     },
     "HEXA": {
       "date": "2026-10-09",
       "open": 3530.0,
-      "close": 3510.0,
-      "ma20": 3850.5,
-      "ma50": 4205.0,
-      "macd": -234.16972016096042,
-      "macdSignal": -250.78574060704585,
-      "rsi14": 22.474098338931285,
-      "volume": 145700.0,
-      "volMA20": 1332150.0
+      "close": 3520.0,
+      "ma20": 3851.0,
+      "ma50": 4205.2,
+      "macd": -232.85658649025845,
+      "macdSignal": -250.3480272223715,
+      "rsi14": 22.781769324422825,
+      "volume": 147300.0,
+      "volMA20": 1332230.0
     },
     "HRTA": {
       "date": "2026-10-09",
       "open": 2100.0,
-      "close": 2170.0,
-      "ma20": 2185.0,
-      "ma50": 2180.9,
-      "macd": -19.49000411935731,
-      "macdSignal": -11.32085177434345,
-      "rsi14": 48.756748569978626,
-      "volume": 15005700.0,
-      "volMA20": 8311945.0
+      "close": 2180.0,
+      "ma20": 2185.5,
+      "ma50": 2181.1,
+      "macd": -18.17689119527813,
+      "macdSignal": -10.883164322948279,
+      "rsi14": 49.45598086430653,
+      "volume": 16089500.0,
+      "volMA20": 8366135.0
     },
     "HRUM": {
       "date": "2026-10-09",
       "open": 830.0,
-      "close": 845.0,
-      "ma20": 866.75,
-      "ma50": 882.8,
-      "macd": -18.939140053057827,
-      "macdSignal": -19.87407367794832,
-      "rsi14": 44.02370097770757,
-      "volume": 4205200.0,
-      "volMA20": 8229350.0
+      "close": 850.0,
+      "ma20": 867.0,
+      "ma50": 882.9,
+      "macd": -18.282573924978124,
+      "macdSignal": -19.655217869700472,
+      "rsi14": 45.363221368169505,
+      "volume": 4574400.0,
+      "volMA20": 8247810.0
     },
     "IATA": {
       "date": "2026-10-09",
@@ -3309,23 +3152,23 @@
       "close": 106.0,
       "ma20": 104.95,
       "ma50": 112.02,
-      "macd": -2.7409692801171417,
-      "macdSignal": -4.5224831037231805,
-      "rsi14": 49.889897141952474,
-      "volume": 870787000.0,
-      "volMA20": 461627675.0
+      "macd": -2.740968808603,
+      "macdSignal": -4.5224825143304965,
+      "rsi14": 49.88993646539961,
+      "volume": 886742600.0,
+      "volMA20": 462425455.0
     },
     "ICBP": {
       "date": "2026-10-09",
       "open": 6750.0,
-      "close": 6925.0,
-      "ma20": 6816.25,
-      "ma50": 7203.0,
-      "macd": -76.03615082366832,
-      "macdSignal": -114.70368423544684,
-      "rsi14": 50.04347765244473,
-      "volume": 2801100.0,
-      "volMA20": 3991785.0
+      "close": 6950.0,
+      "ma20": 6817.5,
+      "ma50": 7203.5,
+      "macd": -72.7533178256981,
+      "macdSignal": -113.60940224724327,
+      "rsi14": 51.1267712687601,
+      "volume": 3122000.0,
+      "volMA20": 4007830.0
     },
     "IFII": {
       "date": "2026-10-09",
@@ -3333,11 +3176,11 @@
       "close": 206.0,
       "ma20": 209.4,
       "ma50": 207.28,
-      "macd": -1.1383015925959796,
-      "macdSignal": -0.6951359411716969,
-      "rsi14": 47.42539356507219,
-      "volume": 89400.0,
-      "volMA20": 1061850.0
+      "macd": -1.1383014039902832,
+      "macdSignal": -0.695135705414594,
+      "rsi14": 47.42580096109363,
+      "volume": 89500.0,
+      "volMA20": 1061855.0
     },
     "IFSH": {
       "date": "2026-10-09",
@@ -3347,9 +3190,9 @@
       "ma50": 1213.5,
       "macd": 344.72469953912514,
       "macdSignal": 281.96589702666915,
-      "rsi14": 68.71949822189848,
-      "volume": 139300.0,
-      "volMA20": 191400.0
+      "rsi14": 68.71974086852055,
+      "volume": 150200.0,
+      "volMA20": 191945.0
     },
     "IMPC": {
       "date": "2026-10-09",
@@ -3357,11 +3200,11 @@
       "close": 1330.0,
       "ma20": 1488.0,
       "ma50": 1491.2,
-      "macd": -74.68102299204861,
-      "macdSignal": -69.89487036601535,
-      "rsi14": 37.616384473935476,
-      "volume": 8725400.0,
-      "volMA20": 15356930.0
+      "macd": -74.68102723567563,
+      "macdSignal": -69.8948756705491,
+      "rsi14": 37.61551998357253,
+      "volume": 8889000.0,
+      "volMA20": 15365110.0
     },
     "INDF": {
       "date": "2026-10-09",
@@ -3371,9 +3214,9 @@
       "ma50": 7150.0,
       "macd": -63.87153232784294,
       "macdSignal": -96.93531863344032,
-      "rsi14": 48.260011528991846,
-      "volume": 1715300.0,
-      "volMA20": 4552465.0
+      "rsi14": 48.26019292853992,
+      "volume": 1965600.0,
+      "volMA20": 4564980.0
     },
     "INDS": {
       "date": "2026-10-09",
@@ -3381,11 +3224,11 @@
       "close": 254.0,
       "ma20": 247.4,
       "ma50": 261.08,
-      "macd": -1.9179209267734336,
-      "macdSignal": -3.864108804465018,
-      "rsi14": 51.65252072070185,
-      "volume": 1744800.0,
-      "volMA20": 1411500.0
+      "macd": -1.9179242273724242,
+      "macdSignal": -3.8641129302137807,
+      "rsi14": 51.65291319913914,
+      "volume": 1759400.0,
+      "volMA20": 1412230.0
     },
     "INDY": {
       "date": "2026-10-09",
@@ -3393,11 +3236,11 @@
       "close": 2790.0,
       "ma20": 2689.5,
       "ma50": 2684.6,
-      "macd": -5.578714771149862,
-      "macdSignal": -23.513664741202277,
-      "rsi14": 55.22595258433258,
-      "volume": 12834600.0,
-      "volMA20": 14400025.0
+      "macd": -5.578731745659297,
+      "macdSignal": -23.51368595933887,
+      "rsi14": 55.22551927616143,
+      "volume": 13334000.0,
+      "volMA20": 14424995.0
     },
     "INET": {
       "date": "2026-10-09",
@@ -3405,11 +3248,11 @@
       "close": 248.0,
       "ma20": 293.7,
       "ma50": 294.28,
-      "macd": -21.468718606615994,
-      "macdSignal": -19.348101651286232,
-      "rsi14": 33.32567679999528,
-      "volume": 138990800.0,
-      "volMA20": 320865705.0
+      "macd": -21.46871554177409,
+      "macdSignal": -19.34809782023382,
+      "rsi14": 33.32632523408488,
+      "volume": 156711000.0,
+      "volMA20": 321751715.0
     },
     "INKP": {
       "date": "2026-10-09",
@@ -3417,35 +3260,35 @@
       "close": 8275.0,
       "ma20": 8342.5,
       "ma50": 8549.5,
-      "macd": -108.86200932821885,
-      "macdSignal": -140.36810452773966,
-      "rsi14": 47.19575355301697,
-      "volume": 1005500.0,
-      "volMA20": 3579220.0
+      "macd": -108.86201993728537,
+      "macdSignal": -140.368117789074,
+      "rsi14": 47.1958134278746,
+      "volume": 1073900.0,
+      "volMA20": 3582640.0
     },
     "INPP": {
       "date": "2026-10-09",
       "open": 650.0,
-      "close": 655.0,
-      "ma20": 702.0,
-      "ma50": 721.3,
-      "macd": -20.569914140125093,
-      "macdSignal": -18.40397314430225,
-      "rsi14": 26.867627823404092,
-      "volume": 116100.0,
-      "volMA20": 59700.0
+      "close": 635.0,
+      "ma20": 701.0,
+      "ma50": 720.9,
+      "macd": -23.19617653063085,
+      "macdSignal": -19.279393725026907,
+      "rsi14": 22.754755344327236,
+      "volume": 163600.0,
+      "volMA20": 62075.0
     },
     "INTP": {
       "date": "2026-10-09",
       "open": 4900.0,
-      "close": 5100.0,
-      "ma20": 5077.75,
-      "ma50": 5237.5,
-      "macd": -71.36430091742568,
-      "macdSignal": -93.48485077623727,
-      "rsi14": 49.90185498847141,
-      "volume": 510000.0,
-      "volMA20": 1053630.0
+      "close": 5050.0,
+      "ma20": 5075.25,
+      "ma50": 5236.5,
+      "macd": -77.92995630429687,
+      "macdSignal": -95.67340149130757,
+      "rsi14": 47.72779803306656,
+      "volume": 533600.0,
+      "volMA20": 1054810.0
     },
     "IPCM": {
       "date": "2026-10-09",
@@ -3453,23 +3296,23 @@
       "close": 282.0,
       "ma20": 286.2,
       "ma50": 294.68,
-      "macd": -2.857921059950854,
-      "macdSignal": -3.14997461677411,
-      "rsi14": 40.19587231593722,
-      "volume": 388900.0,
-      "volMA20": 841575.0
+      "macd": -2.8579208713453,
+      "macdSignal": -3.149974381017123,
+      "rsi14": 40.19600729112852,
+      "volume": 406800.0,
+      "volMA20": 842470.0
     },
     "IRSX": {
       "date": "2026-10-09",
       "open": 318.0,
-      "close": 306.0,
-      "ma20": 372.9,
-      "ma50": 375.6,
-      "macd": -28.015794569363777,
-      "macdSignal": -24.94252616453507,
-      "rsi14": 32.1247809634221,
-      "volume": 42517400.0,
-      "volMA20": 68245980.0
+      "close": 302.0,
+      "ma20": 372.7,
+      "ma50": 375.52,
+      "macd": -28.54104285098896,
+      "macdSignal": -25.117605035085052,
+      "rsi14": 31.37505172558967,
+      "volume": 45069200.0,
+      "volMA20": 68373570.0
     },
     "ISAT": {
       "date": "2026-10-09",
@@ -3477,11 +3320,11 @@
       "close": 2120.0,
       "ma20": 2299.5,
       "ma50": 2328.8,
-      "macd": -71.15828138584129,
-      "macdSignal": -57.436945107980364,
-      "rsi14": 33.16879156022753,
-      "volume": 23347400.0,
-      "volMA20": 44631105.0
+      "macd": -71.15828185735518,
+      "macdSignal": -57.436945697372735,
+      "rsi14": 33.168734672783785,
+      "volume": 25042400.0,
+      "volMA20": 44715855.0
     },
     "ISSP": {
       "date": "2026-10-09",
@@ -3489,35 +3332,35 @@
       "close": 426.0,
       "ma20": 411.7,
       "ma50": 426.32,
-      "macd": 0.48128804762097843,
-      "macdSignal": -3.264560155237434,
+      "macd": 0.48128795331814445,
+      "macdSignal": -3.264560273115957,
       "rsi14": 54.98460477055504,
-      "volume": 2562200.0,
-      "volMA20": 3922920.0
+      "volume": 2563200.0,
+      "volMA20": 3922970.0
     },
     "ITMA": {
       "date": "2026-10-09",
       "open": 1280.0,
-      "close": 1290.0,
-      "ma20": 1375.25,
-      "ma50": 1406.9,
-      "macd": -51.58635939092551,
-      "macdSignal": -49.829155889014906,
-      "rsi14": 40.62854390158642,
-      "volume": 3600.0,
-      "volMA20": 39800.0
+      "close": 1280.0,
+      "ma20": 1374.75,
+      "ma50": 1406.7,
+      "macd": -52.89948999678586,
+      "macdSignal": -50.26686544263647,
+      "rsi14": 39.364299599545824,
+      "volume": 4300.0,
+      "volMA20": 39835.0
     },
     "ITMG": {
       "date": "2026-10-09",
       "open": 25325.0,
-      "close": 25325.0,
-      "ma20": 25637.5,
-      "ma50": 25486.5,
-      "macd": -74.32364415886332,
-      "macdSignal": -89.63802984966469,
-      "rsi14": 47.3910757905849,
-      "volume": 1616600.0,
-      "volMA20": 1255520.0
+      "close": 25375.0,
+      "ma20": 25640.0,
+      "ma50": 25487.5,
+      "macd": -67.75798405685055,
+      "macdSignal": -87.4494732406688,
+      "rsi14": 47.97888809490574,
+      "volume": 1715800.0,
+      "volMA20": 1260480.0
     },
     "JARR": {
       "date": "2026-10-09",
@@ -3525,11 +3368,11 @@
       "close": 3110.0,
       "ma20": 3512.5,
       "ma50": 3008.2,
-      "macd": -44.181138573838325,
-      "macdSignal": 13.3475327390961,
-      "rsi14": 44.1961583663254,
-      "volume": 16614600.0,
-      "volMA20": 24622690.0
+      "macd": -44.18113385869765,
+      "macdSignal": 13.347538633022603,
+      "rsi14": 44.19619931536774,
+      "volume": 17007300.0,
+      "volMA20": 24642325.0
     },
     "JAWA": {
       "date": "2026-10-09",
@@ -3537,11 +3380,11 @@
       "close": 149.0,
       "ma20": 163.75,
       "ma50": 146.52,
-      "macd": -2.40007361880555,
-      "macdSignal": 0.9410178281937205,
-      "rsi14": 45.83096651986298,
-      "volume": 16428000.0,
-      "volMA20": 43026320.0
+      "macd": -2.400073383048465,
+      "macdSignal": 0.9410181228900667,
+      "rsi14": 45.83107021188044,
+      "volume": 17344300.0,
+      "volMA20": 43072135.0
     },
     "JGLE": {
       "date": "2026-10-09",
@@ -3549,11 +3392,11 @@
       "close": 46.0,
       "ma20": 58.7,
       "ma50": 74.2,
-      "macd": -8.555286119127175,
-      "macdSignal": -8.929518492972448,
-      "rsi14": 28.23244287235397,
-      "volume": 72310900.0,
-      "volMA20": 294531345.0
+      "macd": -8.55528640203567,
+      "macdSignal": -8.929518846608063,
+      "rsi14": 28.232502710451755,
+      "volume": 73959100.0,
+      "volMA20": 294613755.0
     },
     "JIHD": {
       "date": "2026-10-09",
@@ -3561,35 +3404,35 @@
       "close": 392.0,
       "ma20": 411.4,
       "ma50": 429.08,
-      "macd": -12.100295535657267,
-      "macdSignal": -12.37830780671916,
-      "rsi14": 32.04951565814899,
+      "macd": -12.100293178086417,
+      "macdSignal": -12.378304859755659,
+      "rsi14": 32.05068290973128,
       "volume": 37900.0,
       "volMA20": 465405.0
     },
     "JKON": {
       "date": "2026-10-09",
       "open": 81.0,
-      "close": 80.0,
-      "ma20": 81.7,
-      "ma50": 83.84,
-      "macd": -0.9759512919511906,
-      "macdSignal": -1.1378491590336406,
-      "rsi14": 43.646560014476734,
-      "volume": 779600.0,
-      "volMA20": 6760435.0
+      "close": 81.0,
+      "ma20": 81.75,
+      "ma50": 83.86,
+      "macd": -0.8446382077894725,
+      "macdSignal": -1.0940781742018657,
+      "rsi14": 46.688343981468215,
+      "volume": 837900.0,
+      "volMA20": 6763350.0
     },
     "JPFA": {
       "date": "2026-10-09",
       "open": 2010.0,
-      "close": 2030.0,
-      "ma20": 2140.25,
-      "ma50": 2203.5,
-      "macd": -72.383362014976,
-      "macdSignal": -74.92754867022579,
-      "rsi14": 38.01101462841508,
-      "volume": 4008800.0,
-      "volMA20": 9492260.0
+      "close": 2040.0,
+      "ma20": 2140.75,
+      "ma50": 2203.7,
+      "macd": -71.07023117335916,
+      "macdSignal": -74.48983882190835,
+      "rsi14": 39.35502038060943,
+      "volume": 4492200.0,
+      "volMA20": 9516430.0
     },
     "JRPT": {
       "date": "2026-10-09",
@@ -3600,8 +3443,8 @@
       "macd": 12.53086200684038,
       "macdSignal": 13.621391193056253,
       "rsi14": 61.43268271654865,
-      "volume": 488900.0,
-      "volMA20": 611065.0
+      "volume": 599000.0,
+      "volMA20": 616570.0
     },
     "JSMR": {
       "date": "2026-10-09",
@@ -3609,47 +3452,47 @@
       "close": 2640.0,
       "ma20": 2718.5,
       "ma50": 2791.0,
-      "macd": -69.81431227404119,
-      "macdSignal": -78.44662751656386,
-      "rsi14": 40.05810978497852,
-      "volume": 2261700.0,
-      "volMA20": 3104090.0
+      "macd": -69.81431085949862,
+      "macdSignal": -78.44662574838588,
+      "rsi14": 40.05826873077172,
+      "volume": 2319000.0,
+      "volMA20": 3106955.0
     },
     "JTPE": {
       "date": "2026-10-09",
       "open": 580.0,
-      "close": 575.0,
-      "ma20": 587.5,
-      "ma50": 601.3,
-      "macd": -7.051087234850456,
-      "macdSignal": -7.2018216326696205,
-      "rsi14": 39.38712652048704,
-      "volume": 224800.0,
-      "volMA20": 994345.0
+      "close": 580.0,
+      "ma20": 587.75,
+      "ma50": 601.4,
+      "macd": -6.394521342527696,
+      "macdSignal": -6.982966119118016,
+      "rsi14": 42.02596246372954,
+      "volume": 239800.0,
+      "volMA20": 995095.0
     },
     "KBLI": {
       "date": "2026-10-09",
       "open": 374.0,
-      "close": 364.0,
-      "ma20": 361.3,
-      "ma50": 341.96,
-      "macd": 6.317090295850221,
-      "macdSignal": 5.4392768887404745,
-      "rsi14": 56.55279075313741,
-      "volume": 331100.0,
-      "volMA20": 2533790.0
+      "close": 368.0,
+      "ma20": 361.5,
+      "ma50": 342.04,
+      "macd": 6.842342821102761,
+      "macdSignal": 5.614361063824655,
+      "rsi14": 59.37587929243786,
+      "volume": 531100.0,
+      "volMA20": 2543790.0
     },
     "KEEN": {
       "date": "2026-10-09",
       "open": 825.0,
-      "close": 835.0,
-      "ma20": 855.25,
-      "ma50": 881.7,
-      "macd": -16.006415163000725,
-      "macdSignal": -16.435857867940904,
-      "rsi14": 40.33885093631074,
-      "volume": 5056700.0,
-      "volMA20": 6932865.0
+      "close": 830.0,
+      "ma20": 855.0,
+      "ma50": 881.6,
+      "macd": -16.66297987653809,
+      "macdSignal": -16.654711908010743,
+      "rsi14": 38.266102738778706,
+      "volume": 5066700.0,
+      "volMA20": 6933365.0
     },
     "KEJU": {
       "date": "2026-10-09",
@@ -3657,9 +3500,9 @@
       "close": 580.0,
       "ma20": 590.5,
       "ma50": 591.8,
-      "macd": -5.914664442507728,
-      "macdSignal": -5.181196384233845,
-      "rsi14": 44.27102838947001,
+      "macd": -5.914663970993388,
+      "macdSignal": -5.181195794841001,
+      "rsi14": 44.27117098977261,
       "volume": 17700.0,
       "volMA20": 77100.0
     },
@@ -3669,23 +3512,23 @@
       "close": 885.0,
       "ma20": 940.0,
       "ma50": 801.6,
-      "macd": 1.0408266313463628,
-      "macdSignal": 15.62767810822184,
-      "rsi14": 48.545647738556134,
-      "volume": 38055100.0,
-      "volMA20": 43770240.0
+      "macd": 1.0408292246740984,
+      "macdSignal": 15.627681349881511,
+      "rsi14": 48.545704449879736,
+      "volume": 38814800.0,
+      "volMA20": 43808225.0
     },
     "KIJA": {
       "date": "2026-10-09",
       "open": 155.0,
-      "close": 153.0,
-      "ma20": 169.6,
-      "ma50": 169.42,
-      "macd": -8.473120114226447,
-      "macdSignal": -8.08130474842065,
-      "rsi14": 38.93567400028112,
-      "volume": 144216000.0,
-      "volMA20": 240072905.0
+      "close": 151.0,
+      "ma20": 169.5,
+      "ma50": 169.38,
+      "macd": -8.735745339521515,
+      "macdSignal": -8.168845539298768,
+      "rsi14": 37.941813232971064,
+      "volume": 160060200.0,
+      "volMA20": 240865115.0
     },
     "KKGI": {
       "date": "2026-10-09",
@@ -3695,9 +3538,9 @@
       "ma50": 292.44,
       "macd": -2.3961900194254895,
       "macdSignal": -2.6129505698582647,
-      "rsi14": 50.08829363618276,
-      "volume": 1606500.0,
-      "volMA20": 7485020.0
+      "rsi14": 50.08822079096147,
+      "volume": 1676600.0,
+      "volMA20": 7488525.0
     },
     "KLBF": {
       "date": "2026-10-09",
@@ -3705,11 +3548,11 @@
       "close": 785.0,
       "ma20": 748.25,
       "ma50": 766.5,
-      "macd": 4.435288136722534,
-      "macdSignal": -2.5831043808553638,
-      "rsi14": 60.97537706763304,
-      "volume": 53929900.0,
-      "volMA20": 53487520.0
+      "macd": 4.435286486423024,
+      "macdSignal": -2.5831064437297226,
+      "rsi14": 60.97517828830469,
+      "volume": 56558800.0,
+      "volMA20": 53618965.0
     },
     "KOTA": {
       "date": "2026-10-09",
@@ -3717,35 +3560,35 @@
       "close": 128.0,
       "ma20": 170.15,
       "ma50": 177.06,
-      "macd": -17.046301775084203,
-      "macdSignal": -13.714080084062592,
-      "rsi14": 29.156302006277073,
-      "volume": 383990100.0,
-      "volMA20": 229779890.0
+      "macd": -17.046302010841288,
+      "macdSignal": -13.71408037875895,
+      "rsi14": 29.156323576239956,
+      "volume": 389165000.0,
+      "volMA20": 230038635.0
     },
     "KPIG": {
       "date": "2026-10-09",
       "open": 42.0,
-      "close": 43.0,
-      "ma20": 54.55,
-      "ma50": 65.1,
-      "macd": -7.603572058425577,
-      "macdSignal": -8.008483130529534,
-      "rsi14": 34.60965816101431,
-      "volume": 111839600.0,
-      "volMA20": 463631335.0
+      "close": 42.0,
+      "ma20": 54.5,
+      "ma50": 65.08,
+      "macd": -7.734887830217943,
+      "macdSignal": -8.052257474899605,
+      "rsi14": 33.0090817109125,
+      "volume": 117477800.0,
+      "volMA20": 463913245.0
     },
     "LPCK": {
       "date": "2026-10-09",
       "open": 530.0,
-      "close": 530.0,
-      "ma20": 546.5,
-      "ma50": 575.8,
-      "macd": -15.447409405501048,
-      "macdSignal": -19.364583923789674,
-      "rsi14": 42.192336591260805,
-      "volume": 113500.0,
-      "volMA20": 376030.0
+      "close": 525.0,
+      "ma20": 546.25,
+      "ma50": 575.7,
+      "macd": -16.10397553358098,
+      "macdSignal": -19.583439732037647,
+      "rsi14": 40.577266910752286,
+      "volume": 117300.0,
+      "volMA20": 376220.0
     },
     "LPPF": {
       "date": "2026-10-09",
@@ -3753,11 +3596,11 @@
       "close": 1595.0,
       "ma20": 1586.25,
       "ma50": 1597.1,
-      "macd": -0.9417094869788798,
-      "macdSignal": -3.605357149320271,
-      "rsi14": 51.025217839054136,
-      "volume": 440000.0,
-      "volMA20": 2047780.0
+      "macd": -0.9417104300073333,
+      "macdSignal": -3.6053583281058073,
+      "rsi14": 51.02529571261761,
+      "volume": 445900.0,
+      "volMA20": 2048075.0
     },
     "LSIP": {
       "date": "2026-10-09",
@@ -3765,11 +3608,11 @@
       "close": 1485.0,
       "ma20": 1558.0,
       "ma50": 1527.5,
-      "macd": -37.79419329572306,
-      "macdSignal": -39.2838912246029,
-      "rsi14": 43.253662731002116,
-      "volume": 2881400.0,
-      "volMA20": 11997015.0
+      "macd": -37.794192352694836,
+      "macdSignal": -39.28389004581766,
+      "rsi14": 43.25381407398451,
+      "volume": 3131200.0,
+      "volMA20": 12009505.0
     },
     "LTLS": {
       "date": "2026-10-09",
@@ -3777,35 +3620,35 @@
       "close": 910.0,
       "ma20": 959.25,
       "ma50": 907.7,
-      "macd": -12.754731234223527,
-      "macdSignal": -9.93777627846087,
-      "rsi14": 44.54508240038067,
-      "volume": 9500.0,
-      "volMA20": 162490.0
+      "macd": -12.754731469980698,
+      "macdSignal": -9.937776573157294,
+      "rsi14": 44.54504469151803,
+      "volume": 12100.0,
+      "volMA20": 162620.0
     },
     "MAHA": {
       "date": "2026-10-09",
       "open": 148.0,
-      "close": 146.0,
-      "ma20": 141.4,
-      "ma50": 144.48,
-      "macd": -1.0421764759474286,
-      "macdSignal": -1.9856715858177003,
-      "rsi14": 57.14609425268901,
-      "volume": 42596200.0,
-      "volMA20": 17025800.0
+      "close": 145.0,
+      "ma20": 141.35,
+      "ma50": 144.46,
+      "macd": -1.1734892772006162,
+      "macdSignal": -2.0294422170138473,
+      "rsi14": 55.746090726418075,
+      "volume": 44576900.0,
+      "volMA20": 17124835.0
     },
     "MAIN": {
       "date": "2026-10-09",
       "open": 605.0,
-      "close": 610.0,
-      "ma20": 644.5,
-      "ma50": 664.3,
-      "macd": -16.142230137685715,
-      "macdSignal": -14.222817974888118,
-      "rsi14": 36.66171142439315,
-      "volume": 1710800.0,
-      "volMA20": 1516610.0
+      "close": 615.0,
+      "ma20": 644.75,
+      "ma50": 664.4,
+      "macd": -15.485664952634124,
+      "macdSignal": -14.003963345425614,
+      "rsi14": 38.679601253756424,
+      "volume": 1719300.0,
+      "volMA20": 1517035.0
     },
     "MAPA": {
       "date": "2026-10-09",
@@ -3813,35 +3656,35 @@
       "close": 625.0,
       "ma20": 651.75,
       "ma50": 666.0,
-      "macd": -13.431061919708782,
-      "macdSignal": -12.26680298789962,
-      "rsi14": 40.675935068380824,
-      "volume": 12223900.0,
-      "volMA20": 12406845.0
+      "macd": -13.431061683951611,
+      "macdSignal": -12.266802693203175,
+      "rsi14": 40.67585878383459,
+      "volume": 12623600.0,
+      "volMA20": 12426830.0
     },
     "MAPI": {
       "date": "2026-10-09",
       "open": 1550.0,
-      "close": 1540.0,
-      "ma20": 1493.0,
-      "ma50": 1505.8,
-      "macd": 26.018867623234883,
-      "macdSignal": 24.787754375307347,
-      "rsi14": 57.42007167140355,
-      "volume": 5464300.0,
-      "volMA20": 11266690.0
+      "close": 1550.0,
+      "ma20": 1493.5,
+      "ma50": 1506.0,
+      "macd": 27.331998464852177,
+      "macdSignal": 25.225464223625274,
+      "rsi14": 59.39681101548661,
+      "volume": 5563300.0,
+      "volMA20": 11271640.0
     },
     "MARK": {
       "date": "2026-10-09",
       "open": 1195.0,
-      "close": 1180.0,
-      "ma20": 1174.25,
-      "ma50": 1121.4,
-      "macd": 20.187653414034457,
-      "macdSignal": 22.65276483261833,
-      "rsi14": 55.30888591436794,
-      "volume": 14565900.0,
-      "volMA20": 14171680.0
+      "close": 1175.0,
+      "ma20": 1174.0,
+      "ma50": 1121.3,
+      "macd": 19.531087285954754,
+      "macdSignal": 22.433909024370447,
+      "rsi14": 54.24427562620278,
+      "volume": 14601800.0,
+      "volMA20": 14173475.0
     },
     "MBAP": {
       "date": "2026-10-09",
@@ -3849,9 +3692,9 @@
       "close": 1685.0,
       "ma20": 1688.5,
       "ma50": 1602.4,
-      "macd": 3.8121696375076226,
-      "macdSignal": 4.49456371998148,
-      "rsi14": 53.45478797384612,
+      "macd": 3.8121689302358845,
+      "macdSignal": 4.494562835892018,
+      "rsi14": 53.45483289907569,
       "volume": 97800.0,
       "volMA20": 66555.0
     },
@@ -3863,45 +3706,45 @@
       "ma50": 520.42,
       "macd": -14.541737274511206,
       "macdSignal": -14.255139320452033,
-      "rsi14": 40.85447363955988,
-      "volume": 50543300.0,
-      "volMA20": 99672040.0
+      "rsi14": 40.85586130433457,
+      "volume": 52026900.0,
+      "volMA20": 99746220.0
     },
     "MDIA": {
       "date": "2026-10-09",
       "open": 137.0,
-      "close": 138.0,
-      "ma20": 169.55,
-      "ma50": 213.98,
-      "macd": -21.447365712956554,
-      "macdSignal": -21.384779662988045,
-      "rsi14": 32.303293522295775,
-      "volume": 150015800.0,
-      "volMA20": 246117835.0
+      "close": 136.0,
+      "ma20": 169.45,
+      "ma50": 213.94,
+      "macd": -21.709992447096965,
+      "macdSignal": -21.4723223399228,
+      "rsi14": 31.748259764347523,
+      "volume": 155249200.0,
+      "volMA20": 246379505.0
     },
     "MDIY": {
       "date": "2026-10-09",
       "open": 905.0,
-      "close": 890.0,
-      "ma20": 938.0,
-      "ma50": 939.9,
-      "macd": -16.99310651811959,
-      "macdSignal": -11.010087110170572,
-      "rsi14": 28.42157715731406,
-      "volume": 214700.0,
-      "volMA20": 385800.0
+      "close": 895.0,
+      "ma20": 938.25,
+      "ma50": 940.0,
+      "macd": -16.336540390039772,
+      "macdSignal": -10.791231301922643,
+      "rsi14": 31.54307763540737,
+      "volume": 264900.0,
+      "volMA20": 388310.0
     },
     "MDKA": {
       "date": "2026-10-09",
       "open": 2890.0,
-      "close": 2930.0,
-      "ma20": 2912.0,
-      "ma50": 2919.4,
-      "macd": -5.550856571770964,
-      "macdSignal": -6.81773866076729,
-      "rsi14": 50.735081474702845,
-      "volume": 10364800.0,
-      "volMA20": 36225595.0
+      "close": 2940.0,
+      "ma20": 2912.5,
+      "ma50": 2919.6,
+      "macd": -4.237734217407706,
+      "macdSignal": -6.380039421517286,
+      "rsi14": 51.37372047733257,
+      "volume": 10961900.0,
+      "volMA20": 36255450.0
     },
     "MDLA": {
       "date": "2026-10-09",
@@ -3909,35 +3752,35 @@
       "close": 208.0,
       "ma20": 206.5,
       "ma50": 207.96,
-      "macd": 0.22261414100253774,
-      "macdSignal": -0.03198204758208657,
-      "rsi14": 52.58582312157471,
-      "volume": 378200.0,
-      "volMA20": 980840.0
+      "macd": 0.22261395239686976,
+      "macdSignal": -0.03198228333915075,
+      "rsi14": 52.58567003918214,
+      "volume": 382700.0,
+      "volMA20": 981065.0
     },
     "MEDC": {
       "date": "2026-10-09",
       "open": 1440.0,
-      "close": 1435.0,
-      "ma20": 1466.0,
-      "ma50": 1421.4,
-      "macd": -10.527191489448569,
-      "macdSignal": -12.994963808876001,
-      "rsi14": 48.68656252706686,
-      "volume": 19775100.0,
-      "volMA20": 52593215.0
+      "close": 1430.0,
+      "ma20": 1465.75,
+      "ma50": 1421.3,
+      "macd": -11.183759267827554,
+      "macdSignal": -13.21382167999817,
+      "rsi14": 48.01845797755658,
+      "volume": 20878500.0,
+      "volMA20": 52648385.0
     },
     "MIKA": {
       "date": "2026-10-09",
       "open": 1750.0,
-      "close": 1740.0,
-      "ma20": 1729.75,
-      "ma50": 1795.6,
-      "macd": -21.070683875934947,
-      "macdSignal": -31.668208485619324,
-      "rsi14": 48.50175591523321,
-      "volume": 372400.0,
-      "volMA20": 1874500.0
+      "close": 1745.0,
+      "ma20": 1730.0,
+      "ma50": 1795.7,
+      "macd": -20.414116804826563,
+      "macdSignal": -31.449351498585877,
+      "rsi14": 49.346804463522865,
+      "volume": 376000.0,
+      "volMA20": 1874680.0
     },
     "MINE": {
       "date": "2026-10-09",
@@ -3947,21 +3790,21 @@
       "ma50": 260.96,
       "macd": -1.8387901988764384,
       "macdSignal": -0.559091711201687,
-      "rsi14": 48.831049873104085,
-      "volume": 379000.0,
-      "volMA20": 2161285.0
+      "rsi14": 48.831692725623924,
+      "volume": 387000.0,
+      "volMA20": 2161685.0
     },
     "MKAP": {
       "date": "2026-10-09",
       "open": 1130.0,
-      "close": 1120.0,
-      "ma20": 1126.25,
-      "ma50": 1138.9,
-      "macd": 0.9555227384403224,
-      "macdSignal": 1.655271944321219,
-      "rsi14": 45.46256545365903,
-      "volume": 1506200.0,
-      "volMA20": 1867930.0
+      "close": 1115.0,
+      "ma20": 1126.0,
+      "ma50": 1138.8,
+      "macd": 0.2989526024903171,
+      "macdSignal": 1.436411126235502,
+      "rsi14": 43.583598181864055,
+      "volume": 1508200.0,
+      "volMA20": 1868030.0
     },
     "MKTR": {
       "date": "2026-10-09",
@@ -3969,23 +3812,23 @@
       "close": 120.0,
       "ma20": 122.45,
       "ma50": 122.66,
-      "macd": -0.9535542444776013,
-      "macdSignal": -0.8050418958113139,
-      "rsi14": 41.224487388526846,
+      "macd": -0.9535541973262127,
+      "macdSignal": -0.8050418368720659,
+      "rsi14": 41.22488738230515,
       "volume": 520600.0,
       "volMA20": 575255.0
     },
     "MLIA": {
       "date": "2026-10-09",
       "open": 210.0,
-      "close": 210.0,
-      "ma20": 213.7,
-      "ma50": 223.36,
-      "macd": -2.7534616103392295,
-      "macdSignal": -2.9286604585608003,
-      "rsi14": 41.82661898218093,
-      "volume": 37200.0,
-      "volMA20": 209335.0
+      "close": 212.0,
+      "ma20": 213.8,
+      "ma50": 223.4,
+      "macd": -2.4908353477129594,
+      "macdSignal": -2.8411183710187102,
+      "rsi14": 43.78273484466825,
+      "volume": 49500.0,
+      "volMA20": 209950.0
     },
     "MLPL": {
       "date": "2026-10-09",
@@ -3993,23 +3836,23 @@
       "close": 76.0,
       "ma20": 80.2,
       "ma50": 88.74,
-      "macd": -3.4424026174739453,
-      "macdSignal": -3.967759596071911,
-      "rsi14": 38.10299729817216,
-      "volume": 8308900.0,
-      "volMA20": 14482555.0
+      "macd": -3.442402664625348,
+      "macdSignal": -3.967759655011171,
+      "rsi14": 38.10372602684342,
+      "volume": 8695000.0,
+      "volMA20": 14501860.0
     },
     "MMIX": {
       "date": "2026-10-09",
       "open": 945.0,
-      "close": 970.0,
-      "ma20": 897.0,
-      "ma50": 822.5,
-      "macd": 38.12820407460913,
-      "macdSignal": 35.67572573883423,
-      "rsi14": 89.41462759218533,
-      "volume": 39233400.0,
-      "volMA20": 26095690.0
+      "close": 965.0,
+      "ma20": 896.75,
+      "ma50": 822.4,
+      "macd": 37.47163841804354,
+      "macdSignal": 35.456870519979034,
+      "rsi14": 88.9599390048971,
+      "volume": 41409300.0,
+      "volMA20": 26204485.0
     },
     "MMLP": {
       "date": "2026-10-09",
@@ -4017,11 +3860,11 @@
       "close": 296.0,
       "ma20": 303.4,
       "ma50": 300.48,
-      "macd": -3.316017566333187,
-      "macdSignal": -3.367188372749075,
-      "rsi14": 45.50069783751111,
-      "volume": 351700.0,
-      "volMA20": 1493545.0
+      "macd": -3.3160173305760736,
+      "macdSignal": -3.367188078052708,
+      "rsi14": 45.50082769172159,
+      "volume": 352500.0,
+      "volMA20": 1493585.0
     },
     "MNCN": {
       "date": "2026-10-09",
@@ -4029,11 +3872,11 @@
       "close": 122.0,
       "ma20": 149.65,
       "ma50": 181.26,
-      "macd": -19.911606011578684,
-      "macdSignal": -21.815100037454165,
-      "rsi14": 28.399638771891176,
-      "volume": 32432800.0,
-      "volMA20": 110566785.0
+      "macd": -19.911606200184295,
+      "macdSignal": -21.815100273211186,
+      "rsi14": 28.399504464582165,
+      "volume": 34413000.0,
+      "volMA20": 110665795.0
     },
     "MORA": {
       "date": "2026-10-09",
@@ -4041,11 +3884,11 @@
       "close": 4990.0,
       "ma20": 4857.75,
       "ma50": 5196.1,
-      "macd": -59.7473126801342,
-      "macdSignal": -113.73912441991813,
-      "rsi14": 50.12092638645234,
-      "volume": 79100.0,
-      "volMA20": 172060.0
+      "macd": -59.747298534709444,
+      "macdSignal": -113.73910673813755,
+      "rsi14": 50.12138334025737,
+      "volume": 84700.0,
+      "volMA20": 172340.0
     },
     "MPMX": {
       "date": "2026-10-09",
@@ -4055,45 +3898,45 @@
       "ma50": 1018.2,
       "macd": 1.3567670197006692,
       "macdSignal": -0.11938177757411678,
-      "rsi14": 56.434389083766305,
-      "volume": 2306600.0,
-      "volMA20": 2366365.0
+      "rsi14": 56.434479078636855,
+      "volume": 2322800.0,
+      "volMA20": 2367175.0
     },
     "MSIN": {
       "date": "2026-10-09",
       "open": 179.0,
-      "close": 176.0,
-      "ma20": 225.25,
-      "ma50": 299.1,
-      "macd": -36.17713323774359,
-      "macdSignal": -39.0287043569686,
-      "rsi14": 24.35273345702298,
-      "volume": 21987200.0,
-      "volMA20": 58002510.0
+      "close": 179.0,
+      "ma20": 225.4,
+      "ma50": 299.16,
+      "macd": -35.78319591846645,
+      "macdSignal": -38.897393818983275,
+      "rsi14": 24.921395831185322,
+      "volume": 23743600.0,
+      "volMA20": 58090330.0
     },
     "MSJA": {
       "date": "2026-10-09",
       "open": 820.0,
-      "close": 800.0,
-      "ma20": 834.75,
-      "ma50": 619.42,
-      "macd": 35.58067160651251,
-      "macdSignal": 49.54805780711785,
-      "rsi14": 56.99645883203745,
-      "volume": 18727800.0,
-      "volMA20": 17179870.0
+      "close": 805.0,
+      "ma20": 835.0,
+      "ma50": 619.52,
+      "macd": 36.237237357381105,
+      "macdSignal": 49.76691314385165,
+      "rsi14": 58.03501853873839,
+      "volume": 18731100.0,
+      "volMA20": 17180035.0
     },
     "MSTI": {
       "date": "2026-10-09",
       "open": 1330.0,
-      "close": 1325.0,
-      "ma20": 1343.5,
-      "ma50": 1340.4,
-      "macd": -8.065791036158544,
-      "macdSignal": -7.1333457339476105,
-      "rsi14": 44.48747229741319,
-      "volume": 919500.0,
-      "volMA20": 740095.0
+      "close": 1320.0,
+      "ma20": 1343.25,
+      "ma50": 1340.3,
+      "macd": -8.722356221209793,
+      "macdSignal": -7.352200363409973,
+      "rsi14": 42.985416910322634,
+      "volume": 989500.0,
+      "volMA20": 743595.0
     },
     "MTDL": {
       "date": "2026-10-09",
@@ -4101,23 +3944,23 @@
       "close": 505.0,
       "ma20": 501.05,
       "ma50": 507.02,
-      "macd": -0.9239062001719844,
-      "macdSignal": -2.0001769610215443,
-      "rsi14": 51.90797082186644,
-      "volume": 70400.0,
-      "volMA20": 1287605.0
+      "macd": -0.923906435929041,
+      "macdSignal": -2.0001772557178734,
+      "rsi14": 51.90740239176981,
+      "volume": 73500.0,
+      "volMA20": 1287760.0
     },
     "MTEL": {
       "date": "2026-10-09",
       "open": 448.0,
-      "close": 452.0,
-      "ma20": 468.6,
-      "ma50": 462.12,
-      "macd": -8.318104061748045,
-      "macdSignal": -8.385341407351685,
-      "rsi14": 43.417024721942354,
-      "volume": 1820300.0,
-      "volMA20": 13621240.0
+      "close": 450.0,
+      "ma20": 468.5,
+      "ma50": 462.08,
+      "macd": -8.580730560131485,
+      "macdSignal": -8.472883789590181,
+      "rsi14": 42.24754789366009,
+      "volume": 1959200.0,
+      "volMA20": 13628185.0
     },
     "MYOH": {
       "date": "2026-10-09",
@@ -4125,71 +3968,71 @@
       "close": 1015.0,
       "ma20": 1023.0,
       "ma50": 1069.5,
-      "macd": -23.645901079138753,
-      "macdSignal": -27.593422551277264,
-      "rsi14": 42.58349221275149,
+      "macd": -23.64590178640958,
+      "macdSignal": -27.593423435365963,
+      "rsi14": 42.583053904349185,
       "volume": 44300.0,
       "volMA20": 181405.0
     },
     "MYOR": {
       "date": "2026-10-09",
       "open": 1380.0,
-      "close": 1380.0,
-      "ma20": 1436.5,
-      "ma50": 1549.2,
-      "macd": -47.95679513787604,
-      "macdSignal": -51.7145326587819,
-      "rsi14": 31.135511861896532,
-      "volume": 2776200.0,
-      "volMA20": 11206395.0
+      "close": 1375.0,
+      "ma20": 1436.25,
+      "ma50": 1549.1,
+      "macd": -48.613360794441405,
+      "macdSignal": -51.93338787763702,
+      "rsi14": 29.577261386067974,
+      "volume": 3340700.0,
+      "volMA20": 11234620.0
     },
     "NEST": {
       "date": "2026-10-09",
       "open": 845.0,
-      "close": 855.0,
-      "ma20": 774.5,
-      "ma50": 738.4,
-      "macd": 36.04957428222622,
-      "macdSignal": 29.33426134505662,
-      "rsi14": 72.81526469596558,
-      "volume": 14783200.0,
-      "volMA20": 10857540.0
+      "close": 850.0,
+      "ma20": 774.25,
+      "ma50": 738.3,
+      "macd": 35.39300909717474,
+      "macdSignal": 29.11540671559405,
+      "rsi14": 72.11049884392831,
+      "volume": 15327600.0,
+      "volMA20": 10884760.0
     },
     "NICE": {
       "date": "2026-10-09",
       "open": 336.0,
-      "close": 340.0,
-      "ma20": 346.6,
-      "ma50": 321.92,
-      "macd": -1.7222982538566498,
-      "macdSignal": -1.877134034066542,
-      "rsi14": 50.52913776396808,
-      "volume": 164300.0,
-      "volMA20": 1307185.0
+      "close": 342.0,
+      "ma20": 346.7,
+      "ma50": 321.96,
+      "macd": -1.4596727456529948,
+      "macdSignal": -1.7895928895527593,
+      "rsi14": 51.426709474440905,
+      "volume": 164600.0,
+      "volMA20": 1307200.0
     },
     "NICL": {
       "date": "2026-10-09",
       "open": 356.0,
-      "close": 360.0,
-      "ma20": 406.3,
-      "ma50": 452.14,
-      "macd": -32.132997678894185,
-      "macdSignal": -33.72236435326184,
-      "rsi14": 28.820620072109477,
-      "volume": 15069500.0,
-      "volMA20": 29923420.0
+      "close": 362.0,
+      "ma20": 406.4,
+      "ma50": 452.18,
+      "macd": -31.870374009595707,
+      "macdSignal": -33.63482550737952,
+      "rsi14": 29.85486894392831,
+      "volume": 15300100.0,
+      "volMA20": 29934950.0
     },
     "NRCA": {
       "date": "2026-10-09",
       "open": 530.0,
-      "close": 535.0,
-      "ma20": 548.0,
-      "ma50": 549.04,
-      "macd": -5.145521995517015,
-      "macdSignal": -5.087968192538867,
-      "rsi14": 46.71829954323085,
-      "volume": 1922200.0,
-      "volMA20": 5671375.0
+      "close": 530.0,
+      "ma20": 547.75,
+      "ma50": 548.94,
+      "macd": -5.802078929070717,
+      "macdSignal": -5.3068125076293,
+      "rsi14": 45.26988242929792,
+      "volume": 1925800.0,
+      "volMA20": 5671555.0
     },
     "NSSS": {
       "date": "2026-10-09",
@@ -4200,20 +4043,20 @@
       "macd": -22.20458676846374,
       "macdSignal": -28.340838812896223,
       "rsi14": 44.62338751068541,
-      "volume": 1575100.0,
-      "volMA20": 3022955.0
+      "volume": 1619800.0,
+      "volMA20": 3025190.0
     },
     "OMED": {
       "date": "2026-10-09",
       "open": 216.0,
-      "close": 224.0,
-      "ma20": 213.7,
-      "ma50": 223.52,
-      "macd": -0.18967973309506192,
-      "macdSignal": -1.5757018523116342,
-      "rsi14": 56.91142799936058,
-      "volume": 29665600.0,
-      "volMA20": 9105410.0
+      "close": 226.0,
+      "ma20": 213.8,
+      "ma50": 223.56,
+      "macd": 0.07294511498881207,
+      "macdSignal": -1.488161532947564,
+      "rsi14": 58.61698118899844,
+      "volume": 34877900.0,
+      "volMA20": 9366025.0
     },
     "PALM": {
       "date": "2026-10-09",
@@ -4221,11 +4064,11 @@
       "close": 274.0,
       "ma20": 282.9,
       "ma50": 288.6,
-      "macd": -5.3088035443773265,
-      "macdSignal": -5.480022093897455,
-      "rsi14": 38.36718052007235,
-      "volume": 21100.0,
-      "volMA20": 244810.0
+      "macd": -5.308803167166047,
+      "macdSignal": -5.4800216223833385,
+      "rsi14": 38.36860631784142,
+      "volume": 31100.0,
+      "volMA20": 245310.0
     },
     "PBID": {
       "date": "2026-10-09",
@@ -4235,21 +4078,21 @@
       "ma50": 527.9,
       "macd": -1.284772370781866,
       "macdSignal": -1.1804776912098187,
-      "rsi14": 44.3528292780615,
-      "volume": 917000.0,
-      "volMA20": 977085.0
+      "rsi14": 44.35274663297103,
+      "volume": 925100.0,
+      "volMA20": 977490.0
     },
     "PGAS": {
       "date": "2026-10-09",
       "open": 1440.0,
-      "close": 1425.0,
-      "ma20": 1448.75,
-      "ma50": 1489.3,
-      "macd": -22.57950509662919,
-      "macdSignal": -28.458935154128724,
-      "rsi14": 43.053371913099895,
-      "volume": 20719200.0,
-      "volMA20": 27317350.0
+      "close": 1420.0,
+      "ma20": 1448.5,
+      "ma50": 1489.2,
+      "macd": -23.236070281681123,
+      "macdSignal": -28.67778978359148,
+      "rsi14": 42.12764570166118,
+      "volume": 22757000.0,
+      "volMA20": 27419240.0
     },
     "PKPK": {
       "date": "2026-10-09",
@@ -4260,8 +4103,8 @@
       "macd": 789.9994913760793,
       "macdSignal": 747.9261969484631,
       "rsi14": 82.69106858123523,
-      "volume": 3562100.0,
-      "volMA20": 3234515.0
+      "volume": 3616000.0,
+      "volMA20": 3237210.0
     },
     "PMJS": {
       "date": "2026-10-09",
@@ -4272,32 +4115,32 @@
       "macd": -0.10447722967569462,
       "macdSignal": -0.1504427898055509,
       "rsi14": 47.25621126537518,
-      "volume": 1254300.0,
-      "volMA20": 949785.0
+      "volume": 1274300.0,
+      "volMA20": 950785.0
     },
     "POWR": {
       "date": "2026-10-09",
       "open": 965.0,
-      "close": 950.0,
-      "ma20": 967.75,
-      "ma50": 896.0,
-      "macd": 7.025845530727793,
-      "macdSignal": 8.229715655268063,
-      "rsi14": 51.42155674489225,
-      "volume": 2202300.0,
-      "volMA20": 6917020.0
+      "close": 955.0,
+      "ma20": 968.0,
+      "ma50": 896.1,
+      "macd": 7.682411423050553,
+      "macdSignal": 8.448571168819619,
+      "rsi14": 52.49785835518936,
+      "volume": 2628900.0,
+      "volMA20": 6938350.0
     },
     "PPRE": {
       "date": "2026-10-09",
       "open": 90.0,
-      "close": 88.0,
-      "ma20": 96.35,
-      "ma50": 101.58,
-      "macd": -4.567385318879843,
-      "macdSignal": -4.639797664926034,
-      "rsi14": 35.61810967609074,
-      "volume": 8773900.0,
-      "volMA20": 18312455.0
+      "close": 89.0,
+      "ma20": 96.4,
+      "ma50": 101.6,
+      "macd": -4.436072564778058,
+      "macdSignal": -4.596027092669161,
+      "rsi14": 36.770679188330895,
+      "volume": 8917200.0,
+      "volMA20": 18319620.0
     },
     "PRDA": {
       "date": "2026-10-09",
@@ -4305,23 +4148,23 @@
       "close": 3080.0,
       "ma20": 2864.0,
       "ma50": 2668.0,
-      "macd": 94.02882855757525,
-      "macdSignal": 74.8497531619556,
-      "rsi14": 78.54539388764077,
-      "volume": 1024400.0,
-      "volMA20": 767385.0
+      "macd": 94.02882761454703,
+      "macdSignal": 74.84975198317017,
+      "rsi14": 78.54531600521814,
+      "volume": 1052400.0,
+      "volMA20": 768785.0
     },
     "PSAB": {
       "date": "2026-10-09",
       "open": 510.0,
-      "close": 535.0,
-      "ma20": 538.25,
-      "ma50": 539.78,
-      "macd": -10.167591705909672,
-      "macdSignal": -11.427483847068274,
-      "rsi14": 49.436328917033705,
-      "volume": 72736100.0,
-      "volMA20": 65440040.0
+      "close": 540.0,
+      "ma20": 538.5,
+      "ma50": 539.88,
+      "macd": -9.511026520857968,
+      "macdSignal": -11.208629217605559,
+      "rsi14": 51.00525157305797,
+      "volume": 73694100.0,
+      "volMA20": 65487940.0
     },
     "PSAT": {
       "date": "2026-10-09",
@@ -4329,9 +4172,9 @@
       "close": 850.0,
       "ma20": 844.25,
       "ma50": 872.9,
-      "macd": -7.379633802658873,
-      "macdSignal": -11.526403140668986,
-      "rsi14": 49.36070875569657,
+      "macd": -7.379631916602193,
+      "macdSignal": -11.526400783098184,
+      "rsi14": 49.360960599109326,
       "volume": 87600.0,
       "volMA20": 100785.0
     },
@@ -4341,59 +4184,59 @@
       "close": 193.0,
       "ma20": 193.2,
       "ma50": 194.36,
-      "macd": -0.4139894578384542,
-      "macdSignal": -0.4911197791940875,
-      "rsi14": 48.36770152518335,
-      "volume": 128800.0,
-      "volMA20": 151810.0
+      "macd": -0.41398936353556337,
+      "macdSignal": -0.4911196613155088,
+      "rsi14": 48.36786557120479,
+      "volume": 129800.0,
+      "volMA20": 151860.0
     },
     "PSKT": {
       "date": "2026-10-09",
       "open": 214.0,
-      "close": 218.0,
-      "ma20": 232.3,
-      "ma50": 232.4,
-      "macd": -4.7361678033890655,
-      "macdSignal": -2.654460891107455,
-      "rsi14": 41.983650411342616,
-      "volume": 6049600.0,
-      "volMA20": 9171555.0
+      "close": 216.0,
+      "ma20": 232.2,
+      "ma50": 232.36,
+      "macd": -4.998793217289887,
+      "macdSignal": -2.7420019177427495,
+      "rsi14": 40.68060264774393,
+      "volume": 6160500.0,
+      "volMA20": 9177100.0
     },
     "PSSI": {
       "date": "2026-10-09",
       "open": 374.0,
-      "close": 390.0,
-      "ma20": 359.9,
-      "ma50": 344.64,
-      "macd": 9.517087659773665,
-      "macdSignal": 6.923060606690422,
-      "rsi14": 77.22788019943178,
-      "volume": 920000.0,
-      "volMA20": 587860.0
+      "close": 392.0,
+      "ma20": 360.0,
+      "ma50": 344.68,
+      "macd": 9.779714488216825,
+      "macdSignal": 7.010603401503655,
+      "rsi14": 77.90232208901823,
+      "volume": 933300.0,
+      "volMA20": 588525.0
     },
     "PTBA": {
       "date": "2026-10-09",
       "open": 3320.0,
-      "close": 3320.0,
-      "ma20": 3147.0,
-      "ma50": 2793.2,
-      "macd": 137.3330914223543,
-      "macdSignal": 133.15776939770194,
-      "rsi14": 67.31077435940577,
-      "volume": 28891400.0,
-      "volMA20": 35248570.0
+      "close": 3300.0,
+      "ma20": 3146.0,
+      "ma50": 2792.8,
+      "macd": 134.70682926760628,
+      "macdSignal": 132.28234911167414,
+      "rsi14": 65.5819324405195,
+      "volume": 31829700.0,
+      "volMA20": 35395485.0
     },
     "PTPP": {
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "open": 161.0,
       "close": 161.0,
-      "ma20": 182.5,
-      "ma50": 195.48,
-      "macd": -12.881375258662558,
-      "macdSignal": -12.328961084006252,
-      "rsi14": 19.631737889418872,
+      "ma20": 180.6,
+      "ma50": 194.74,
+      "macd": -12.397710167387885,
+      "macdSignal": -12.351877185800664,
+      "rsi14": 19.631771118954987,
       "volume": 0.0,
-      "volMA20": 4935710.0
+      "volMA20": 4257550.0
     },
     "PTPW": {
       "date": "2026-10-09",
@@ -4401,35 +4244,35 @@
       "close": 1120.0,
       "ma20": 1132.25,
       "ma50": 1160.0,
-      "macd": -15.069458099067333,
-      "macdSignal": -18.359220214037844,
-      "rsi14": 41.88947517275161,
+      "macd": -15.069457627552765,
+      "macdSignal": -18.359219624644833,
+      "rsi14": 41.88968961731398,
       "volume": 22800.0,
       "volMA20": 23195.0
     },
     "PTSN": {
       "date": "2026-10-09",
       "open": 420.0,
-      "close": 376.0,
-      "ma20": 403.8,
-      "ma50": 337.44,
-      "macd": 8.374218460825261,
-      "macdSignal": 11.009170106184355,
-      "rsi14": 50.4430587778657,
-      "volume": 7247900.0,
-      "volMA20": 12471980.0
+      "close": 374.0,
+      "ma20": 403.7,
+      "ma50": 337.4,
+      "macd": 8.111590783656482,
+      "macdSignal": 10.921626250464138,
+      "rsi14": 50.03092006001964,
+      "volume": 8134900.0,
+      "volMA20": 12516330.0
     },
     "RAAM": {
       "date": "2026-10-09",
       "open": 167.0,
-      "close": 165.0,
-      "ma20": 167.7,
-      "ma50": 181.42,
-      "macd": -5.2189255846993206,
-      "macdSignal": -6.648530884134023,
-      "rsi14": 44.912184220020144,
-      "volume": 1471600.0,
-      "volMA20": 2674710.0
+      "close": 166.0,
+      "ma20": 167.75,
+      "ma50": 181.44,
+      "macd": -5.087611227449372,
+      "macdSignal": -6.604758307941976,
+      "rsi14": 45.66027083629341,
+      "volume": 1515800.0,
+      "volMA20": 2676920.0
     },
     "RALS": {
       "date": "2026-10-09",
@@ -4437,23 +4280,23 @@
       "close": 376.0,
       "ma20": 381.9,
       "ma50": 382.48,
-      "macd": -2.5619207215887627,
-      "macdSignal": -2.511387411799956,
-      "rsi14": 38.851591968927764,
-      "volume": 1313700.0,
-      "volMA20": 1642745.0
+      "macd": -2.561920250074536,
+      "macdSignal": -2.5113868224071743,
+      "rsi14": 38.85235779051591,
+      "volume": 1493000.0,
+      "volMA20": 1651710.0
     },
     "RATU": {
       "date": "2026-10-09",
       "open": 4010.0,
-      "close": 4050.0,
-      "ma20": 4163.0,
-      "ma50": 4445.3,
-      "macd": -87.03571132748402,
-      "macdSignal": -92.70787613615109,
-      "rsi14": 40.627643853768596,
-      "volume": 2247800.0,
-      "volMA20": 4812500.0
+      "close": 4040.0,
+      "ma20": 4162.5,
+      "ma50": 4445.1,
+      "macd": -88.34878723770453,
+      "macdSignal": -93.14551732022221,
+      "rsi14": 40.07209354842492,
+      "volume": 2328400.0,
+      "volMA20": 4816530.0
     },
     "RISE": {
       "date": "2026-10-09",
@@ -4461,35 +4304,35 @@
       "close": 600.0,
       "ma20": 695.5,
       "ma50": 824.1,
-      "macd": -70.35581780363009,
-      "macdSignal": -74.23427550517087,
-      "rsi14": 29.128402637827705,
-      "volume": 4143400.0,
-      "volMA20": 3083515.0
+      "macd": -70.35579789171209,
+      "macdSignal": -74.23425061527331,
+      "rsi14": 29.13533106020742,
+      "volume": 4216000.0,
+      "volMA20": 3087145.0
     },
     "ROCK": {
       "date": "2026-10-09",
       "open": 2780.0,
-      "close": 2640.0,
-      "ma20": 2330.25,
-      "ma50": 2143.2,
-      "macd": 271.49691364972614,
-      "macdSignal": 277.7507562403048,
-      "rsi14": 54.89826305208971,
-      "volume": 72500.0,
-      "volMA20": 305905.0
+      "close": 2600.0,
+      "ma20": 2328.25,
+      "ma50": 2142.4,
+      "macd": 266.244388161444,
+      "macdSignal": 275.99991419476675,
+      "rsi14": 54.13568953410958,
+      "volume": 74500.0,
+      "volMA20": 306005.0
     },
     "ROTI": {
       "date": "2026-10-09",
       "open": 560.0,
-      "close": 560.0,
-      "ma20": 573.0,
-      "ma50": 580.8,
-      "macd": -6.898185737822814,
-      "macdSignal": -6.89462981209847,
-      "rsi14": 35.69537370648031,
-      "volume": 196200.0,
-      "volMA20": 512950.0
+      "close": 555.0,
+      "ma20": 572.75,
+      "ma50": 580.7,
+      "macd": -7.554751394388518,
+      "macdSignal": -7.113485030953704,
+      "rsi14": 32.452006066175315,
+      "volume": 228500.0,
+      "volMA20": 514565.0
     },
     "RSCH": {
       "date": "2026-10-09",
@@ -4497,47 +4340,47 @@
       "close": 610.0,
       "ma20": 499.3,
       "ma50": 407.0,
-      "macd": 60.323192198650645,
-      "macdSignal": 56.015824444721765,
-      "rsi14": 91.70087960858133,
-      "volume": 21400000.0,
-      "volMA20": 27780500.0
+      "macd": 60.32319144422797,
+      "macdSignal": 56.015823501693475,
+      "rsi14": 91.70081908746072,
+      "volume": 21553400.0,
+      "volMA20": 27788170.0
     },
     "SAME": {
       "date": "2026-10-09",
       "open": 290.0,
-      "close": 294.0,
-      "ma20": 292.4,
-      "ma50": 298.68,
-      "macd": -2.710515632207205,
-      "macdSignal": -3.3553175310987946,
-      "rsi14": 48.81711888749079,
-      "volume": 79700.0,
-      "volMA20": 376365.0
+      "close": 292.0,
+      "ma20": 292.3,
+      "ma50": 298.64,
+      "macd": -2.973141706227864,
+      "macdSignal": -3.442859382883853,
+      "rsi14": 46.87099382471158,
+      "volume": 80200.0,
+      "volMA20": 376390.0
     },
     "SAMF": {
       "date": "2026-10-09",
       "open": 332.0,
-      "close": 326.0,
-      "ma20": 318.7,
-      "ma50": 303.8,
-      "macd": 8.14138521501377,
-      "macdSignal": 8.242511212779883,
-      "rsi14": 53.92102959019949,
-      "volume": 191600.0,
-      "volMA20": 961080.0
+      "close": 324.0,
+      "ma20": 318.6,
+      "ma50": 303.76,
+      "macd": 7.878759140993054,
+      "macdSignal": 8.154969360994775,
+      "rsi14": 52.976559640616394,
+      "volume": 191900.0,
+      "volMA20": 961095.0
     },
     "SGER": {
       "date": "2026-10-09",
       "open": 760.0,
-      "close": 765.0,
-      "ma20": 730.75,
-      "ma50": 624.44,
-      "macd": 32.21697607148121,
-      "macdSignal": 34.44593907153063,
-      "rsi14": 69.69356681696672,
-      "volume": 31615200.0,
-      "volMA20": 43870590.0
+      "close": 775.0,
+      "ma20": 731.25,
+      "ma50": 624.64,
+      "macd": 33.53010389540748,
+      "macdSignal": 34.88364514773491,
+      "rsi14": 71.43996990061342,
+      "volume": 32159700.0,
+      "volMA20": 43897815.0
     },
     "SGRO": {
       "date": "2026-10-09",
@@ -4545,9 +4388,9 @@
       "close": 4310.0,
       "ma20": 4473.0,
       "ma50": 4551.5,
-      "macd": -102.57963254543847,
-      "macdSignal": -104.32199762038823,
-      "rsi14": 43.402634054422684,
+      "macd": -102.57963843936523,
+      "macdSignal": -104.32200498779656,
+      "rsi14": 43.402454359872046,
       "volume": 1600.0,
       "volMA20": 14030.0
     },
@@ -4557,35 +4400,35 @@
       "close": 354.0,
       "ma20": 350.9,
       "ma50": 352.24,
-      "macd": 0.31142865132994757,
-      "macdSignal": -0.3549549875381142,
-      "rsi14": 53.4279797727707,
-      "volume": 8939300.0,
-      "volMA20": 15503755.0
+      "macd": 0.31142912284406066,
+      "macdSignal": -0.35495439814544755,
+      "rsi14": 53.4285101797849,
+      "volume": 9066700.0,
+      "volMA20": 15510125.0
     },
     "SILO": {
       "date": "2026-10-09",
       "open": 1900.0,
-      "close": 1900.0,
-      "ma20": 1992.75,
-      "ma50": 2135.1,
-      "macd": -58.935031378794974,
-      "macdSignal": -53.326974398985044,
-      "rsi14": 36.03109853001082,
-      "volume": 794000.0,
-      "volMA20": 1886850.0
+      "close": 1905.0,
+      "ma20": 1993.0,
+      "ma50": 2135.2,
+      "macd": -58.27846713677195,
+      "macdSignal": -53.108120948307985,
+      "rsi14": 36.418450054695306,
+      "volume": 803400.0,
+      "volMA20": 1887320.0
     },
     "SIMP": {
       "date": "2026-10-09",
       "open": 565.0,
-      "close": 565.0,
-      "ma20": 588.0,
-      "ma50": 602.1,
-      "macd": -13.80092972029513,
-      "macdSignal": -14.147514138019986,
-      "rsi14": 40.20070890707229,
-      "volume": 4271900.0,
-      "volMA20": 9617900.0
+      "close": 560.0,
+      "ma20": 587.75,
+      "ma50": 602.0,
+      "macd": -14.45749490534638,
+      "macdSignal": -14.366368767482346,
+      "rsi14": 37.68926880796797,
+      "volume": 4648500.0,
+      "volMA20": 9636730.0
     },
     "SKLT": {
       "date": "2026-10-09",
@@ -4593,9 +4436,9 @@
       "close": 190.0,
       "ma20": 201.85,
       "ma50": 206.0,
-      "macd": -5.069963325986436,
-      "macdSignal": -4.603658360270802,
-      "rsi14": 35.04459267869754,
+      "macd": -5.069963514592075,
+      "macdSignal": -4.603658596027852,
+      "rsi14": 35.044971163403716,
       "volume": 55100.0,
       "volMA20": 144665.0
     },
@@ -4605,11 +4448,11 @@
       "close": 390.0,
       "ma20": 408.5,
       "ma50": 401.52,
-      "macd": -5.705530424623646,
-      "macdSignal": -3.0256553373218864,
-      "rsi14": 41.789034116944755,
-      "volume": 33700.0,
-      "volMA20": 332665.0
+      "macd": -5.70552995310959,
+      "macdSignal": -3.0256547479293054,
+      "rsi14": 41.78918333960673,
+      "volume": 34300.0,
+      "volMA20": 332695.0
     },
     "SMAR": {
       "date": "2026-10-09",
@@ -4617,11 +4460,11 @@
       "close": 8425.0,
       "ma20": 7045.0,
       "ma50": 6447.5,
-      "macd": 726.1454400948651,
-      "macdSignal": 675.3108705673093,
-      "rsi14": 65.71434790290581,
-      "volume": 94100.0,
-      "volMA20": 278720.0
+      "macd": 726.1454436312215,
+      "macdSignal": 675.3108749877549,
+      "rsi14": 65.71441723659078,
+      "volume": 97300.0,
+      "volMA20": 278880.0
     },
     "SMBR": {
       "date": "2026-10-09",
@@ -4629,11 +4472,11 @@
       "close": 151.0,
       "ma20": 159.3,
       "ma50": 165.68,
-      "macd": -5.637461014720174,
-      "macdSignal": -6.165790961293626,
-      "rsi14": 40.052584424898846,
-      "volume": 2835200.0,
-      "volMA20": 7786535.0
+      "macd": -5.637460260297502,
+      "macdSignal": -6.165790018265314,
+      "rsi14": 40.05309130265745,
+      "volume": 2880000.0,
+      "volMA20": 7788775.0
     },
     "SMDM": {
       "date": "2026-10-09",
@@ -4643,7 +4486,7 @@
       "ma50": 534.86,
       "macd": -21.779291386190152,
       "macdSignal": -20.67790149368591,
-      "rsi14": 28.478865497157045,
+      "rsi14": 28.478788142978104,
       "volume": 19600.0,
       "volMA20": 73935.0
     },
@@ -4653,11 +4496,11 @@
       "close": 416.0,
       "ma20": 399.4,
       "ma50": 352.84,
-      "macd": 14.473401714038744,
-      "macdSignal": 14.349536152290185,
-      "rsi14": 65.67521821275236,
-      "volume": 15423500.0,
-      "volMA20": 33988305.0
+      "macd": 14.473401431130299,
+      "macdSignal": 14.34953579865461,
+      "rsi14": 65.67507922086067,
+      "volume": 16383000.0,
+      "volMA20": 34036280.0
     },
     "SMGR": {
       "date": "2026-10-09",
@@ -4665,47 +4508,47 @@
       "close": 1580.0,
       "ma20": 1556.0,
       "ma50": 1579.6,
-      "macd": -13.565935082913938,
-      "macdSignal": -24.697064970896463,
-      "rsi14": 51.76428287468546,
-      "volume": 8520800.0,
-      "volMA20": 14249890.0
+      "macd": -13.565936025942165,
+      "macdSignal": -24.697066149681824,
+      "rsi14": 51.76414580340384,
+      "volume": 9710400.0,
+      "volMA20": 14309370.0
     },
     "SMIL": {
       "date": "2026-10-09",
       "open": 478.0,
-      "close": 484.0,
-      "ma20": 444.6,
-      "ma50": 422.48,
-      "macd": 18.22791876835373,
-      "macdSignal": 15.341619929826507,
-      "rsi14": 70.23275632499744,
-      "volume": 65476100.0,
-      "volMA20": 55125505.0
+      "close": 486.0,
+      "ma20": 444.7,
+      "ma50": 422.52,
+      "macd": 18.49054503098,
+      "macdSignal": 15.429162017368597,
+      "rsi14": 70.75731990503942,
+      "volume": 67048100.0,
+      "volMA20": 55204105.0
     },
     "SMMT": {
       "date": "2026-10-09",
       "open": 3600.0,
-      "close": 3850.0,
-      "ma20": 3197.5,
-      "ma50": 2521.3,
-      "macd": 291.35504310703664,
-      "macdSignal": 271.22694794740494,
-      "rsi14": 70.25388215007592,
-      "volume": 4414000.0,
-      "volMA20": 1402135.0
+      "close": 3990.0,
+      "ma20": 3204.5,
+      "ma50": 2524.1,
+      "macd": 309.73888502723094,
+      "macdSignal": 277.3548984957962,
+      "rsi14": 72.09018820488934,
+      "volume": 4963100.0,
+      "volMA20": 1429590.0
     },
     "SMRA": {
       "date": "2026-10-09",
       "open": 236.0,
-      "close": 236.0,
-      "ma20": 259.1,
-      "ma50": 299.4,
-      "macd": -19.637085340766646,
-      "macdSignal": -21.26026479296461,
-      "rsi14": 23.918651520614034,
-      "volume": 13130200.0,
-      "volMA20": 53166650.0
+      "close": 238.0,
+      "ma20": 259.2,
+      "ma50": 299.44,
+      "macd": -19.374458795231817,
+      "macdSignal": -21.17272235178682,
+      "rsi14": 26.189583087835402,
+      "volume": 13783500.0,
+      "volMA20": 53199315.0
     },
     "SMSM": {
       "date": "2026-10-09",
@@ -4713,11 +4556,11 @@
       "close": 1690.0,
       "ma20": 1694.0,
       "ma50": 1722.0,
-      "macd": -7.631003759410987,
-      "macdSignal": -10.301853800270521,
-      "rsi14": 46.46057191020664,
-      "volume": 1125600.0,
-      "volMA20": 1874215.0
+      "macd": -7.631003523654044,
+      "macdSignal": -10.301853505574284,
+      "rsi14": 46.46061704909012,
+      "volume": 1182300.0,
+      "volMA20": 1877050.0
     },
     "SOCI": {
       "date": "2026-10-09",
@@ -4725,23 +4568,23 @@
       "close": 575.0,
       "ma20": 630.25,
       "ma50": 579.5,
-      "macd": -8.473564677593345,
-      "macdSignal": -0.6846330588181546,
-      "rsi14": 41.83807783101552,
-      "volume": 12846400.0,
-      "volMA20": 22177445.0
+      "macd": -8.4735701000061,
+      "macdSignal": -0.6846398368340636,
+      "rsi14": 41.83718189189613,
+      "volume": 13096800.0,
+      "volMA20": 22189965.0
     },
     "SPTO": {
       "date": "2026-10-09",
       "open": 610.0,
-      "close": 605.0,
-      "ma20": 605.25,
-      "ma50": 608.0,
-      "macd": 0.1113667690267448,
-      "macdSignal": -0.2998926214438225,
-      "rsi14": 48.08142049938235,
-      "volume": 686800.0,
-      "volMA20": 573110.0
+      "close": 610.0,
+      "ma20": 605.5,
+      "ma50": 608.1,
+      "macd": 0.7679328971065615,
+      "macdSignal": -0.08103681319589395,
+      "rsi14": 54.78499598589165,
+      "volume": 694200.0,
+      "volMA20": 573480.0
     },
     "SRTG": {
       "date": "2026-10-09",
@@ -4749,35 +4592,35 @@
       "close": 1750.0,
       "ma20": 1771.0,
       "ma50": 1807.6,
-      "macd": -16.24697862572407,
-      "macdSignal": -18.632051544109686,
-      "rsi14": 45.721714308042294,
-      "volume": 558400.0,
-      "volMA20": 1839875.0
+      "macd": -16.24697838996667,
+      "macdSignal": -18.63205124941306,
+      "rsi14": 45.723016395367566,
+      "volume": 570600.0,
+      "volMA20": 1840485.0
     },
     "SSIA": {
       "date": "2026-10-09",
       "open": 1675.0,
-      "close": 1690.0,
-      "ma20": 1697.5,
-      "ma50": 1730.7,
-      "macd": -8.855995064846866,
-      "macdSignal": -10.849935193389117,
-      "rsi14": 47.36245970082027,
-      "volume": 3449200.0,
-      "volMA20": 12407050.0
+      "close": 1685.0,
+      "ma20": 1697.25,
+      "ma50": 1730.6,
+      "macd": -9.512560957169853,
+      "macdSignal": -11.068790706940852,
+      "rsi14": 46.866660077723935,
+      "volume": 3866100.0,
+      "volMA20": 12427895.0
     },
     "STAA": {
       "date": "2026-10-09",
       "open": 1215.0,
-      "close": 1235.0,
-      "ma20": 1202.75,
-      "ma50": 1174.9,
-      "macd": 13.674682463205045,
-      "macdSignal": 11.618383461408568,
-      "rsi14": 57.68332279297845,
-      "volume": 3154900.0,
-      "volMA20": 4881015.0
+      "close": 1240.0,
+      "ma20": 1203.0,
+      "ma50": 1175.0,
+      "macd": 14.331248119770407,
+      "macdSignal": 11.837238680263688,
+      "rsi14": 58.619730061268264,
+      "volume": 3162700.0,
+      "volMA20": 4881405.0
     },
     "SUNI": {
       "date": "2026-10-09",
@@ -4785,23 +4628,23 @@
       "close": 650.0,
       "ma20": 661.0,
       "ma50": 692.0,
-      "macd": -14.957316199699335,
-      "macdSignal": -17.030075607200438,
-      "rsi14": 45.05156994303866,
-      "volume": 805900.0,
-      "volMA20": 482710.0
+      "macd": -14.957315492428052,
+      "macdSignal": -17.030074723111408,
+      "rsi14": 45.051704907546764,
+      "volume": 808400.0,
+      "volMA20": 482835.0
     },
     "TAPG": {
       "date": "2026-10-09",
       "open": 1990.0,
-      "close": 2020.0,
-      "ma20": 2056.75,
-      "ma50": 2025.9,
-      "macd": -34.94296066136076,
-      "macdSignal": -44.31771985427712,
-      "rsi14": 48.41169309846949,
-      "volume": 2780800.0,
-      "volMA20": 14335140.0
+      "close": 2010.0,
+      "ma20": 2056.25,
+      "ma50": 2025.7,
+      "macd": -36.25608961692183,
+      "macdSignal": -44.75542734502467,
+      "rsi14": 47.44315855056377,
+      "volume": 2879200.0,
+      "volMA20": 14340060.0
     },
     "TCPI": {
       "date": "2026-10-09",
@@ -4809,23 +4652,23 @@
       "close": 1625.0,
       "ma20": 1523.0,
       "ma50": 2455.6,
-      "macd": -225.40176074600004,
-      "macdSignal": -274.04361080215625,
-      "rsi14": 43.58560843426352,
-      "volume": 7078600.0,
-      "volMA20": 4387805.0
+      "macd": -225.4017689974978,
+      "macdSignal": -274.04362111652836,
+      "rsi14": 43.5858062560942,
+      "volume": 7134500.0,
+      "volMA20": 4390600.0
     },
     "TEBE": {
       "date": "2026-10-09",
       "open": 2400.0,
-      "close": 2790.0,
-      "ma20": 2301.25,
-      "ma50": 1808.9,
-      "macd": 289.5326379427779,
-      "macdSignal": 293.31520023603196,
-      "rsi14": 78.61545359493084,
-      "volume": 61739200.0,
-      "volMA20": 23883575.0
+      "close": 2800.0,
+      "ma20": 2301.75,
+      "ma50": 1809.1,
+      "macd": 290.8457753855928,
+      "macdSignal": 293.75291833584686,
+      "rsi14": 78.82210681017253,
+      "volume": 62494300.0,
+      "volMA20": 23921330.0
     },
     "TINS": {
       "date": "2026-10-09",
@@ -4833,35 +4676,35 @@
       "close": 4450.0,
       "ma20": 4669.0,
       "ma50": 4293.4,
-      "macd": 14.871126861424273,
-      "macdSignal": 48.75048414915166,
-      "rsi14": 46.56540646449385,
-      "volume": 32342000.0,
-      "volMA20": 36477100.0
+      "macd": 14.871127332938158,
+      "macdSignal": 48.75048473854435,
+      "rsi14": 46.56566579580725,
+      "volume": 33423100.0,
+      "volMA20": 36531155.0
     },
     "TKIM": {
       "date": "2026-10-09",
       "open": 7300.0,
-      "close": 7450.0,
-      "ma20": 7352.5,
-      "ma50": 7560.5,
-      "macd": -83.30658274987127,
-      "macdSignal": -133.87608932674664,
-      "rsi14": 51.61105488638102,
-      "volume": 571000.0,
-      "volMA20": 1892645.0
+      "close": 7425.0,
+      "ma20": 7351.25,
+      "ma50": 7560.0,
+      "macd": -86.5894157478424,
+      "macdSignal": -134.97037131495088,
+      "rsi14": 50.91632617796677,
+      "volume": 591100.0,
+      "volMA20": 1893650.0
     },
     "TLDN": {
       "date": "2026-10-09",
       "open": 600.0,
-      "close": 595.0,
-      "ma20": 600.75,
-      "ma50": 589.4,
-      "macd": -1.3666907193094175,
-      "macdSignal": -2.233517871529326,
-      "rsi14": 49.419734453310035,
-      "volume": 1868900.0,
-      "volMA20": 1150655.0
+      "close": 615.0,
+      "ma20": 601.75,
+      "ma50": 589.8,
+      "macd": 1.2595719069532834,
+      "macdSignal": -1.3580969961084257,
+      "rsi14": 57.8255194095638,
+      "volume": 2151800.0,
+      "volMA20": 1164800.0
     },
     "TLKM": {
       "date": "2026-10-09",
@@ -4869,23 +4712,23 @@
       "close": 2320.0,
       "ma20": 2421.0,
       "ma50": 2546.6,
-      "macd": -86.32332638649905,
-      "macdSignal": -94.97880012422586,
-      "rsi14": 37.98080009639837,
-      "volume": 141699800.0,
-      "volMA20": 152918180.0
+      "macd": -86.32332968709852,
+      "macdSignal": -94.97880424997484,
+      "rsi14": 37.98091953216687,
+      "volume": 166319300.0,
+      "volMA20": 154149155.0
     },
     "TMAS": {
       "date": "2026-10-09",
       "open": 128.0,
-      "close": 127.0,
-      "ma20": 133.85,
-      "ma50": 134.42,
-      "macd": -3.9126601558686502,
-      "macdSignal": -4.583128008602641,
-      "rsi14": 43.59393396221014,
-      "volume": 2596400.0,
-      "volMA20": 6057595.0
+      "close": 128.0,
+      "ma20": 133.9,
+      "ma50": 134.44,
+      "macd": -3.7813469774041266,
+      "macdSignal": -4.539356905892336,
+      "rsi14": 44.59689393406218,
+      "volume": 2618700.0,
+      "volMA20": 6058710.0
     },
     "TOBA": {
       "date": "2026-10-09",
@@ -4893,35 +4736,35 @@
       "close": 462.0,
       "ma20": 493.75,
       "ma50": 523.1,
-      "macd": -21.448035407944133,
-      "macdSignal": -22.134591386655583,
-      "rsi14": 37.426864042359185,
-      "volume": 2352400.0,
-      "volMA20": 6364545.0
+      "macd": -21.448033286130567,
+      "macdSignal": -22.13458873438859,
+      "rsi14": 37.42730341562285,
+      "volume": 2493300.0,
+      "volMA20": 6371590.0
     },
     "TOTL": {
       "date": "2026-10-09",
       "open": 1450.0,
-      "close": 1515.0,
-      "ma20": 1545.0,
-      "ma50": 1459.9,
-      "macd": -5.718063603233077,
-      "macdSignal": 1.9438193467692106,
-      "rsi14": 50.88902140498902,
-      "volume": 2563300.0,
-      "volMA20": 3502020.0
+      "close": 1510.0,
+      "ma20": 1544.75,
+      "ma50": 1459.8,
+      "macd": -6.374628788285236,
+      "macdSignal": 1.7249647173060816,
+      "rsi14": 50.34066071698681,
+      "volume": 2669000.0,
+      "volMA20": 3507305.0
     },
     "TOTO": {
       "date": "2026-10-09",
       "open": 238.0,
-      "close": 240.0,
-      "ma20": 240.9,
-      "ma50": 237.96,
-      "macd": 0.034419938657720195,
-      "macdSignal": 0.17703523792497858,
-      "rsi14": 50.21632845348219,
-      "volume": 87900.0,
-      "volMA20": 436540.0
+      "close": 242.0,
+      "ma20": 241.0,
+      "ma50": 238.0,
+      "macd": 0.29704620128396186,
+      "macdSignal": 0.26457732546705914,
+      "rsi14": 57.87579077388124,
+      "volume": 88000.0,
+      "volMA20": 436545.0
     },
     "TPIA": {
       "date": "2026-10-09",
@@ -4929,11 +4772,11 @@
       "close": 1675.0,
       "ma20": 1777.0,
       "ma50": 1922.7,
-      "macd": -64.8504786158353,
-      "macdSignal": -64.05299709373409,
-      "rsi14": 34.61237091785307,
-      "volume": 51690000.0,
-      "volMA20": 99114975.0
+      "macd": -64.85046800676696,
+      "macdSignal": -64.05298383239872,
+      "rsi14": 34.61372802404513,
+      "volume": 53663900.0,
+      "volMA20": 99213670.0
     },
     "TPMA": {
       "date": "2026-10-09",
@@ -4941,59 +4784,59 @@
       "close": 446.0,
       "ma20": 459.5,
       "ma50": 464.92,
-      "macd": -8.098958292493592,
-      "macdSignal": -8.090409070000486,
-      "rsi14": 37.93082442707724,
-      "volume": 483500.0,
-      "volMA20": 1075745.0
+      "macd": -8.098958056736478,
+      "macdSignal": -8.090408775304102,
+      "rsi14": 37.931093278627465,
+      "volume": 484600.0,
+      "volMA20": 1075800.0
     },
     "TRST": {
       "date": "2026-10-09",
       "open": 476.0,
-      "close": 494.0,
-      "ma20": 479.8,
-      "ma50": 468.28,
-      "macd": 6.017913727506425,
-      "macdSignal": 5.850168984589141,
-      "rsi14": 56.632593945756916,
-      "volume": 88900.0,
-      "volMA20": 43370.0
+      "close": 496.0,
+      "ma20": 479.9,
+      "ma50": 468.32,
+      "macd": 6.280539990132752,
+      "macdSignal": 5.93771107213125,
+      "rsi14": 57.294157935127025,
+      "volume": 108900.0,
+      "volMA20": 44370.0
     },
     "TSPC": {
       "date": "2026-10-09",
       "open": 2590.0,
-      "close": 2610.0,
-      "ma20": 2682.5,
-      "ma50": 2739.6,
-      "macd": -34.20754373961108,
-      "macdSignal": -32.99172006918521,
-      "rsi14": 37.04371325633711,
-      "volume": 655200.0,
-      "volMA20": 466700.0
+      "close": 2630.0,
+      "ma20": 2683.5,
+      "ma50": 2740.0,
+      "macd": -31.581280170320042,
+      "macdSignal": -32.116298014979044,
+      "rsi14": 41.13920022729451,
+      "volume": 657100.0,
+      "volMA20": 466795.0
     },
     "UANG": {
       "date": "2026-10-09",
       "open": 3060.0,
-      "close": 2970.0,
-      "ma20": 3694.0,
-      "ma50": 3156.0,
-      "macd": -150.698297370227,
-      "macdSignal": -50.67367681832997,
-      "rsi14": 36.84527849702229,
-      "volume": 277900.0,
-      "volMA20": 752945.0
+      "close": 2980.0,
+      "ma20": 3694.5,
+      "ma50": 3156.2,
+      "macd": -149.3851467250165,
+      "macdSignal": -50.23594221552018,
+      "rsi14": 37.02698646034737,
+      "volume": 281500.0,
+      "volMA20": 753125.0
     },
     "UCID": {
       "date": "2026-10-09",
       "open": 486.0,
-      "close": 488.0,
-      "ma20": 491.9,
-      "ma50": 477.5,
-      "macd": -1.5889594487090335,
-      "macdSignal": -1.905098468830086,
-      "rsi14": 50.84266526540421,
-      "volume": 109200.0,
-      "volMA20": 914345.0
+      "close": 484.0,
+      "ma20": 491.7,
+      "ma50": 477.42,
+      "macd": -2.114212162567128,
+      "macdSignal": -2.080182879671237,
+      "rsi14": 47.94622234403885,
+      "volume": 119800.0,
+      "volMA20": 914875.0
     },
     "ULTJ": {
       "date": "2026-10-09",
@@ -5001,23 +4844,23 @@
       "close": 2120.0,
       "ma20": 2022.25,
       "ma50": 1707.9,
-      "macd": 109.820256768018,
-      "macdSignal": 118.68946803857517,
-      "rsi14": 75.68254867428611,
-      "volume": 11503300.0,
-      "volMA20": 31337780.0
+      "macd": 109.82025299590532,
+      "macdSignal": 118.68946332343405,
+      "rsi14": 75.68217994542093,
+      "volume": 11779800.0,
+      "volMA20": 31351605.0
     },
     "UNTR": {
       "date": "2026-10-09",
       "open": 24500.0,
-      "close": 24750.0,
-      "ma20": 25296.25,
-      "ma50": 24730.5,
-      "macd": -27.169109319096606,
-      "macdSignal": 110.89172101717256,
-      "rsi14": 46.57073397188151,
-      "volume": 1017000.0,
-      "volMA20": 3540275.0
+      "close": 24800.0,
+      "ma20": 25298.75,
+      "ma50": 24731.5,
+      "macd": -20.60344568073924,
+      "macdSignal": 113.0802820466063,
+      "rsi14": 46.95814851088829,
+      "volume": 1103700.0,
+      "volMA20": 3544610.0
     },
     "UNVR": {
       "date": "2026-10-09",
@@ -5025,11 +4868,11 @@
       "close": 1595.0,
       "ma20": 1615.25,
       "ma50": 1695.4,
-      "macd": -25.84663688401838,
-      "macdSignal": -27.015458431816768,
-      "rsi14": 39.38263566803271,
-      "volume": 7671000.0,
-      "volMA20": 13004000.0
+      "macd": -25.846635940990154,
+      "macdSignal": -27.015457253031435,
+      "rsi14": 39.3827569827777,
+      "volume": 8187900.0,
+      "volMA20": 13029845.0
     },
     "VERN": {
       "date": "2026-10-09",
@@ -5037,11 +4880,11 @@
       "close": 236.0,
       "ma20": 219.45,
       "ma50": 224.04,
-      "macd": -3.7478703856779703,
-      "macdSignal": -8.094346941635845,
-      "rsi14": 57.330401456332616,
-      "volume": 24969900.0,
-      "volMA20": 14632295.0
+      "macd": -3.7478703385264964,
+      "macdSignal": -8.094346882696515,
+      "rsi14": 57.33042509654329,
+      "volume": 28378500.0,
+      "volMA20": 14802725.0
     },
     "VICI": {
       "date": "2026-10-09",
@@ -5049,47 +4892,47 @@
       "close": 1250.0,
       "ma20": 1075.25,
       "ma50": 875.5,
-      "macd": 86.10023852772702,
-      "macdSignal": 56.40857759539352,
+      "macd": 86.10024253559709,
+      "macdSignal": 56.4085826052312,
       "rsi14": 67.66879935492554,
-      "volume": 15126100.0,
-      "volMA20": 7950735.0
+      "volume": 15369000.0,
+      "volMA20": 7962880.0
     },
     "VISI": {
       "date": "2026-10-09",
       "open": 1010.0,
-      "close": 1070.0,
-      "ma20": 1159.25,
-      "ma50": 1034.1,
-      "macd": -26.117566545382488,
-      "macdSignal": -11.629019644078785,
-      "rsi14": 47.78370055050847,
-      "volume": 673700.0,
-      "volMA20": 2925565.0
+      "close": 1090.0,
+      "ma20": 1160.25,
+      "ma50": 1034.5,
+      "macd": -23.491305710873576,
+      "macdSignal": -10.753601008350106,
+      "rsi14": 49.49775064461775,
+      "volume": 710800.0,
+      "volMA20": 2927420.0
     },
     "VKTR": {
       "date": "2026-10-09",
       "open": 620.0,
-      "close": 655.0,
-      "ma20": 716.3159240722656,
-      "ma50": 801.6263696289062,
-      "macd": -49.78964385865072,
-      "macdSignal": -51.092525109332726,
-      "rsi14": 40.466924906553466,
-      "volume": 31120100.0,
-      "volMA20": 71298607.45
+      "close": 645.0,
+      "ma20": 715.8159240722656,
+      "ma50": 801.4263696289063,
+      "macd": -51.102774464510844,
+      "macdSignal": -51.53023466295423,
+      "rsi14": 39.050565922755546,
+      "volume": 33292100.0,
+      "volMA20": 71407207.45
     },
     "WIFI": {
       "date": "2026-10-09",
       "open": 1390.0,
-      "close": 1425.0,
-      "ma20": 1698.5,
-      "ma50": 1896.7,
-      "macd": -172.56775082761465,
-      "macdSignal": -165.3744203116355,
-      "rsi14": 22.282749015929653,
-      "volume": 19471900.0,
-      "volMA20": 23039465.0
+      "close": 1405.0,
+      "ma20": 1697.5,
+      "ma50": 1896.3,
+      "macd": -175.1940054381373,
+      "macdSignal": -166.24983116738107,
+      "rsi14": 19.383629662929266,
+      "volume": 20512600.0,
+      "volMA20": 23091500.0
     },
     "WOOD": {
       "date": "2026-10-09",
@@ -5097,11 +4940,11 @@
       "close": 185.0,
       "ma20": 190.9,
       "ma50": 204.96,
-      "macd": -5.4076946963706405,
-      "macdSignal": -5.935488868442068,
+      "macd": -5.407694413462167,
+      "macdSignal": -5.935488514806472,
       "rsi14": 40.7525927602748,
-      "volume": 257700.0,
-      "volMA20": 2772485.0
+      "volume": 263100.0,
+      "volMA20": 2772755.0
     },
     "YUPI": {
       "date": "2026-10-09",
@@ -5109,9 +4952,9 @@
       "close": 1240.0,
       "ma20": 1260.5,
       "ma50": 1304.0,
-      "macd": -25.112889394380773,
-      "macdSignal": -28.05264508133024,
-      "rsi14": 40.22602998048494,
+      "macd": -25.112888922867114,
+      "macdSignal": -28.052644491937983,
+      "rsi14": 40.22615882359896,
       "volume": 2000.0,
       "volMA20": 16835.0
     }
