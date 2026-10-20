@@ -2,7 +2,7 @@
   "version": 1,
   "startForwardDate": "2026-09-09",
   "initialCapital": 10000000,
-  "updatedAtWITA": "2026-10-20 00:01 WITA",
+  "updatedAtWITA": "2026-10-20 21:58 WITA",
   "portfolios": {
     "AADI": {
       "D_TREND_MA20_GT_MA50": {
@@ -9792,21 +9792,26 @@
         ]
       },
       "B_MA20_FULL": {
-        "cash": 0.0,
-        "qty": 3339.4723967560362,
-        "costBasis": 10000000.0,
-        "entryDate": "2026-10-07",
-        "entryPrice": 2990.0,
+        "cash": 9603253.981903398,
+        "qty": 0.0,
+        "costBasis": 0.0,
+        "entryDate": null,
+        "entryPrice": null,
         "pendingBuySignalDate": null,
-        "pendingExitSignalDate": "2026-10-19",
+        "pendingExitSignalDate": null,
         "trades": [
           {
-            "status": "OPEN",
+            "status": "CLOSED",
             "signalEntryDate": "2026-10-06",
             "entryDate": "2026-10-07",
             "entryPrice": 2990.0,
+            "exitSignalDate": "2026-10-19",
+            "exitDate": "2026-10-20",
+            "exitPrice": 2880.0,
             "qty": 3339.4723967560362,
-            "costBasis": 10000000.0
+            "netReturnPct": -3.9674601809660204,
+            "pnlIDR": -396746.0180966016,
+            "equityAfter": 9603253.981903398
           }
         ]
       }
