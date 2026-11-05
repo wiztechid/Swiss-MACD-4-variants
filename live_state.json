@@ -2,7 +2,7 @@
   "version": 1,
   "startForwardDate": "2026-09-09",
   "initialCapital": 10000000,
-  "updatedAtWITA": "2026-11-05 00:41 WITA",
+  "updatedAtWITA": "2026-11-06 00:57 WITA",
   "portfolios": {
     "AADI": {
       "D_TREND_MA20_GT_MA50": {
@@ -12079,78 +12079,98 @@
     },
     "STAA": {
       "D_TREND_MA20_GT_MA50": {
-        "cash": 0.0,
-        "qty": 8184.444644508647,
-        "costBasis": 10000000.0,
-        "entryDate": "2026-10-05",
-        "entryPrice": 1220.0,
+        "cash": 8294750.4972050125,
+        "qty": 0.0,
+        "costBasis": 0.0,
+        "entryDate": null,
+        "entryPrice": null,
         "pendingBuySignalDate": null,
-        "pendingExitSignalDate": "2026-11-04",
+        "pendingExitSignalDate": null,
         "trades": [
           {
-            "status": "OPEN",
+            "status": "CLOSED",
             "signalEntryDate": "2026-10-02",
             "entryDate": "2026-10-05",
             "entryPrice": 1220.0,
+            "exitSignalDate": "2026-11-04",
+            "exitDate": "2026-11-05",
+            "exitPrice": 1015.0,
             "qty": 8184.444644508647,
-            "costBasis": 10000000.0
+            "netReturnPct": -17.052495027949877,
+            "pnlIDR": -1705249.5027949875,
+            "equityAfter": 8294750.4972050125
           }
         ]
       },
       "A_BASELINE_MA50": {
-        "cash": 0.0,
-        "qty": 8184.444644508647,
-        "costBasis": 10000000.0,
-        "entryDate": "2026-10-05",
-        "entryPrice": 1220.0,
+        "cash": 8294750.4972050125,
+        "qty": 0.0,
+        "costBasis": 0.0,
+        "entryDate": null,
+        "entryPrice": null,
         "pendingBuySignalDate": null,
-        "pendingExitSignalDate": "2026-11-04",
+        "pendingExitSignalDate": null,
         "trades": [
           {
-            "status": "OPEN",
+            "status": "CLOSED",
             "signalEntryDate": "2026-10-02",
             "entryDate": "2026-10-05",
             "entryPrice": 1220.0,
+            "exitSignalDate": "2026-11-04",
+            "exitDate": "2026-11-05",
+            "exitPrice": 1015.0,
             "qty": 8184.444644508647,
-            "costBasis": 10000000.0
+            "netReturnPct": -17.052495027949877,
+            "pnlIDR": -1705249.5027949875,
+            "equityAfter": 8294750.4972050125
           }
         ]
       },
       "C_EARLY_BUY_MA20_EXIT_MA50": {
-        "cash": 0.0,
-        "qty": 8184.444644508647,
-        "costBasis": 10000000.0,
-        "entryDate": "2026-10-05",
-        "entryPrice": 1220.0,
+        "cash": 8294750.4972050125,
+        "qty": 0.0,
+        "costBasis": 0.0,
+        "entryDate": null,
+        "entryPrice": null,
         "pendingBuySignalDate": null,
-        "pendingExitSignalDate": "2026-11-04",
+        "pendingExitSignalDate": null,
         "trades": [
           {
-            "status": "OPEN",
+            "status": "CLOSED",
             "signalEntryDate": "2026-10-02",
             "entryDate": "2026-10-05",
             "entryPrice": 1220.0,
+            "exitSignalDate": "2026-11-04",
+            "exitDate": "2026-11-05",
+            "exitPrice": 1015.0,
             "qty": 8184.444644508647,
-            "costBasis": 10000000.0
+            "netReturnPct": -17.052495027949877,
+            "pnlIDR": -1705249.5027949875,
+            "equityAfter": 8294750.4972050125
           }
         ]
       },
       "B_MA20_FULL": {
-        "cash": 0.0,
-        "qty": 8184.444644508647,
-        "costBasis": 10000000.0,
-        "entryDate": "2026-10-05",
-        "entryPrice": 1220.0,
+        "cash": 8294750.4972050125,
+        "qty": 0.0,
+        "costBasis": 0.0,
+        "entryDate": null,
+        "entryPrice": null,
         "pendingBuySignalDate": null,
-        "pendingExitSignalDate": "2026-11-04",
+        "pendingExitSignalDate": null,
         "trades": [
           {
-            "status": "OPEN",
+            "status": "CLOSED",
             "signalEntryDate": "2026-10-02",
             "entryDate": "2026-10-05",
             "entryPrice": 1220.0,
+            "exitSignalDate": "2026-11-04",
+            "exitDate": "2026-11-05",
+            "exitPrice": 1015.0,
             "qty": 8184.444644508647,
-            "costBasis": 10000000.0
+            "netReturnPct": -17.052495027949877,
+            "pnlIDR": -1705249.5027949875,
+            "equityAfter": 8294750.4972050125
           }
         ]
       }
@@ -12633,78 +12653,98 @@
     },
     "TOTL": {
       "D_TREND_MA20_GT_MA50": {
-        "cash": 0.0,
-        "qty": 6240.639041437843,
-        "costBasis": 10000000.0,
-        "entryDate": "2026-09-22",
-        "entryPrice": 1600.0,
+        "cash": 8568007.36395407,
+        "qty": 0.0,
+        "costBasis": 0.0,
+        "entryDate": null,
+        "entryPrice": null,
         "pendingBuySignalDate": null,
-        "pendingExitSignalDate": "2026-11-04",
+        "pendingExitSignalDate": null,
         "trades": [
           {
-            "status": "OPEN",
+            "status": "CLOSED",
             "signalEntryDate": "2026-09-21",
             "entryDate": "2026-09-22",
             "entryPrice": 1600.0,
+            "exitSignalDate": "2026-11-04",
+            "exitDate": "2026-11-05",
+            "exitPrice": 1375.0,
             "qty": 6240.639041437843,
-            "costBasis": 10000000.0
+            "netReturnPct": -14.319926360459313,
+            "pnlIDR": -1431992.636045931,
+            "equityAfter": 8568007.36395407
           }
         ]
       },
       "A_BASELINE_MA50": {
-        "cash": 0.0,
-        "qty": 6240.639041437843,
-        "costBasis": 10000000.0,
-        "entryDate": "2026-09-22",
-        "entryPrice": 1600.0,
+        "cash": 8568007.36395407,
+        "qty": 0.0,
+        "costBasis": 0.0,
+        "entryDate": null,
+        "entryPrice": null,
         "pendingBuySignalDate": null,
-        "pendingExitSignalDate": "2026-11-04",
+        "pendingExitSignalDate": null,
         "trades": [
           {
-            "status": "OPEN",
+            "status": "CLOSED",
             "signalEntryDate": "2026-09-21",
             "entryDate": "2026-09-22",
             "entryPrice": 1600.0,
+            "exitSignalDate": "2026-11-04",
+            "exitDate": "2026-11-05",
+            "exitPrice": 1375.0,
             "qty": 6240.639041437843,
-            "costBasis": 10000000.0
+            "netReturnPct": -14.319926360459313,
+            "pnlIDR": -1431992.636045931,
+            "equityAfter": 8568007.36395407
           }
         ]
       },
       "C_EARLY_BUY_MA20_EXIT_MA50": {
-        "cash": 0.0,
-        "qty": 6240.639041437843,
-        "costBasis": 10000000.0,
-        "entryDate": "2026-09-22",
-        "entryPrice": 1600.0,
+        "cash": 8568007.36395407,
+        "qty": 0.0,
+        "costBasis": 0.0,
+        "entryDate": null,
+        "entryPrice": null,
         "pendingBuySignalDate": null,
-        "pendingExitSignalDate": "2026-11-04",
+        "pendingExitSignalDate": null,
         "trades": [
           {
-            "status": "OPEN",
+            "status": "CLOSED",
             "signalEntryDate": "2026-09-21",
             "entryDate": "2026-09-22",
             "entryPrice": 1600.0,
+            "exitSignalDate": "2026-11-04",
+            "exitDate": "2026-11-05",
+            "exitPrice": 1375.0,
             "qty": 6240.639041437843,
-            "costBasis": 10000000.0
+            "netReturnPct": -14.319926360459313,
+            "pnlIDR": -1431992.636045931,
+            "equityAfter": 8568007.36395407
           }
         ]
       },
       "B_MA20_FULL": {
-        "cash": 0.0,
-        "qty": 6240.639041437843,
-        "costBasis": 10000000.0,
-        "entryDate": "2026-09-22",
-        "entryPrice": 1600.0,
+        "cash": 8568007.36395407,
+        "qty": 0.0,
+        "costBasis": 0.0,
+        "entryDate": null,
+        "entryPrice": null,
         "pendingBuySignalDate": null,
-        "pendingExitSignalDate": "2026-11-04",
+        "pendingExitSignalDate": null,
         "trades": [
           {
-            "status": "OPEN",
+            "status": "CLOSED",
             "signalEntryDate": "2026-09-21",
             "entryDate": "2026-09-22",
             "entryPrice": 1600.0,
+            "exitSignalDate": "2026-11-04",
+            "exitDate": "2026-11-05",
+            "exitPrice": 1375.0,
             "qty": 6240.639041437843,
-            "costBasis": 10000000.0
+            "netReturnPct": -14.319926360459313,
+            "pnlIDR": -1431992.636045931,
+            "equityAfter": 8568007.36395407
           }
         ]
       }
